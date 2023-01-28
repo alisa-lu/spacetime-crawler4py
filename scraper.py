@@ -175,7 +175,7 @@ def is_valid(url):
         if parsed.scheme not in set(["http", "https"]):
             print(str(url), "is_valid: not https or http")
             return False
-        if not re.match(r"ics\.uci\.edu | cs\.uci\.edu | informatics\.uci\.edu | stat\.uci\.edu",
+        if not re.match(r".*\.ics\.uci\.edu\/.*|.*\.cs.uci.edu/\.*|.*\.informatics.uci.edu/\.*|.*\.stat.uci.edu/\.*",
         parsed.netloc):
             print(str(url), "is_valid: not in the domain we want")
             # url does not have one of the domains speciified below:
