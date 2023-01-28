@@ -64,7 +64,7 @@ def computeWordFrequencies(Token:list, url):
     f = open("track_dictionary.txt", "a")
     f.write(str(url))
     f.write('\n')
-    f.write(d)
+    f.write(str(d))
     f.write("\n,,,,,,,,,\n")
 
     # store the global dictionary into a file
@@ -147,7 +147,7 @@ def extract_next_links(url, resp):
 
     # Update file storing the subdomains of ics.uci.edu
     f = open("subdomains.txt", "w")
-    f.write(ics_subdomain_page_frequencies)
+    f.write(str(ics_subdomain_page_frequencies))
     f.close()
 
     # Implementation required.
@@ -165,6 +165,9 @@ def is_valid(url):
     # Decide whether to crawl this url or not. 
     # If you decide to crawl it, return True; otherwise return False.
     # There are already some conditions that return False.
+    if url == '':
+        return False
+
     try:
         parsed = urlparse(url)
         if parsed.scheme not in set(["http", "https"]):
