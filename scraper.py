@@ -1,5 +1,54 @@
 import re
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urldefrag
+from bs4 import BeautifulSoup
+
+def tokenize(text):
+    res = []
+
+    for line in text.split('\n'):
+        alnumword = ''
+        for c in line:
+            # if the character is alphanumeric, we add it to the current word
+            if bool(re.match('^[a-zA-Z0-9]+$', c)):
+                alnumword += c.lower()
+            
+            # if the character isn't alphanumeric, we've reached the end of the current alnum word
+            # so, we will add the word to words_to_add and then reset it so we can collect more words
+            # or, if there is no current alnum word (it's empty), then we keep going
+            else:
+                if alnumword != '':
+                    res.append(alnumword)
+                    alnumword = ''
+        
+        # make sure that we add the alnum word as well
+        if alnumword != '':
+            res.append(alnumword)
+
+    return res
+
+def computeWordFrequencies(Token:list)->dict:
+    d = {}
+    for item in Token:
+        if item not in d.keys():
+            d[item] = 1
+        else:
+            d[item] += 1
+    return d
+
+def print_frequencies(Frequencies:dict)->None:
+    for k, v in sorted(Frequencies.items(), key=lambda x: (-x[1], x[0])):
+        print(k + " -> " + str(v))
+
+def find_intersection(dict1, dict2):
+    intersection = set()
+
+    for key in dict1.keys():
+        if key in dict1.keys() and key in dict2.keys() and dict1[key] >= 1 and dict2[key] >= 1:
+            intersection.add(key)
+            dict1[key] -= 1
+            dict2[key] -= 1
+
+    return len(intersection)
 
 def scraper(url, resp):
     links = extract_next_links(url, resp)
