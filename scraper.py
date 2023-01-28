@@ -117,6 +117,8 @@ def extract_next_links(url, resp):
     extracted_links = soup.find_all('a')
     extracted_links = [urldefrag(link['href']).url for link in extracted_links]
 
+    print('hi',extracted_links)
+
     # Tokenizes the content of the page
     page_text_content = soup.get_text()
     tokens = tokenize(page_text_content)
