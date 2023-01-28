@@ -107,7 +107,7 @@ def extract_next_links(url, resp):
         # if we've already visited the URL, we return an empty list
         return []
 
-    visited_links.add(urldefrag(resp.url))
+    visited_links.add(urldefrag(resp.url)[0])
     unique_links_to_text_file(urldefrag(resp.url)[0])
 
     if resp.status != 200 or resp.raw_response.content == None:
@@ -116,7 +116,7 @@ def extract_next_links(url, resp):
     soup = BeautifulSoup(resp.raw_response.content, 'lxml')
     extracted_links = soup.find_all('a')
     extracted_links = [urldefrag(link['href']).url for link in extracted_links]
-    extracted_links = [urljoin(urldefrag(resp.url), link) if link.startswith('/') else link for link in extracted_links]
+    extracted_links = [urljoin(urldefrag(resp.url)[0], link) if link.startswith('/') else link for link in extracted_links]
 
 
     print('hi',extracted_links)
@@ -145,9 +145,9 @@ def extract_next_links(url, resp):
         # Extract subdomain
         subdomain = (urlparse(resp.url).netloc).split(".")[0]
         if subdomain in ics_subdomain_page_frequencies:
-            ics_subdomain_page_frequencies[subdomain] = set([urldefrag(resp.url)])
+            ics_subdomain_page_frequencies[subdomain] = set([urldefrag(resp.url)[0]])
         else:
-            ics_subdomain_page_frequencies[subdomain].add(urldefrag(resp.url))
+            ics_subdomain_page_frequencies[subdomain].add(urldefrag(resp.url)[0])
 
     # Update file storing the subdomains of ics.uci.edu
     f = open("subdomains.txt", "w")
