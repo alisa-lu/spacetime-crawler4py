@@ -167,15 +167,17 @@ def is_valid(url):
     # Decide whether to crawl this url or not. 
     # If you decide to crawl it, return True; otherwise return False.
     # There are already some conditions that return False.
-    if url == '':
+    if url == '' or url == '\\':
         return False
 
     try:
         parsed = urlparse(url)
         if parsed.scheme not in set(["http", "https"]):
+            print(str(url), "is_valid: not https or http")
             return False
         if not re.match(r"ics\.uci\.edu | cs\.uci\.edu | informatics\.uci\.edu | stat\.uci\.edu",
         parsed.netloc):
+            print(str(url), "is_valid: not in the domain we want")
             # url does not have one of the domains speciified below:
             # *.ics.uci.edu/*
             # *.cs.uci.edu/*
@@ -188,6 +190,9 @@ def is_valid(url):
         # Detect and avoid sets of similar pages with no information
         # Detect and avoid dead URLs that return a 200 status but no data (click here to see what the different HTTP status codes mean Links to an external site.)
         # Detect and avoid crawling very large files, especially if they have low information value
+
+        if re.match(r".*\/pdf.*", parsed.path.lower()):
+            return False
         
         return not re.match(
             r".*\.(css|js|bmp|gif|jpe?g|ico"
