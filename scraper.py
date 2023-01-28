@@ -108,7 +108,7 @@ def extract_next_links(url, resp):
         return []
 
     visited_links.add(urldefrag(resp.url))
-    unique_links_to_text_file(urldefrag(resp.url))
+    unique_links_to_text_file(urldefrag(resp.url)[0])
 
     if resp.status != 200 or resp.raw_response.content == None:
         return []
@@ -122,7 +122,7 @@ def extract_next_links(url, resp):
     tokens = tokenize(page_text_content)
 
     # Adds the tokens to the dictionary storing unique words (part 3 of the report)
-    computeWordFrequencies(tokens, urldefrag(resp.url))
+    computeWordFrequencies(tokens, urldefrag(resp.url)[0])
 
     # Determine the number of words in the page
     page_num_of_words = len(tokens)
