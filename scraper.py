@@ -62,7 +62,7 @@ def computeWordFrequencies(Token:list, url):
     
     # store the url-specific dictionary in a file to keep track
     f = open("track_dictionary.txt", "a")
-    f.write(url)
+    f.write(str(url))
     f.write('\n')
     f.write(d)
     f.write("\n,,,,,,,,,\n")
@@ -91,7 +91,7 @@ def find_intersection(dict1, dict2):
 
 def unique_links_to_text_file(url):
     f = open("links.txt", "a")
-    f.write(url)
+    f.write(str(url))
     f.write("\n,,,,,,,,,\n")
 
 def scraper(url, resp):
@@ -99,6 +99,7 @@ def scraper(url, resp):
     return [link for link in links if is_valid(link)]
 
 def extract_next_links(url, resp):
+    print("calling extract_next_links")
     global max_words_in_a_page
     global page_with_max_words
     global ics_subdomain_page_frequencies
@@ -116,6 +117,7 @@ def extract_next_links(url, resp):
     soup = BeautifulSoup(resp.raw_response.content, 'lxml')
     extracted_links = soup.find_all('a')
     extracted_links = [urldefrag(link['href']).url for link in extracted_links]
+    print("hi", extracted_links)
 
     # Tokenizes the content of the page
     page_text_content = soup.get_text()
