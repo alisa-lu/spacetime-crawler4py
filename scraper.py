@@ -95,6 +95,7 @@ def unique_links_to_text_file(url):
     f.write("\n,,,,,,,,,\n")
 
 def scraper(url, resp):
+    print("calling scraper")
     links = extract_next_links(url, resp)
     return [link for link in links if is_valid(link)]
 
