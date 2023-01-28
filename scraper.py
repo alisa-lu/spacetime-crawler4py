@@ -1,6 +1,6 @@
 from calendar import c
 import re
-from urllib.parse import urlparse, urldefrag
+from urllib.parse import urlparse, urldefrag, urljoin
 from bs4 import BeautifulSoup
 
 # Global variables to produce report
@@ -116,6 +116,8 @@ def extract_next_links(url, resp):
     soup = BeautifulSoup(resp.raw_response.content, 'lxml')
     extracted_links = soup.find_all('a')
     extracted_links = [urldefrag(link['href']).url for link in extracted_links]
+    extracted_links = [urljoin(urldefrag(resp.url), link) if link.startswith('/') else link for link in extracted_links]
+
 
     print('hi',extracted_links)
 
@@ -167,18 +169,22 @@ def is_valid(url):
     # Decide whether to crawl this url or not. 
     # If you decide to crawl it, return True; otherwise return False.
     # There are already some conditions that return False.
-    if url == '' or url == '\\':
+    if url == '':
         return False
 
     try:
+        if url.startswith('/'):
+            url = urljoin(url, )
+
         parsed = urlparse(url)
         if parsed.scheme not in set(["http", "https"]):
             print(str(url), "is_valid: not https or http")
             return False
-        if not re.match(r".*\.ics\.uci\.edu\/.*|.*\.cs.uci.edu/\.*|.*\.informatics.uci.edu/\.*|.*\.stat.uci.edu/\.*",
+
+        # r".*\.ics\.uci\.edu\/.*|.*\.cs.uci.edu/\.*|.*\.informatics.uci.edu/\.*|.*\.stat.uci.edu/\.*"
+        if not re.match(r"www\.ics\.uci\.edu | cs\.uci\.edu | informatics\.uci\.edu | stat\.uci\.edu",
         parsed.netloc):
-            print(parsed.netloc)
-            print(str(url), "is_valid: not in the domain we want")
+            print(str(url), parsed.netloc, "is_valid: not in the domain we want")
             # url does not have one of the domains speciified below:
             # *.ics.uci.edu/*
             # *.cs.uci.edu/*
