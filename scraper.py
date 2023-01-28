@@ -177,6 +177,7 @@ def is_valid(url):
             return False
         if not re.match(r".*\.ics\.uci\.edu\/.*|.*\.cs.uci.edu/\.*|.*\.informatics.uci.edu/\.*|.*\.stat.uci.edu/\.*",
         parsed.netloc):
+            print(parsed.netloc)
             print(str(url), "is_valid: not in the domain we want")
             # url does not have one of the domains speciified below:
             # *.ics.uci.edu/*
