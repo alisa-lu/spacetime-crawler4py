@@ -156,7 +156,7 @@ def ics_subdomains(resp):
     # Update file storing the subdomains of ics.uci.edu
     f = open("subdomains.txt", "w")
     for k, v in sorted(ics_subdomain_page_frequencies.items()):
-        f.write(k + " -> " + str(v)+"\nThis subdomain has "+len(v)+" unique pages.")
+        f.write(k + " -> " + str(v)+"\nThis subdomain has "+str(len(v))+" unique pages.")
         f.write('\n')
     f.close()
 
