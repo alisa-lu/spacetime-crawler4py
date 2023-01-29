@@ -107,28 +107,29 @@ def extract_next_links(url, resp):
         # if we've already visited the URL, we return an empty list
         return []
 
-    visited_links.add(urldefrag(resp.url)[0])
-    unique_links_to_text_file(urldefrag(resp.url)[0])
+    visited_links.add(urldefrag(resp.url).url)
+    unique_links_to_text_file(urldefrag(resp.url).url)
 
     if resp.status != 200 or resp.raw_response.content == None:
         return []
 
     soup = BeautifulSoup(resp.raw_response.content, 'lxml')
-    extracted_links = soup.find_all('a')
-    print(url)
-    for link in extracted_links:
-        print(link)
+    extracted_links = []
+    
+    discovered_a_tags = soup.find_all('a')
+    for tag in discovered_a_tags:
         try:
-            print(link['href'])
-        except:
-            print(url)
-            exit()
-        print('\n')
-
-    extracted_links = [urldefrag(link['href']).url for link in extracted_links]
-    #TODO: change this
-    extracted_links = [urljoin(urldefrag(resp.url)[0], link) if link.startswith('/') else link for link in extracted_links]
-
+            link = urldefrag(tag['href']).url
+            if link.startswith('/'):
+                print("this is a relative url", link)
+                print("base url: ", urldefrag(resp.url).url)
+                link = urljoin(urldefrag(resp.url).url, link)
+                print("we found the absolute url", link)
+                print('\n')
+            extracted_links.append(link)
+        except KeyError:
+            # if the a tag doesn't have an href
+            pass
 
     # print('hi',extracted_links)
 
@@ -137,7 +138,7 @@ def extract_next_links(url, resp):
     tokens = tokenize(page_text_content)
 
     # Adds the tokens to the dictionary storing unique words (part 3 of the report)
-    computeWordFrequencies(tokens, urldefrag(resp.url)[0])
+    computeWordFrequencies(tokens, urldefrag(resp.url).url)
 
     # Determine the number of words in the page
     page_num_of_words = len(tokens)
