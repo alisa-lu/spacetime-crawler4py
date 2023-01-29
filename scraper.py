@@ -115,6 +115,7 @@ def extract_next_links(url, resp):
 
     soup = BeautifulSoup(resp.raw_response.content, 'lxml')
     extracted_links = soup.find_all('a')
+    print(url)
     for link in extracted_links:
         print(link)
         print(link['href'])
