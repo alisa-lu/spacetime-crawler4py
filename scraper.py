@@ -8,14 +8,15 @@ visited_links = set()
 max_words_in_a_page = 0
 page_with_max_words = ""
 unique_word_frequencies = {} # key: unique word -> value: word frequency across all pages found
-ics_subdomain_page_frequencies = {} # key: subdomain -> value: set of unique pages in the subdomain
+ics_subdomain_page_frequencies = {} # key: subdomain url -> value: set of unique pages in the subdomain
 
 
-def tokenize(text):
+def tokenize(text:str) -> list:
     """
-    tokenizes the text into a list of tokens
+    Tokenizes the given text into a list of **non-unique** tokens.
+    This is copy pasted from Alisa's assignment 1.
     """
-    res = []
+    tokens = []
 
     for line in text.split('\n'):
         alnumword = ''
@@ -32,117 +33,102 @@ def tokenize(text):
                     res.append(alnumword)
                     alnumword = ''
         
-        # make sure that we add the alnum word as well
+        # after we've processed all the characters in the line, make sure that we add any remaining word stored in alnumword
+        # for when the last char in a line is alphanumeric and the above else statement is not executed
         if alnumword != '':
-            res.append(alnumword)
+            tokens.append(alnumword)
 
-    return res
+    return tokens
 
-def computeWordFrequencies(Token:list, url):
+def remove_stop_words(tokens: list) -> list:
     """
-    This function takes a list of tokens and adds it into the global dictionary storing token frequencies.
-    It also writes into a file that tracks all the token dictionaries for reference.
+    Return list of tokens excluding stop words.
+    """
+    stop_words = {'ours', 'd', 'hasn', 'don', 'being', 'who', 'wouldn', 'a',
+    'would', 'was', 'i', 'having', 'above', 'm', 'against', 'to', 'doing',
+    'his', 'for', 'if', 'our', 'been', 'an', 'such', 'between', 'in', 'out',
+    'should', 'haven', 'own', 'some', 'few', 'and', 'how', 'himself', 'up', 'under',
+    'me', 'were', 'after', 'over', 'at', 'is', 'could', 'wasn', 'before',
+    'themselves', 'be', 'itself', 'most', 'all', 'hers', 'yourselves', 'can',
+    'these', 'they', 't', 'it', 'had', 'them', 'do', 'here', 'cannot', 'of',
+    'you', 'because', 'mustn', 're', 'same', 'didn', 'from', 'more', 'your',
+    'once', 'ought', 'yourself', 'hadn', 's', 'there', 'only', 'my', 'does',
+    'ourselves', 'this', 'about', 'both', 'what', 'has', 'off', 'he', 'myself',
+    'theirs', 'the', 'through', 'have', 'where', 'other', 'not', 'why', 'with',
+    'won', 'as', 'below', 'll', 'any', 'whom', 'each', 'him', 'nor', 'we', 'did',
+    'or', 'shouldn', 'herself', 'until', 'yours', 'she', 'that', 'are', 'those',
+    'into', 'shan', 'during', 'too', 'than', 'further', 'when', 'no', 'by', 'then',
+    'again', 'aren', 'down', 'her', 'which', 'let', 'on', 'am', 'but', 'isn',
+    'doesn', 've', 'while', 'so', 'their', 'its', 'weren', 'couldn', 'very'}
+    
+    return [token for token in tokens if token not in stop_words]
+
+
+def computeWordFrequencies(tokens: list, url) -> dict:
+    """
+    Takes a list of tokens and adds it into the global dictionary storing token frequencies.
+    It also writes into a file that tracks all the token dictionaries for individual URLs for reference.
+    Returns the dictionary containing the token dictionaries of the URL.
     """
     global unique_word_frequencies
-    stop_words = {'ours', 'd', 'hasn', 'don', 'being', 'who', 'wouldn', 'a', 'would', 'was', 'i', 'having', 'above', 'm', 'against', 'to', 'doing', 'his', 'for', 'if', 'our', 'been', 'an', 'such', 'between', 'in', 'out', 'should', 'haven', 'own', 'some', 'few', 'and', 'how', 'himself', 'up', 'under', 'me', 'were', 'after', 'over', 'at', 'is', 'could', 'wasn', 'before', 'themselves', 'be', 'itself', 'most', 'all', 'hers', 'yourselves', 'can', 'these', 'they', 't', 'it', 'had', 'them', 'do', 'here', 'cannot', 'of', 'you', 'because', 'mustn', 're', 'same', 'didn', 'from', 'more', 'your', 'once', 'ought', 'yourself', 'hadn', 's', 'there', 'only', 'my', 'does', 'ourselves', 'this', 'about', 'both', 'what', 'has', 'off', 'he', 'myself', 'theirs', 'the', 'through', 'have', 'where', 'other', 'not', 'why', 'with', 'won', 'as', 'below', 'll', 'any', 'whom', 'each', 'him', 'nor', 'we', 'did', 'or', 'shouldn', 'herself', 'until', 'yours', 'she', 'that', 'are', 'those', 'into', 'shan', 'during', 'too', 'than', 'further', 'when', 'no', 'by', 'then', 'again', 'aren', 'down', 'her', 'which', 'let', 'on', 'am', 'but', 'isn', 'doesn', 've', 'while', 'so', 'their', 'its', 'weren', 'couldn', 'very'}
-    d = {} # stores the tokens for this url
-    for item in Token:
-        if item not in stop_words:
-            # add item to unique_word_frequencies
-            if item not in unique_word_frequencies.keys():
-                unique_word_frequencies[item] = 1
-            else:
-                unique_word_frequencies[item] += 1
+    tokens = remove_stop_words(tokens)
 
-            #add item to dictionary storing just this value
-            if item not in d.keys():
-                d[item] = 1
-            else:
-                d[item] += 1
-    
-    # store the url-specific dictionary in a file to keep track
+    word_freq = {} # stores the frequencies of tokens found in this url in a local dict
+    for item in tokens:
+        # add item to unique_word_frequencies
+        if item not in unique_word_frequencies:
+            unique_word_frequencies[item] = 1
+        else:
+            unique_word_frequencies[item] += 1
+
+        # add item to dictionary storing just this value
+        if item not in word_freq:
+            word_freq[item] = 1
+        else:
+            word_freq[item] += 1
+
+    return word_freq
+
+def write_url_word_frequencies_to_file(word_freq: dict, url: str) -> None:
+    """ 
+    Stores the url-specific dictionary in a file to keep track
+    """
     f = open("track_dictionary.txt", "a")
     f.write(str(url))
     f.write('\n')
-    f.write(str(d))
-    f.write("\n,,,,,,,,,\n")
+    for k, v in sorted(word_freq.items(), key=lambda x: (-x[1], x[0])):
+        f.write(k + " -> " + str(v))
+        f.write('\n')
+    f.write("<-------------->\n") # separator for the file for different URLs
+    f.close()
 
-    # store the global dictionary into a file
-    write_frequencies_to_file(unique_word_frequencies)
-
-def write_frequencies_to_file(Frequencies:dict)->None:
+def write_global_word_frequencies_to_file(Frequencies: dict) -> None:
     """
-    This function stores the global dictionary in a file.
+    Stores the global dictionary of token frequencies across all pages found in a file.
     """
     f = open("unique_word_frequencies.txt", "w")
     for k, v in sorted(Frequencies.items(), key=lambda x: (-x[1], x[0])):
         f.write(k + " -> " + str(v))
+        f.write('\n')
+    f.close()
 
-def find_intersection(dict1, dict2):
-    intersection = set()
-
-    for key in dict1.keys():
-        if key in dict1.keys() and key in dict2.keys() and dict1[key] >= 1 and dict2[key] >= 1:
-            intersection.add(key)
-            dict1[key] -= 1
-            dict2[key] -= 1
-
-    return len(intersection)
-
-def unique_links_to_text_file(url):
+def unique_links_to_text_file(url: str) -> None:
+    """
+    Stores the current url in a file to keep track of all unique links found.
+    """
     f = open("links.txt", "a")
     f.write(str(url))
-    f.write("\n,,,,,,,,,\n")
+    f.write("\n<-------------->\n")
+    f.close()
 
-def scraper(url, resp):
-    links = extract_next_links(url, resp)
-    return [link for link in links if is_valid(link)]
-
-def extract_next_links(url, resp):
+def max_words(tokens:list, resp):
     global max_words_in_a_page
     global page_with_max_words
-    global ics_subdomain_page_frequencies
 
-    if url in visited_links or resp.url in visited_links:
-        # if we've already visited the URL, we return an empty list
-        return []
-
-    visited_links.add(urldefrag(resp.url).url)
-    unique_links_to_text_file(urldefrag(resp.url).url)
-
-    if resp.status != 200 or resp.raw_response.content == None:
-        return []
-
-    soup = BeautifulSoup(resp.raw_response.content, 'lxml')
-    extracted_links = []
-    
-    discovered_a_tags = soup.find_all('a')
-    for tag in discovered_a_tags:
-        try:
-            link = urldefrag(tag['href']).url
-            if link.startswith('/'):
-                print("this is a relative url", link)
-                print("base url: ", urldefrag(resp.url).url)
-                link = urljoin(urldefrag(resp.url).url, link)
-                print("we found the absolute url", link)
-                print('\n')
-            extracted_links.append(link)
-        except KeyError:
-            # if the a tag doesn't have an href
-            pass
-
-    # print('hi',extracted_links)
-
-    # Tokenizes the content of the page
-    page_text_content = soup.get_text()
-    tokens = tokenize(page_text_content)
-
-    # Adds the tokens to the dictionary storing unique words (part 3 of the report)
-    computeWordFrequencies(tokens, urldefrag(resp.url).url)
-
-    # Determine the number of words in the page
+    # Determine the number of words in the page    
     page_num_of_words = len(tokens)
 
+    # Checks if this is greater than the currently stored longest page
     if page_num_of_words > max_words_in_a_page:
         max_words_in_a_page = page_num_of_words
         page_with_max_words = urldefrag(resp.url)
@@ -151,21 +137,40 @@ def extract_next_links(url, resp):
     f = open("longest_page.txt", "w")
     f.write(f"Longest page: {page_with_max_words}\nNumber of words in page: {max_words_in_a_page}\n")
     f.close()
-    
+
+def ics_subdomains(resp):
+    global ics_subdomain_page_frequencies
+
     # Determine if page is in a subdomain of ics.uci.edu
-    if (re.match(r"ics\.uci\.edu", urlparse(resp.url).netloc) != None):
+    if (re.match(r".*\.ics\.uci\.edu", urlparse(resp.url).netloc) != None):
         # Extract subdomain
-        subdomain = (urlparse(resp.url).netloc).split(".")[0]
-        if subdomain in ics_subdomain_page_frequencies:
-            ics_subdomain_page_frequencies[subdomain] = set([urldefrag(resp.url)[0]])
+        # subdomain = (urlparse(resp.url).netloc).split(".")[0] # change this
+        subdomain_url = urlparse(resp.url).netloc
+        
+        # Add subdomain url key to dict with value being a set of its pages
+        if subdomain_url in ics_subdomain_page_frequencies:
+            ics_subdomain_page_frequencies[subdomain_url] = set([urldefrag(resp.url).url])
         else:
-            ics_subdomain_page_frequencies[subdomain].add(urldefrag(resp.url)[0])
+            ics_subdomain_page_frequencies[subdomain_url].add(urldefrag(resp.url).url)
 
     # Update file storing the subdomains of ics.uci.edu
     f = open("subdomains.txt", "w")
-    f.write(str(ics_subdomain_page_frequencies))
+    for k, v in sorted(ics_subdomain_page_frequencies.items(), key=lambda x: (-x[1], x[0])):
+        f.write(k + " -> " + str(v)+"\nThis subdomain has "+len(v)+" unique pages.")
+        f.write('\n')
     f.close()
 
+def scraper(url, resp) -> list:
+    """
+    Return a list of **valid** links found in the current url.
+    """
+    links = extract_next_links(url, resp)
+    return [link for link in links if is_valid(link)]
+
+def extract_next_links(url, resp) -> list:
+    """
+    Returns list of links found in the current url.
+    """
     # Implementation required.
     # url: the URL that was used to get the page
     # resp.url: the actual url of the page
@@ -175,30 +180,78 @@ def extract_next_links(url, resp):
     #         resp.raw_response.url: the url, again
     #         resp.raw_response.content: the content of the page!
     # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
+
+    global unique_word_frequencies
+    global visited_links
+
+    # If we've already visited the URL, return an empty list
+    if url in visited_links or resp.url in visited_links or urldefrag(resp.url).url in visited_links:
+        return []
+
+    # Add current link to global visited_links set and write it to record file (saves unique links, part 1 of report)
+    visited_links.add(urldefrag(resp.url).url)
+    unique_links_to_text_file(urldefrag(resp.url).url)
+
+    # If there is an error or no content at the current link, return empty list
+    if resp.status != 200 or resp.raw_response.content == None or resp.raw_response.content == "":
+        return []
+
+    # Get the anchor tags found in the content of the current link
+    soup = BeautifulSoup(resp.raw_response.content, 'lxml')
+    discovered_a_tags = soup.find_all('a')
+    extracted_links = []
+
+    for tag in discovered_a_tags:
+        try:
+            # Append the href links found in the anchor tags to extracted links list
+            link = urldefrag(tag['href']).url
+            if link.startswith('/'):
+                # print("this is a relative url", link)
+                # print("base url: ", urldefrag(resp.url).url)
+                link = urljoin(urldefrag(resp.url).url, link)
+                # print("we found the absolute url", link)
+                # print('\n')
+            extracted_links.append(link)
+        except KeyError:
+            # If the a tag doesn't have an href, continue
+            pass
+
+    # Tokenizes the content of the page
+    page_text_content = soup.get_text()
+    tokens = tokenize(page_text_content)
+
+    # Adds the tokens to the dictionary storing unique words (part 3 of the report)
+    url_token_dict = computeWordFrequencies(tokens, urldefrag(resp.url).url)
+    write_url_word_frequencies_to_file(url_token_dict)
+    write_global_word_frequencies_to_file(unique_word_frequencies)
+
+    # Calculates if this page contains the max # of words in a page or not (part 2 of the report)
+    max_words(tokens, resp)
+    
+    # Calculates if this page is an subdomain of ICS, and if so, updates the file and global dictionary (part 4 of the report)
+    ics_subdomains(resp)
+
     return extracted_links
 
 def is_valid(url):
     # Decide whether to crawl this url or not. 
     # If you decide to crawl it, return True; otherwise return False.
     # There are already some conditions that return False.
+
+    # we do not want any empty URLs to be crawled.
     if url == '':
         return False
 
     try:
-        if url.startswith('/'):
-            url = urljoin(url, )
-
         parsed = urlparse(url)
         if parsed.scheme not in set(["http", "https"]):
             # print(str(url), "is_valid: not https or http")
             return False
 
-        # r".*\.ics\.uci\.edu\/.*|.*\.cs.uci.edu/\.*|.*\.informatics.uci.edu/\.*|.*\.stat.uci.edu/\.*"
-        # r"(.*\.ics\.uci\.edu)|(.*\.cs\.uci\.edu)|(.*\.informatics.uci.edu)|(.*\.stat.uci.edu)"
         if not re.match(r"(.*\.ics\.uci\.edu)|(.*\.cs\.uci\.edu)|(.*\.informatics.uci.edu)|(.*\.stat.uci.edu)",
         parsed.netloc):
             # print(str(url), parsed.netloc, "is_valid: not in the domain we want")
-            # url does not have one of the domains speciified below:
+            # url does not have one of the domains specified below:
             # *.ics.uci.edu/*
             # *.cs.uci.edu/*
             # *.informatics.uci.edu/*
@@ -208,10 +261,10 @@ def is_valid(url):
         #TODO: reject low information pages
         # Detect and avoid infinite traps
         # Detect and avoid sets of similar pages with no information
-        # Detect and avoid dead URLs that return a 200 status but no data (click here to see what the different HTTP status codes mean Links to an external site.)
         # Detect and avoid crawling very large files, especially if they have low information value
 
         if re.match(r".*\/pdf.*", parsed.path.lower()):
+            # we do not want to crawl PDFs
             return False
         
         return not re.match(
