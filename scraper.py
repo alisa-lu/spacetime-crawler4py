@@ -116,6 +116,7 @@ def extract_next_links(url, resp):
     soup = BeautifulSoup(resp.raw_response.content, 'lxml')
     extracted_links = soup.find_all('a')
     extracted_links = [urldefrag(link['href']).url for link in extracted_links]
+    #TODO: change this
     extracted_links = [urljoin(urldefrag(resp.url)[0], link) if link.startswith('/') else link for link in extracted_links]
 
 
