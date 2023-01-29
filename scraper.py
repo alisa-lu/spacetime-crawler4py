@@ -118,7 +118,11 @@ def extract_next_links(url, resp):
     print(url)
     for link in extracted_links:
         print(link)
-        print(link['href'])
+        try:
+            print(link['href'])
+        except:
+            print(url)
+            exit()
         print('\n')
 
     extracted_links = [urldefrag(link['href']).url for link in extracted_links]
