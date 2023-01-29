@@ -148,7 +148,7 @@ def ics_subdomains(resp):
         subdomain_url = urlparse(resp.url).netloc
         
         # Add subdomain url key to dict with value being a set of its pages
-        if subdomain_url in ics_subdomain_page_frequencies:
+        if subdomain_url not in ics_subdomain_page_frequencies:
             ics_subdomain_page_frequencies[subdomain_url] = set([urldefrag(resp.url).url])
         else:
             ics_subdomain_page_frequencies[subdomain_url].add(urldefrag(resp.url).url)
