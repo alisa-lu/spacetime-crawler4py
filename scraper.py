@@ -30,7 +30,7 @@ def tokenize(text:str) -> list:
             # or, if there is no current alnum word (it's empty), then we keep going
             else:
                 if alnumword != '':
-                    res.append(alnumword)
+                    tokens.append(alnumword)
                     alnumword = ''
         
         # after we've processed all the characters in the line, make sure that we add any remaining word stored in alnumword
