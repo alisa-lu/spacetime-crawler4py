@@ -107,6 +107,8 @@ def write_global_word_frequencies_to_file(Frequencies: dict) -> None:
     Stores the global dictionary of token frequencies across all pages found in a file.
     """
     f = open("unique_word_frequencies.txt", "w")
+    f.write("we found "+str(len(visited_links))+" URLs")
+    f.write('\n')
     for k, v in sorted(Frequencies.items(), key=lambda x: (-x[1], x[0])):
         f.write(k + " -> " + str(v))
         f.write('\n')
