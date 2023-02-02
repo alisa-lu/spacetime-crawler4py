@@ -118,7 +118,7 @@ def write_global_word_frequencies_to_file(Frequencies: dict) -> None:
         f.write('\n')
     f.close()
 
-def unique_links_to_text_file(url: str) -> None:
+def write_unique_links_to_text_file(url: str) -> None:
     """
     Stores the current url in a file to keep track of all unique links found.
     """
@@ -189,14 +189,15 @@ def extract_next_links(url, resp) -> list:
 
     global unique_word_frequencies
     global visited_links
+    global content_of_five_most_recent_pages
 
     # If we've already visited the URL, return an empty list
     if url in visited_links or resp.url in visited_links or urldefrag(resp.url).url in visited_links:
         return []
 
-    # Add current link to global visited_links set and write it to record file (saves unique links, part 1 of report)
+    # adds link to global visited_links set
     visited_links.add(urldefrag(resp.url).url)
-    unique_links_to_text_file(urldefrag(resp.url).url)
+    write_unique_links_to_text_file(urldefrag(resp.url).url)
 
     # If there is an error or no content at the current link, return empty list
     if resp.status != 200 or resp.raw_response.content == None or resp.raw_response.content == "":
@@ -217,9 +218,12 @@ def extract_next_links(url, resp) -> list:
                 link = urljoin(urldefrag(resp.url).url, link)
                 # print("we found the absolute url", link)
                 # print('\n')
+
+            # if the link is a swiki link, we do not want to find the queries
             if link.startswith('https://swiki.ics.uci.edu'):
                 link = urljoin(link, urlparse(link).path)
             extracted_links.append(link)
+            
         except KeyError:
             # If the a tag doesn't have an href, continue
             pass
@@ -228,7 +232,24 @@ def extract_next_links(url, resp) -> list:
     page_text_content = soup.get_text()
     tokens = tokenize(page_text_content)
 
-    # Add 
+    # Compare tokenized page to 5 most recently crawled pages, removes page if it is an exact or near match of a previous chained page
+    if len(content_of_five_most_recent_pages) > 0:
+        for page_tokens in content_of_five_most_recent_pages:
+            if tokens == page_tokens:
+                # Current page is an exact match to a previously crawled page;
+                # skip crawling this page
+                return []
+
+            elif (len(set(tokens).intersection(set(page_tokens))) / len(set(tokens))) >= 0.95\
+                and (len(set(tokens).intersection(set(page_tokens))) / len(set(page_tokens))) >= 0.95:
+                # Current page is a near match to a previously crawled page
+                # skip crawling this page
+                return []
+            
+    # Add tokens of current page to content_of_five_most_recent_pages
+    if len(content_of_five_most_recent_pages) == 5:
+        content_of_five_most_recent_pages.pop(0)
+    content_of_five_most_recent_pages.append(tokens)
 
     # Adds the tokens to the dictionary storing unique words (part 3 of the report)
     url_token_dict = computeWordFrequencies(tokens, urldefrag(resp.url).url)
