@@ -1,2 +1,2 @@
-Longest page: DefragResult(url='https://mse.ics.uci.edu/faq', fragment='')
-Number of words in page: 2471
+Longest page: DefragResult(url='https://iasl.ics.uci.edu/publications', fragment='')
+Number of words in page: 5096
