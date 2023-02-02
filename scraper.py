@@ -220,7 +220,7 @@ def extract_next_links(url, resp) -> list:
                 # print('\n')
 
             # if the link is a swiki link, we do not want to find the queries
-            if link.startswith('https://swiki.ics.uci.edu'):
+            if link.startswith('https://swiki.ics.uci.edu') or link.startswith('https://wiki.ics.uci.edu'):
                 link = urljoin(link, urlparse(link).path)
             extracted_links.append(link)
             
