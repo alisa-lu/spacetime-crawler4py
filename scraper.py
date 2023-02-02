@@ -10,6 +10,10 @@ page_with_max_words = ""
 unique_word_frequencies = {} # key: unique word -> value: word frequency across all pages found
 ics_subdomain_page_frequencies = {} # key: subdomain url -> value: set of unique pages in the subdomain
 
+content_of_five_most_recent_pages = []
+# the ith item in the list is a list of non-stop word tokens
+# found in (i + 1)th most recent page crawled
+
 
 def tokenize(text:str) -> list:
     """
@@ -213,6 +217,8 @@ def extract_next_links(url, resp) -> list:
                 link = urljoin(urldefrag(resp.url).url, link)
                 # print("we found the absolute url", link)
                 # print('\n')
+            if link.startswith('https://swiki.ics.uci.edu'):
+                link = urljoin(link, urlparse(link).path)
             extracted_links.append(link)
         except KeyError:
             # If the a tag doesn't have an href, continue
@@ -221,6 +227,8 @@ def extract_next_links(url, resp) -> list:
     # Tokenizes the content of the page
     page_text_content = soup.get_text()
     tokens = tokenize(page_text_content)
+
+    # Add 
 
     # Adds the tokens to the dictionary storing unique words (part 3 of the report)
     url_token_dict = computeWordFrequencies(tokens, urldefrag(resp.url).url)
