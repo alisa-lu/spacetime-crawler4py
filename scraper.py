@@ -98,7 +98,7 @@ def write_url_word_frequencies_to_file(word_freq: dict, url: str) -> None:
     Stores the url-specific dictionary in a file to keep track
     """
     f = open("track_dictionary.txt", "a")
-    f.write(str(url) + " -> "+len(word_freq))
+    f.write(str(url) + " -> "+str(len(word_freq)))
     f.write("\n<-------------->\n") # separator for the file for different URLs
     f.close()
 
