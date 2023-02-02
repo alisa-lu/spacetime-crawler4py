@@ -299,7 +299,7 @@ def is_valid(url):
             return False
 
         # if it is a calendar site, it is low information.
-        if re.search('?ical', url):
+        if re.search("\?ical", url):
             return False
         
         return not re.match(
