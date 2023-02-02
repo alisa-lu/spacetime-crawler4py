@@ -302,6 +302,10 @@ def is_valid(url):
         if re.search("\?ical", url):
             return False
         
+        # we don't want to crawl elms.ics.uci.edu because they are all low information and barred by a login.
+        if url.startswith("http://elms.ics.uci.edu"):
+            return False
+        
         return not re.match(
             r".*\.(css|js|bmp|gif|jpe?g|ico"
             + r"|png|tiff?|mid|mp2|mp3|mp4"
