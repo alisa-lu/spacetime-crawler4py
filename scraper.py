@@ -228,12 +228,6 @@ def extract_next_links(url, resp) -> list:
     page_text_content = soup.get_text()
     tokens = tokenize(page_text_content)
 
-    if 'b' in tokens:
-        f = open("bs.txt", "a")
-        f.write(str(url))
-        f.write("\n<-------------->\n")
-        f.close()
-
     # Compare tokenized page to 5 most recently crawled pages, removes page if it is an exact or near match of a previous chained page
     if len(content_of_five_most_recent_pages) > 0:
         for page_tokens in content_of_five_most_recent_pages:
@@ -293,7 +287,6 @@ def is_valid(url):
             return False
 
         #TODO: reject low information pages
-        # Detect and avoid sets of similar pages with no information
         # Detect and avoid crawling very large files, especially if they have low information value
 
         if re.match(r".*\/pdf.*", parsed.path.lower()):
