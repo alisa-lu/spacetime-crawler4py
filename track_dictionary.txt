@@ -19956,3 +19956,2319 @@ https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?action=dif
 <-------------->
 https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?action=diff&version=13 -> 190
 <-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?action=diff&version=12 -> 90
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?action=diff&version=11 -> 104
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?version=10 -> 308
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?action=diff&version=10 -> 98
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?action=diff&version=9 -> 132
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?action=diff&version=8 -> 79
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?action=history -> 43
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?version=1 -> 231
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?action=diff&version=1 -> 339
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?action=diff&version=2 -> 77
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?version=5 -> 304
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?action=diff&version=5 -> 261
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?action=diff&version=6 -> 89
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project4?action=diff&version=4 -> 94
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3 -> 369
+<-------------->
+https://grape.ics.uci.edu/wiki/public/zip-attachment/wiki/cs221-2019-spring-project3 -> 7
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs221-2019-spring-project3/Team8StressTest.txt -> 17
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs221-2019-spring-project3/Team8StressTest.txt -> 251
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs221-2019-spring-project3/Team9PositionalStressTest.txt -> 260
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs221-2019-spring-project3/Team9PositionalStressTest.txt -> 353
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs221-2019-spring-project3/Team10PositionalStressTest.txt -> 49
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=20 -> 107
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?version=20 -> 370
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=19 -> 118
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=18 -> 173
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=17 -> 88
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=16 -> 176
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=15 -> 112
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?version=14 -> 331
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=14 -> 158
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=13 -> 123
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=12 -> 86
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=11 -> 100
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=10 -> 86
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?version=9 -> 294
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=9 -> 266
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=8 -> 120
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=7 -> 161
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=6 -> 96
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=5 -> 116
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?version=4 -> 297
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?version=3 -> 198
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?version=3&format=txt -> 150
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=3 -> 84
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=2 -> 386
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?version=1 -> 272
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=1 -> 395
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?version=2 -> 198
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?version=2&format=txt -> 150
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=diff&version=4 -> 401
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project3?action=history -> 48
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2 -> 353
+<-------------->
+https://grape.ics.uci.edu/wiki/public/zip-attachment/wiki/cs221-2019-spring-project2 -> 0
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs221-2019-spring-project2/Team3StressTest.txt -> 549
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs221-2019-spring-project2/Team2StressTest.txt -> 6481
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs221-2019-spring-project2/Team2StressTest.txt -> 48
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=21 -> 95
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?version=21 -> 354
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=20 -> 119
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=19 -> 164
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=18 -> 141
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=17 -> 115
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=16 -> 109
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?version=15 -> 351
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=15 -> 86
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=14 -> 130
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=13 -> 79
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=12 -> 92
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=11 -> 85
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?version=10 -> 350
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=10 -> 105
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=9 -> 151
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=8 -> 96
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=7 -> 80
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=6 -> 105
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?version=5 -> 312
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=5 -> 106
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=4 -> 624
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?version=3 -> 309
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=3 -> 94
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=2 -> 356
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=diff&version=1 -> 391
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring-project2?action=history -> 50
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=history -> 151
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?version=1 -> 67
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?version=1&format=txt -> 50
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=1 -> 108
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?version=3 -> 413
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=3 -> 486
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=4 -> 315
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=5 -> 100
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=6 -> 180
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=7 -> 124
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=8 -> 95
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=9 -> 92
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=10 -> 90
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=11 -> 140
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=12 -> 121
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?version=4 -> 306
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?version=11 -> 327
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?version=19 -> 380
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=19 -> 88
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=20 -> 90
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=21 -> 108
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=22 -> 77
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=18 -> 72
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=17 -> 130
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=16 -> 191
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=15 -> 142
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?version=20 -> 381
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?version=52 -> 423
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=52 -> 123
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=51 -> 106
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?version=89 -> 488
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=89 -> 122
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=90 -> 137
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=88 -> 111
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs221-2019-spring?action=diff&version=87 -> 135
+<-------------->
+https://chenli.ics.uci.edu/student -> 320
+<-------------->
+https://chenli.ics.uci.edu/teaching -> 316
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2021-spring -> 917
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs122d-2021-spring/CS122D-Lecture17-PandasDataFrameDemo.ipynb -> 276
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/attachment/wiki/cs122d-2021-spring/CS122D-Lecture17-PandasDataFrameDemo.ipynb -> 3973
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs122d-2021-spring/hw6_template.ipynb -> 213
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs122d-2021-spring/CS122D-Lecture17-SparkDataFrameDemoNotebook.ipynb -> 892
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs122d-2021-spring/CS122D-Lecture17-SparkDataFrameDemoNotebook.html -> 4
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/attachment/wiki/cs122d-2021-spring/CS122D-Lecture17-SparkDataFrameDemoNotebook.html -> 52
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs122d-2021-spring/CS122D-Lecture16-SparkSQLDemoNotebook.ipynb -> 759
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs122d-2021-spring/CS122D-Lecture16-SparkSQLDemoNotebook.html -> 2
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs122d-2021-spring/HW3-solution.ipynb -> 443
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs122d-2021-spring/CS122D-Lectures9-10-Mongo-Examples.ipynb -> 338
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/attachment/wiki/cs122d-2021-spring/CS122D-Lectures9-10-Mongo-Examples.ipynb -> 1317
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs122d-2021-spring/template.sql -> 22
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/attachment/wiki/cs122d-2021-spring/template.sql -> 77
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs122d-2021-spring/HoofersDB.txt -> 84
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/attachment/wiki/cs122d-2021-spring/HoofersDB.txt -> 158
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2021-spring?action=diff&version=131 -> 124
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2021-spring?version=131 -> 918
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/attachment/wiki/cs122d-2021-spring/hw6_template.ipynb -> 274
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/attachment/wiki/cs122d-2021-spring/HW3-solution.ipynb -> 1112
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2021-spring?action=history -> 160
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2021-spring?version=1 -> 831
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/attachment/wiki/cs190-2020-winter/assignment6-solution.ipynb -> 191
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs190-2020-winter/assignment6-solution.ipynb -> 160
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/attachment/wiki/cs190-2020-winter/HW3-solution.ipynb -> 393
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs190-2020-winter/HW3-solution.ipynb -> 143
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2021-spring?version=79 -> 887
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2021-spring?action=diff&version=79 -> 218
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2021-spring?action=diff&version=80 -> 151
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2021-spring?action=diff&version=81 -> 282
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2021-spring?action=diff&version=82 -> 222
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2021-spring?action=diff&version=83 -> 132
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2021-spring?action=diff&version=78 -> 150
+<-------------->
+https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2021-spring?version=80 -> 889
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall -> 840
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall?action=diff&version=98 -> 93
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs222p-2017-fall/setup-mysql.txt -> 93
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs222p-2017-fall/setup-mysql.txt -> 148
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project4 -> 665
+<-------------->
+https://grape.ics.uci.edu/wiki/public/zip-attachment/wiki/cs222p-2017-fall-project4 -> 0
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project4?action=diff&version=1 -> 1058
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project4-grading -> 110
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project4-grading?format=txt -> 84
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project4-grading?action=diff&version=1 -> 164
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project4-grading?action=history -> 32
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs222p-2017-fall-project4/test.sh -> 52
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs222p-2017-fall-project4/test.sh -> 101
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-command-line-interface -> 296
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-command-line-interface?action=diff&version=1 -> 485
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project3 -> 686
+<-------------->
+https://grape.ics.uci.edu/wiki/public/zip-attachment/wiki/cs222p-2017-fall-project3 -> 0
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs222p-2017-fall-project3/tree3.svg -> 49
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project3?action=diff&version=2 -> 169
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project3?action=diff&version=1 -> 910
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs222p-2017-fall-project3/test.sh -> 47
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs222p-2017-fall-project3/test.sh -> 105
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs222p-2017-fall-project3/tree3.svg -> 38
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project3?action=history -> 32
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2 -> 527
+<-------------->
+https://grape.ics.uci.edu/wiki/public/zip-attachment/wiki/cs222p-2017-fall-project2 -> 17
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2?action=diff&version=5 -> 95
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2?action=diff&version=4 -> 91
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2?action=diff&version=3 -> 147
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2?action=diff&version=2 -> 93
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2?version=1 -> 530
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2016-fall-project2-description -> 475
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2016-fall-project2-description?action=diff&version=1 -> 699
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222-2016-fall-project2-description?action=history -> 32
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2-grading -> 140
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2-grading?format=txt -> 110
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2-grading?action=diff&version=1 -> 190
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-ubuntu-setup-guide -> 80
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-ubuntu-setup-guide?format=txt -> 84
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-ubuntu-setup-guide?action=diff&version=3 -> 75
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-ubuntu-setup-guide?action=diff&version=2 -> 127
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-ubuntu-setup-guide?action=diff&version=1 -> 151
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-ubuntu-setup-guide?action=history -> 35
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide -> 236
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?action=diff&version=20 -> 107
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?action=diff&version=19 -> 107
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?action=diff&version=18 -> 173
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?version=17 -> 199
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?version=17&format=txt -> 215
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?action=diff&version=17 -> 100
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?action=diff&version=16 -> 258
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?version=15 -> 128
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?version=15&format=txt -> 138
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?action=diff&version=15 -> 137
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?action=history -> 51
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?version=1 -> 111
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?version=1&format=txt -> 119
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?action=diff&version=1 -> 182
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?action=diff&version=2 -> 110
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs222p-2017-fall-project2/test.sh -> 43
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs222p-2017-fall-project2/test.sh -> 96
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2-description -> 477
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2-description?action=diff&version=2 -> 169
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2-description?action=diff&version=1 -> 714
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1-description -> 556
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1-description?action=diff&version=14 -> 139
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1-description?action=history -> 45
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2-description?action=history -> 33
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1 -> 597
+<-------------->
+https://grape.ics.uci.edu/wiki/public/zip-attachment/wiki/cs222p-2017-fall-project1 -> 0
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=30 -> 214
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=29 -> 77
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=28 -> 106
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=27 -> 132
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?version=26 -> 614
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=26 -> 92
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=25 -> 103
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1-grading -> 110
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1-grading?format=txt -> 80
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1-grading?action=diff&version=1 -> 147
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1-grading?action=history -> 32
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs222p-2017-fall-project1/test.sh -> 35
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs222p-2017-fall-project1/test.sh -> 83
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=history -> 59
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?version=1 -> 722
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=1 -> 909
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=2 -> 397
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=3 -> 240
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?version=17 -> 614
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=17 -> 284
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=18 -> 84
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=19 -> 183
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=20 -> 98
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=21 -> 122
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=22 -> 101
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=23 -> 82
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=16 -> 145
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=15 -> 96
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=14 -> 108
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=13 -> 151
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=12 -> 99
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=11 -> 179
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=10 -> 164
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=9 -> 172
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=8 -> 188
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=7 -> 243
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=6 -> 127
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?action=diff&version=5 -> 113
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1?version=18 -> 614
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall?action=history -> 127
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall?version=1 -> 848
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring -> 597
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=77 -> 131
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=76 -> 121
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=75 -> 81
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-mysql-fulltext -> 144
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-mysql-fulltext?format=txt -> 108
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-mysql-fulltext?action=diff&version=1 -> 214
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-mysql-fulltext?action=history -> 32
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project4 -> 587
+<-------------->
+https://grape.ics.uci.edu/wiki/public/zip-attachment/wiki/cs122b-2018-spring-project4 -> 0
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122b-2018-spring-project4/AjaxTest.war -> 47
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project4?action=diff&version=18 -> 89
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project4?action=diff&version=17 -> 134
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project4?action=diff&version=16 -> 117
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project4?version=15 -> 578
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project4?action=history -> 47
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2018-spring/BatchInsert.java -> 69
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122b-2018-spring/BatchInsert.java -> 167
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3 -> 671
+<-------------->
+https://grape.ics.uci.edu/wiki/public/zip-attachment/wiki/cs122b-2018-spring-project3 -> 0
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2018-spring-project3/SAXParserExample.java -> 101
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122b-2018-spring-project3/SAXParserExample.java -> 236
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2018-spring-project3/DomParserExample.java -> 125
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122b-2018-spring-project3/DomParserExample.java -> 316
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2018-spring-project3/Employee.java -> 26
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122b-2018-spring-project3/Employee.java -> 130
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2018-spring-project3/employees.xml -> 9
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122b-2018-spring-project3/employees.xml -> 79
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=20 -> 168
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?version=20 -> 671
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=19 -> 144
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=18 -> 116
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=17 -> 122
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=16 -> 93
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=15 -> 103
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?version=14 -> 664
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=14 -> 155
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=13 -> 162
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=12 -> 88
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=11 -> 79
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=10 -> 125
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?version=9 -> 625
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=9 -> 84
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=8 -> 147
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=7 -> 173
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=6 -> 146
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=5 -> 101
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?version=4 -> 596
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=4 -> 190
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=3 -> 245
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=2 -> 234
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=diff&version=1 -> 757
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project3?action=history -> 51
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2018-spring-project1/cs122b-setup-scripts.txt -> 124
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122b-2018-spring-project1/cs122b-setup-scripts.txt -> 201
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project2 -> 698
+<-------------->
+https://grape.ics.uci.edu/wiki/public/zip-attachment/wiki/cs122b-2018-spring-project2 -> 0
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2018-spring-project2/Form.java -> 114
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122b-2018-spring-project2/Form.java -> 213
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2018-spring-project2/Items.java -> 87
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122b-2018-spring-project2/Items.java -> 176
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project2?action=diff&version=32 -> 143
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project2?version=32 -> 700
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project2?action=diff&version=31 -> 100
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project2?action=history -> 62
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1 -> 683
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2018-spring-project1/gitignore -> 187
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=22 -> 104
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2018-spring-project1/JDBC2.java -> 56
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122b-2018-spring-project1/JDBC2.java -> 101
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2018-spring-project1/JDBC1.java -> 63
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122b-2018-spring-project1/JDBC1.java -> 133
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122b-2018-spring-project1/gitignore -> 301
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-eclipse-project -> 164
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-eclipse-project?format=txt -> 117
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-eclipse-project?action=diff&version=5 -> 112
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-eclipse-project?action=diff&version=4 -> 75
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-eclipse-project?action=diff&version=3 -> 84
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-eclipse-project?action=diff&version=2 -> 166
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-eclipse-project?version=1 -> 165
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-eclipse-project?version=1&format=txt -> 123
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-eclipse-project?action=diff&version=1 -> 235
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-eclipse-project?action=history -> 36
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122b-2018-spring-project1/movie-data.sql -> 49
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=history -> 51
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?version=1 -> 737
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=1 -> 985
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=2 -> 76
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=3 -> 178
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=4 -> 335
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=5 -> 119
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=6 -> 142
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=7 -> 320
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=8 -> 112
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=9 -> 239
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=10 -> 82
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=11 -> 341
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=12 -> 139
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=13 -> 157
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=14 -> 122
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=15 -> 139
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=16 -> 95
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=17 -> 129
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=18 -> 103
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=19 -> 161
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?action=diff&version=20 -> 82
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1?version=2 -> 738
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-git -> 183
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-git?action=diff&version=3 -> 108
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-git?action=diff&version=2 -> 149
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-git?action=diff&version=1 -> 282
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring-project1-git?action=history -> 35
+<-------------->
+https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2018-spring/cs122b-setup-scripts.txt -> 124
+<-------------->
+https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122b-2018-spring/cs122b-setup-scripts.txt -> 200
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=history -> 109
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?version=1 -> 524
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=1 -> 584
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=2 -> 104
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=3 -> 120
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=4 -> 94
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=5 -> 103
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=6 -> 136
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=7 -> 87
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=8 -> 90
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=9 -> 86
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=10 -> 183
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=11 -> 95
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?action=diff&version=12 -> 105
+<-------------->
+https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2018-spring?version=2 -> 524
+<-------------->
+https://chenli.ics.uci.edu/students -> 320
+<-------------->
+https://chenli.ics.uci.edu/publications -> 1167
+<-------------->
+http://www.ics.uci.edu/~dnazip -> 186
+<-------------->
+https://chenli.ics.uci.edu/research -> 170
+<-------------->
+http://asterix.ics.uci.edu/fuzzyjoin -> 188
+<-------------->
+https://chenli.ics.uci.edu/biography -> 119
+<-------------->
+http://www.ics.uci.edu/~goodrich -> 323
+<-------------->
+http://www.ics.uci.edu/~goodrich/presenting.html -> 118
+<-------------->
+http://www.ics.uci.edu/~goodrich/writing.html -> 181
+<-------------->
+http://www.ics.uci.edu/~goodrich/colleagues.html -> 165
+<-------------->
+http://www.ics.uci.edu/~dstrash -> 2
+<-------------->
+http://www.ics.uci.edu/~goodrich/teach/index.html -> 197
+<-------------->
+http://www.ics.uci.edu/~goodrich/teach/cs162/syll.html -> 177
+<-------------->
+http://www.ics.uci.edu/~goodrich/teach/cs162 -> 116
+<-------------->
+http://www.ics.uci.edu/~eppstein/162 -> 180
+<-------------->
+http://www.ics.uci.edu/~eppstein/cgt/hard.html -> 929
+<-------------->
+http://www.ics.uci.edu/~eppstein/cgt -> 753
+<-------------->
+http://www.ics.uci.edu/~eppstein/cgt/gomoku.html -> 238
+<-------------->
+http://www.ics.uci.edu/~eppstein/pubs/p-cryptarithm.html -> 54
+<-------------->
+http://www.ics.uci.edu/~eppstein/pubs -> 40
+<-------------->
+http://www.ics.uci.edu/~eppstein/PADS/Automata.py -> 295
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1189 -> 373
+<-------------->
+http://www.informatics.uci.edu/lopes-analyzes-big-code-with-funding-from-darpa -> 267
+<-------------->
+http://mondego.ics.uci.edu/projects/dejavu -> 176
+<-------------->
+http://dejavu.ics.uci.edu -> 182
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/katie-salen-tekinbas -> 264
+<-------------->
+https://www.ics.uci.edu/ugrad/degrees/degree_cgs.php -> 388
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/kurt-squire -> 259
+<-------------->
+http://www.informatics.uci.edu/novel-ar-vr-theater-class-builds-foundation-for-new-traditions-in-theater -> 453
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/tess-tanenbaum -> 251
+<-------------->
+https://transformativeplay.ics.uci.edu/arvr-theater-syllabus -> 1263
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/bonnie-nardi -> 262
+<-------------->
+https://www.ics.uci.edu/faculty/area/area_environmental.php -> 864
+<-------------->
+https://www.informatics.uci.edu/grad/student-profiles/graduate-student-profile-juliet-norton -> 297
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/debra-richardson -> 250
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/bill-tomlinson -> 267
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1303 -> 354
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/gloria-mark -> 237
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1320 -> 345
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/sam-malek -> 248
+<-------------->
+http://www.ics.uci.edu/~jabbarvr -> 138
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1319 -> 393
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/gary-olson -> 258
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/judy-olson -> 253
+<-------------->
+https://www.ics.uci.edu/~mjcarey -> 65
+<-------------->
+https://evoke.ics.uci.edu -> 299
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/andre-van-der-hoek -> 248
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/geoffrey-bowker -> 262
+<-------------->
+https://www.ics.uci.edu/community -> 240
+<-------------->
+https://www.ics.uci.edu/ugrad/livechat.php -> 249
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2210 -> 501
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2211 -> 527
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2212 -> 321
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2213 -> 391
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2217 -> 470
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2181 -> 624
+<-------------->
+https://www.ics.uci.edu/community/alumni -> 234
+<-------------->
+https://www.ics.uci.edu/community/events/competition -> 184
+<-------------->
+https://www.ics.uci.edu/involved/corporate_partner -> 177
+<-------------->
+https://www.ics.uci.edu/involved/leadership_council -> 354
+<-------------->
+https://www.ics.uci.edu/involved -> 188
+<-------------->
+https://www.ics.uci.edu/about/annualreport -> 160
+<-------------->
+https://www.ics.uci.edu/social -> 130
+<-------------->
+https://www.ics.uci.edu/community/news -> 1118
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2053 -> 835
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2054 -> 443
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2055 -> 244
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2057 -> 307
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2058 -> 373
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2059 -> 303
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2060 -> 254
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2061 -> 239
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2062 -> 350
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2063 -> 372
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2065 -> 452
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2066 -> 348
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2067 -> 505
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2069 -> 331
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2070 -> 188
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2071 -> 307
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2073 -> 333
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2074 -> 453
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2075 -> 508
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2076 -> 223
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2077 -> 215
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2078 -> 186
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2079 -> 344
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2080 -> 193
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2081 -> 523
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2082 -> 211
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2083 -> 410
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2084 -> 352
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2085 -> 499
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2087 -> 276
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2088 -> 193
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2089 -> 469
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2090 -> 311
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2091 -> 297
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2093 -> 392
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2094 -> 487
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2095 -> 276
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2096 -> 240
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2097 -> 476
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2098 -> 903
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2099 -> 208
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2100 -> 207
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2101 -> 230
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2102 -> 457
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2103 -> 371
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2104 -> 221
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2105 -> 499
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2106 -> 252
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2107 -> 254
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2108 -> 908
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2109 -> 447
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2110 -> 223
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2111 -> 731
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2112 -> 359
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2113 -> 402
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2114 -> 576
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2115 -> 502
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2116 -> 306
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2117 -> 847
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2118 -> 235
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2119 -> 818
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2120 -> 273
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2123 -> 662
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2125 -> 251
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2124 -> 638
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2126 -> 294
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2127 -> 247
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2128 -> 456
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2129 -> 452
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2130 -> 263
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2132 -> 250
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2134 -> 261
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2136 -> 382
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2137 -> 250
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2138 -> 304
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2139 -> 291
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2140 -> 346
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2141 -> 450
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2142 -> 572
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2143 -> 533
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2144 -> 412
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2145 -> 298
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2147 -> 589
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2148 -> 542
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2149 -> 357
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2150 -> 201
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2151 -> 608
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2152 -> 347
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2153 -> 242
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2154 -> 649
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2155 -> 248
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2156 -> 273
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2157 -> 212
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2158 -> 391
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2159 -> 370
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2160 -> 392
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2161 -> 880
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2162 -> 217
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2163 -> 548
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2164 -> 262
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2165 -> 963
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2166 -> 462
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2167 -> 850
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2168 -> 258
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2169 -> 214
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2171 -> 595
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2172 -> 205
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2173 -> 313
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2174 -> 280
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2175 -> 223
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2178 -> 575
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2179 -> 448
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2182 -> 454
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2183 -> 969
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2184 -> 355
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2185 -> 241
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2186 -> 516
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2188 -> 576
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2189 -> 300
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2190 -> 263
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2191 -> 473
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2192 -> 293
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2193 -> 614
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2194 -> 276
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2197 -> 337
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2198 -> 244
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2199 -> 298
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2200 -> 232
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2201 -> 349
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2202 -> 356
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2203 -> 637
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2204 -> 651
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2205 -> 538
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2206 -> 294
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2207 -> 290
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2208 -> 325
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2209 -> 474
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2214 -> 242
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2215 -> 208
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2218 -> 542
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2219 -> 315
+<-------------->
+https://www.ics.uci.edu/about/search/search_graduate_all.php -> 1966
+<-------------->
+http://www.ics.uci.edu/~zout3 -> 138
+<-------------->
+http://www.ics.uci.edu/~yunhaz5 -> 159
+<-------------->
+http://www.ics.uci.edu/~zawadzkr -> 23
+<-------------->
+http://www.ics.uci.edu/~zyao -> 264
+<-------------->
+http://www.ics.uci.edu/~xiangyy4 -> 58
+<-------------->
+http://www.ics.uci.edu/~rwarren2 -> 51
+<-------------->
+http://www.ics.uci.edu/~lwarr -> 138
+<-------------->
+http://www.ics.uci.edu/~mtrifan -> 1
+<-------------->
+http://www.ics.uci.edu/~hting1 -> 207
+<-------------->
+http://www.ics.uci.edu/~daeyuns -> 231
+<-------------->
+https://www.ics.uci.edu/~daeyuns/pixels-voxels-views -> 51
+<-------------->
+https://www.ics.uci.edu/~yunhaz5/cvpr2020/domain_decluttering.html -> 167
+<-------------->
+http://www.ics.uci.edu/~zichens4 -> 138
+<-------------->
+http://www.ics.uci.edu/~akseong -> 29
+<-------------->
+http://www.ics.uci.edu/~nsalehna -> 40
+<-------------->
+http://www.ics.uci.edu/~fparzefa -> 8
+<-------------->
+http://www.ics.uci.edu/~overmana -> 46
+<-------------->
+http://www.ics.uci.edu/~fmehrali -> 279
+<-------------->
+http://www.ics.uci.edu/~emedwede -> 231
+<-------------->
+http://www.ics.uci.edu/~catalmm1 -> 138
+<-------------->
+http://www.ics.uci.edu/~haoyum3 -> 237
+<-------------->
+http://www.ics.uci.edu/~xingweil -> 48
+<-------------->
+http://www.ics.uci.edu/~jamesal1 -> 75
+<-------------->
+http://www.ics.uci.edu/~xinyual3 -> 2
+<-------------->
+http://www.ics.uci.edu/~seminl1 -> 125
+<-------------->
+http://www.ics.uci.edu/~zhaofel1 -> 1
+<-------------->
+http://www.ics.uci.edu/~pul3 -> 138
+<-------------->
+http://www.ics.uci.edu/~slabbaf -> 43
+<-------------->
+http://www.ics.uci.edu/~deyingk -> 149
+<-------------->
+http://www.ics.uci.edu/~youngik2 -> 45
+<-------------->
+http://www.ics.uci.edu/~yhuai -> 28
+<-------------->
+http://www.ics.uci.edu/~tgiyahch -> 24
+<-------------->
+http://www.ics.uci.edu/~ogila -> 138
+<-------------->
+http://www.ics.uci.edu/~kkdave -> 39
+<-------------->
+http://www.ics.uci.edu/~cuih7 -> 382
+<-------------->
+http://www.ics.uci.edu/~krconnif -> 203
+<-------------->
+http://www.ics.uci.edu/~mingyic4 -> 95
+<-------------->
+http://www.ics.uci.edu/~jbursey -> 85
+<-------------->
+https://www.ics.uci.edu/~ardalan/index.html -> 191
+<-------------->
+http://www.ics.uci.edu/~alexjb -> 138
+<-------------->
+http://www.ics.uci.edu/~cbatista -> 8
+<-------------->
+http://www.ics.uci.edu/~qbai1 -> 54
+<-------------->
+http://www.ics.uci.edu/~aalexos -> 2
+<-------------->
+https://www.ics.uci.edu/about/search/index.php -> 161
+<-------------->
+https://www.ics.uci.edu/faculty/faculty_dept?department=Statistics -> 254
+<-------------->
+https://www.ics.uci.edu/faculty/faculty_dept?department=Informatics -> 403
+<-------------->
+https://www.ics.uci.edu/faculty/faculty_dept?department=Computer Science -> 558
+<-------------->
+https://www.ics.uci.edu/faculty -> 921
+<-------------->
+https://www.ics.uci.edu/ugrad/sao/SAO_Events.php -> 278
+<-------------->
+https://www.ics.uci.edu/ugrad/honors/apply.php -> 251
+<-------------->
+https://www.ics.uci.edu/ugrad/honors -> 204
+<-------------->
+https://www.ics.uci.edu/ugrad/resources/index -> 279
+<-------------->
+https://www.ics.uci.edu/ugrad/QA_Graduation -> 350
+<-------------->
+https://www.ics.uci.edu/ugrad/policies/CS199_IN4MATX199 -> 228
+<-------------->
+https://www.ics.uci.edu/ugrad/policies/Withdrawal_Readmission -> 283
+<-------------->
+https://www.ics.uci.edu/ugrad/policies/Laptop_ComputerUse -> 297
+<-------------->
+http://www.ics.uci.edu/computing/account/new.php -> 246
+<-------------->
+https://www.ics.uci.edu/ugrad/policies/Grade_Options -> 313
+<-------------->
+https://www.ics.uci.edu/ugrad/policies/Course_Outside_UCI -> 269
+<-------------->
+https://www.ics.uci.edu/ugrad/policies/Add_Drop_ChangeOption -> 305
+<-------------->
+https://www.ics.uci.edu/ugrad/policies/Academic_Standing -> 334
+<-------------->
+https://www.ics.uci.edu/ugrad/policies/Academic_Honesty -> 351
+<-------------->
+https://www.ics.uci.edu/ugrad/degrees/Minors -> 248
+<-------------->
+https://www.ics.uci.edu/ugrad/degrees/index.php -> 203
+<-------------->
+https://www.ics.uci.edu/ugrad/QA_Petitions -> 261
+<-------------->
+https://www.ics.uci.edu/ugrad/courses/index-course -> 233
+<-------------->
+https://www.ics.uci.edu/ugrad/sao/Course_updates -> 422
+<-------------->
+https://www.ics.uci.edu/ugrad/sao/index -> 349
+<-------------->
+https://www.ics.uci.edu/ugrad/index -> 349
+<-------------->
+https://www.ics.uci.edu/grad/index -> 227
+<-------------->
+https://www.ics.uci.edu/about/visit/index -> 228
+<-------------->
+https://www.ics.uci.edu/grad/resources -> 180
+<-------------->
+https://www.ics.uci.edu/grad/policies/GradPolicies_ConcurrentEnrollment.php -> 212
+<-------------->
+https://swiki.ics.uci.edu/doku.php -> 246
+<-------------->
+https://www.ics.uci.edu/grad/funding/housing -> 171
+<-------------->
+https://www.ics.uci.edu/grad/funding/index -> 1303
+<-------------->
+https://www.ics.uci.edu/grad/admissions_faq/index -> 411
+<-------------->
+https://mt-live.ics.uci.edu/research-areas -> 10
+<-------------->
+https://www.ics.uci.edu/grad/admissions/comparison_chart_masters.php -> 314
+<-------------->
+https://www.ics.uci.edu/grad/forms_policies/index -> 631
+<-------------->
+https://www.ics.uci.edu/grad/Course_updates -> 290
+<-------------->
+https://www.ics.uci.edu/grad/courses/index-course -> 218
+<-------------->
+https://www.ics.uci.edu/grad/degrees/index -> 188
+<-------------->
+https://www.ics.uci.edu/grad/admissions/Prospective_ApplicationProcess.php -> 417
+<-------------->
+https://www.ics.uci.edu/grad/admissions/index-orientationbackupOct12 -> 269
+<-------------->
+https://support.ics.uci.edu/auth -> 16
+<-------------->
+https://www.ics.uci.edu/grad/admissions/index -> 228
+<-------------->
+https://www.ics.uci.edu/faculty/highlights -> 546
+<-------------->
+http://www.ics.uci.edu/%7Edjr/DebraJRichardson/SE4S.html -> 187
+<-------------->
+http://www.ics.uci.edu/%7esysarch -> 151
+<-------------->
+http://www.ics.uci.edu/%7eprojects/satware -> 10
+<-------------->
+http://www.ics.uci.edu/%7edgillen -> 140
+<-------------->
+https://dgillen.ics.uci.edu/book -> 124
+<-------------->
+https://dgillen.ics.uci.edu/datasets-sim-4th-edition -> 270
+<-------------->
+https://dgillen.ics.uci.edu/classes -> 114
+<-------------->
+https://dgillen.ics.uci.edu/research -> 252
+<-------------->
+https://dgillen.ics.uci.edu/curiculum-vitae -> 131
+<-------------->
+https://dgillen.ics.uci.edu/news -> 293
+<-------------->
+https://dgillen.ics.uci.edu/news/page/2 -> 286
+<-------------->
+https://dgillen.ics.uci.edu/2021/07/16/232 -> 48
+<-------------->
+https://dgillen.ics.uci.edu/2021/07/28/new-publication-lars-hertel -> 63
+<-------------->
+https://dgillen.ics.uci.edu/2021/08/04/new-publication-olivia-bernstein -> 81
+<-------------->
+https://dgillen.ics.uci.edu/2021/08/07/new-publication-maricela-cruz -> 88
+<-------------->
+https://dgillen.ics.uci.edu/2021/08/11/congratulations-to-nsf-graduate-research-fellowship-awardee-adam-birnbaum -> 95
+<-------------->
+https://dgillen.ics.uci.edu/2021/08/14/new-publication-mary-ryan -> 89
+<-------------->
+https://dgillen.ics.uci.edu/2021/08/18/new-publication-michelle-nuno -> 74
+<-------------->
+https://dgillen.ics.uci.edu/2022/05/03/new-publication-michelle-nuno-2 -> 76
+<-------------->
+https://dgillen.ics.uci.edu/2022/05/03/mikaela-nishida-receives-nsf-grfp-honorable-mention -> 63
+<-------------->
+https://dgillen.ics.uci.edu/2022/05/03/new-publication-navneet-hakhu -> 76
+<-------------->
+http://radicle.ics.uci.edu -> 0
+<-------------->
+http://www.ics.uci.edu/community/news/press/view_press?id=122 -> 489
+<-------------->
+https://duttgroup.ics.uci.edu/doku.php/projects -> 176
+<-------------->
+https://duttgroup.ics.uci.edu/collaborators -> 87
+<-------------->
+https://www.ics.uci.edu/faculty/centers -> 469
+<-------------->
+http://www.ics.uci.edu/%7eprojects/cert -> 302
+<-------------->
+http://www.ics.uci.edu/%7etheory -> 119
+<-------------->
+https://www.ics.uci.edu/faculty/area -> 864
+<-------------->
+https://www.ics.uci.edu/dept -> 185
+<-------------->
+https://www.ics.uci.edu/about/about_contact.php -> 162
+<-------------->
+https://www.ics.uci.edu/about/equity -> 248
+<-------------->
+https://www.ics.uci.edu/about/visit/index.php -> 228
+<-------------->
+https://www.ics.uci.edu/about/brenhall/index.php -> 235
+<-------------->
+https://www.ics.uci.edu/about/about_factsfigures.php -> 397
+<-------------->
+https://www.ics.uci.edu/about/about_deanmsg.php -> 228
+<-------------->
+https://www.ics.uci.edu/about -> 264
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1336 -> 230
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1353 -> 249
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1363 -> 316
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1240 -> 206
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1271 -> 215
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1272 -> 338
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1333 -> 286
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1288 -> 345
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/yunan-chen -> 263
+<-------------->
+https://www.ics.uci.edu/~galbraic -> 160
+<-------------->
+https://www.ics.uci.edu/~fowlkes -> 646
+<-------------->
+http://vision.ics.uci.edu/pocv2012/index.html -> 335
+<-------------->
+http://www.ics.uci.edu/~fowlkes/software.html -> 58
+<-------------->
+http://www.ics.uci.edu/~fowlkes/software/nca -> 35
+<-------------->
+http://www.ics.uci.edu/~fowlkes/software/nca/nca_demo -> 35
+<-------------->
+http://www.ics.uci.edu/~fowlkes/software/hme -> 41
+<-------------->
+http://www.ics.uci.edu/~fowlkes/software -> 34
+<-------------->
+http://www.ics.uci.edu/~fowlkes/sam_hallman/doc -> 195
+<-------------->
+http://www.ics.uci.edu/~fowlkes/presentations.html -> 186
+<-------------->
+http://www.ics.uci.edu/~fowlkes/publications.html -> 1289
+<-------------->
+http://www.ics.uci.edu/~fowlkes/publications2.html -> 24
+<-------------->
+https://www.ics.uci.edu/~gopi -> 231
+<-------------->
+http://www.ics.uci.edu/~gopi/Resume.html -> 1271
+<-------------->
+https://www.stat.uci.edu/gillen-furthers-healthcare-research-with-two-nih-grants -> 233
+<-------------->
+https://www.stat.uci.edu/ucis-data-science-program-ranked-18th-in-nation-by-bcss -> 193
+<-------------->
+https://www.stat.uci.edu/statistics-department-welcomes-two-new-faculty-for-2017 -> 460
+<-------------->
+https://www.stat.uci.edu/uci-news-uci-neurobiologists-aim-to-identify-biomarkers-for-alzheimers-disease-dan-gillen-mentioned -> 160
+<-------------->
+https://www.stat.uci.edu/new-faculty-spotlight-statistics-professor-bin-nan-welcomes-collaboration -> 392
+<-------------->
+https://www.stat.uci.edu/alexandra-peterson-named-outstanding-ta-in-statistics -> 137
+<-------------->
+https://www.stat.uci.edu/zhu-wins-2017-newcomb-graduate-award-in-statistics -> 156
+<-------------->
+https://www.stat.uci.edu/uci-well-represented-at-women-in-statistics-data-science-conference -> 158
+<-------------->
+https://www.stat.uci.edu/new-faculty-spotlight-statistics-professor-vladimir-minin-is-pleased-to-join-growing-community -> 280
+<-------------->
+https://www.stat.uci.edu/2018-ics-projects-and-predictions -> 464
+<-------------->
+https://www.stat.uci.edu/utts-discusses-statistics-for-good-governance-at-international-conference-in-sri-lanka -> 213
+<-------------->
+https://www.stat.uci.edu/lakeland-times-autism-numbers-spike-the-latest-call-to-action-stern-quoted -> 163
+<-------------->
+https://www.stat.uci.edu/minin-co-edits-special-section-on-infectious-diseases-in-statistical-science -> 198
+<-------------->
+https://www.stat.uci.edu/mazmanian-regan-and-shahbaba-appointed-decade-graduate-faculty-mentors -> 191
+<-------------->
+https://www.stat.uci.edu/2017-ics-deans-award-winners -> 195
+<-------------->
+https://www.stat.uci.edu/data-scientist-ranked-top-u-s-job-by-glassdoor -> 232
+<-------------->
+https://www.stat.uci.edu/ph-d-students-gao-and-cruz-receive-asa-paper-awards -> 162
+<-------------->
+https://www.stat.uci.edu/ombao-uci-space-time-modeling-group-contribute-to-new-handbook-of-neuroimaging-data-analysis -> 202
+<-------------->
+https://www.stat.uci.edu/statistics-ph-d-students-wang-gao-win-enar-distinguished-paper-awards -> 179
+<-------------->
+https://www.stat.uci.edu/3-ics-researchers-named-aaas-fellows -> 262
+<-------------->
+https://www.stat.uci.edu/los-angeles-times-why-giving-people-5-to-take-a-government-survey-is-money-well-spent-by-jessica-utts -> 146
+<-------------->
+https://www.stat.uci.edu/nuno-pluta-receive-graduate-statistics-award -> 205
+<-------------->
+https://www.stat.uci.edu/ics-welcomes-four-new-faculty-members-for-fall-2016-quarter -> 286
+<-------------->
+https://www.stat.uci.edu/new-dean-named-for-ics -> 295
+<-------------->
+https://www.stat.uci.edu/nsf-awards-professor-shahbaba-uci-team-250k-for-big-data-analysis-research -> 220
+<-------------->
+https://www.stat.uci.edu/stern-receives-degroot-prize-for-bayesian-data-analysis -> 207
+<-------------->
+https://www.stat.uci.edu/dean-sterns-co-led-csafe-cited-in-white-house-impact-report -> 216
+<-------------->
+https://www.stat.uci.edu/gillen-ombao-named-asa-fellows -> 212
+<-------------->
+https://www.stat.uci.edu/wsj-foreign-students-seen-cheating-more-than-domestic-ones-hancock-quoted -> 158
+<-------------->
+https://www.stat.uci.edu/two-statistics-ph-d-students-receive-honorable-mentions-in-nsf-grfp -> 190
+<-------------->
+https://www.stat.uci.edu/jessica-utts-an-ambassador-for-statistics -> 379
+<-------------->
+https://www.stat.uci.edu/statistics-ph-d-student-receives-enar-distinguished-student-paper-award -> 191
+<-------------->
+http://www.ics.uci.edu/community/news/view_news?id=1115 -> 242
+<-------------->
+https://www.ics.uci.edu/community/news/spotlight/spotlight_bob_newcomb -> 345
+<-------------->
+https://www.ics.uci.edu/~rickl -> 103
+<-------------->
+http://www.ics.uci.edu/ugrad/honors/index.php -> 204
+<-------------->
+http://www.ics.uci.edu/faculty/area/area_ai.php -> 864
+<-------------->
+https://www.informatics.uci.edu/explore/faculty-profiles/cristina-lopes -> 246
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1312 -> 347
+<-------------->
+https://www.ics.uci.edu/~swjun -> 248
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2063" -> 372
+<-------------->
+https://www.ics.uci.edu/community/scholarships/index -> 324
+<-------------->
+https://statconsulting.ics.uci.edu/category/events -> 459
+<-------------->
+https://statconsulting.ics.uci.edu/request-consultation -> 50
+<-------------->
+https://statconsulting.ics.uci.edu/research-highlights/client-testimonials -> 156
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1306 -> 483
+<-------------->
+https://www.ics.uci.edu/~mguindan -> 302
+<-------------->
+https://aiclub.ics.uci.edu -> 301
+<-------------->
+https://www.ics.uci.edu/~klefstad -> 137
+<-------------->
+https://www.ics.uci.edu/~pattis -> 506
+<-------------->
+http://tutors.ics.uci.edu -> 36
+<-------------->
+http://tutors.ics.uci.edu/index.php/contact -> 21
+<-------------->
+http://tutors.ics.uci.edu/index.php/tutor-coordinators -> 135
+<-------------->
+http://tutors.ics.uci.edu/index.php/tutor-resources -> 60
+<-------------->
+http://tutors.ics.uci.edu/index.php/tutor-resources/82-assembly-resources/110-assembly-resources -> 21
+<-------------->
+http://tutors.ics.uci.edu/index.php/tutor-resources/82-assembly-resources/111-assembly-syntax-register -> 309
+<-------------->
+http://tutors.ics.uci.edu/index.php/tutor-resources/81-cpp-resources/100-cpp-resources -> 25
+<-------------->
+http://tutors.ics.uci.edu/index.php/tutor-resources/81-cpp-resources/101-cpp-exercises -> 209
+<-------------->
+http://tutors.ics.uci.edu/index.php/tutor-resources/81-cpp-resources/120-cpp-google-tests -> 224
+<-------------->
+http://tutors.ics.uci.edu/index.php/tutor-resources/81-cpp-resources/119-cpp-big-three -> 244
+<-------------->
+http://tutors.ics.uci.edu/index.php/tutor-resources/81-cpp-resources/122-cpp-ref-pointer-operators -> 219
+<-------------->
+http://tutors.ics.uci.edu/index.php/tutor-resources/81-cpp-resources/112-c-pointers -> 320
+<-------------->
+http://tutors.ics.uci.edu/index.php/tutor-resources/80-java-resources/96-java-resources -> 18
+<-------------->
+http://tutors.ics.uci.edu/index.php/tutor-resources/80-java-resources/97-java-basics -> 262
+<-------------->
+http://tutors.ics.uci.edu/index.php/0-python-resources/85-python-resources -> 58
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/105-python-try-exercises -> 96
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/113-python-output-exercises -> 48
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/108-python-list-exercises -> 73
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/114-python-function-loop-exercises -> 78
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/106-python-function-exercise -> 87
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/118-python-for-exercises -> 142
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/116-python-exercises-2 -> 84
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/99-python-exercises -> 174
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/98-python-quiz -> 250
+<-------------->
+http://tutors.ics.uci.edu/index.php/0-python-resources/87-comprehensions -> 310
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/109-while-true -> 165
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/107-while-basics -> 121
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/104-try-except -> 147
+<-------------->
+http://tutors.ics.uci.edu/index.php/0-python-resources/88-traversing-lists-with-for-loops -> 158
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/123-recursion-examples -> 190
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/121-printing-text-shapes -> 82
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/117-nested-lists -> 122
+<-------------->
+http://tutors.ics.uci.edu/index.php/0-python-resources/89-for-loop-basics -> 204
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/102-burrito-class -> 347
+<-------------->
+http://tutors.ics.uci.edu/index.php/0-python-resources/86-breaking-down-a-problem -> 163
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/103-for-while-basics -> 98
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/93-string-list-basics -> 101
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/115-abstraction-modules -> 214
+<-------------->
+http://tutors.ics.uci.edu/index.php/79-python-resources/85-python-resources -> 58
+<-------------->
+http://tutors.ics.uci.edu/index.php/becoming-a-tutor -> 247
+<-------------->
+https://www.ics.uci.edu/~andre -> 111
+<-------------->
+http://www.informatics.uci.edu/people -> 847
+<-------------->
+https://www.ics.uci.edu/~aburtsev -> 47
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1549 -> 389
+<-------------->
+https://www.ics.uci.edu/ugrad/degrees/degree_se.php -> 388
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=vberroca -> 162
+<-------------->
+https://www.ics.uci.edu/~dgillen -> 140
+<-------------->
+https://www.ics.uci.edu/~marymr -> 232
+<-------------->
+https://www.stat.uci.edu/covid19/incidence-maps.html -> 988
+<-------------->
+https://www.stat.uci.edu/oc_covid_model/index.html -> 550
+<-------------->
+https://www.stat.uci.edu/covid19/index.html -> 1443
+<-------------->
+http://www.ics.uci.edu/~babaks/index.html -> 209
+<-------------->
+https://www.stat.uci.edu/isi-buds -> 101
+<-------------->
+https://www.ics.uci.edu/grad/admissions/index.php -> 228
+<-------------->
+https://futurehealth.ics.uci.edu/projects -> 424
+<-------------->
+https://futurehealth.ics.uci.edu/prevention-for-homeless-at-risk-for-hcv -> 73
+<-------------->
+https://futurehealth.ics.uci.edu/improving-health-and-nutrition-of-indian-women-with-aids-and-their-children -> 89
+<-------------->
+https://futurehealth.ics.uci.edu/development-of-a-community-based-tbi-treatment-completion-intervention-among-homeless-adults -> 107
+<-------------->
+https://futurehealth.ics.uci.edu/preterm-birth-prevention-in-everyday-settings -> 170
+<-------------->
+https://futurehealth.ics.uci.edu/supporting-lifestyle-change-in-obese-pregnant-mothers-through-wearable-internet-of-things -> 216
+<-------------->
+https://futurehealth.ics.uci.edu/the-long-term-impact-of-light-intervention-on-sleep-physiology-and-cognition-in-mild-cognitive-impairment -> 80
+<-------------->
+https://futurehealth.ics.uci.edu/examining-a-multimodal-approach-to-lowering-the-burden-of-food-journaling -> 166
+<-------------->
+https://futurehealth.ics.uci.edu/examining-and-designing-more-useful-mood-tracking-tools -> 70
+<-------------->
+https://futurehealth.ics.uci.edu/understanding-life-events-and-transitions-supported-by-fertility-apps -> 85
+<-------------->
+https://futurehealth.ics.uci.edu/optimizing-digital-interventions-through-micro-randomized-trials-and-causal-modeling -> 127
+<-------------->
+https://futurehealth.ics.uci.edu/using-self-tracked-data-to-design-lightweight-social-support -> 86
+<-------------->
+https://futurehealth.ics.uci.edu/high-dimensional-inference-beyond-linear-models -> 132
+<-------------->
+https://futurehealth.ics.uci.edu/policy-driven-privacy-enhanced-technologies-pet-enforcement-on-internet-of-things-iot-data-flows -> 127
+<-------------->
+https://futurehealth.ics.uci.edu/food-computing-2 -> 137
+<-------------->
+https://futurehealth.ics.uci.edu/remote-social-interaction-monitoring-to-predict-the-risk-of-novel-coronavirus-infection-in-the-uci-community -> 97
+<-------------->
+https://futurehealth.ics.uci.edu/holistic-stress-reduction-in-the-era-of-covid-19-through-multimodal-personal-chronicles-in-college-students -> 137
+<-------------->
+https://futurehealth.ics.uci.edu/supporting-adolescents-struggling-with-emotional-regulation-using-wearable-technologies -> 139
+<-------------->
+https://futurehealth.ics.uci.edu/a-monitoring-intervention-system-for-dementia-caregivers-using-wearable-iot -> 130
+<-------------->
+https://futurehealth.ics.uci.edu/digital-health-for-future-of-community-centered-care -> 133
+<-------------->
+https://futurehealth.ics.uci.edu/iot-based-wearables-for-antepartum-and-intrapartum-assessment-in-the-home-setting-to-promote-fetal-and-maternal-care -> 79
+<-------------->
+https://futurehealth.ics.uci.edu/developing-estimation-techniques-for-determining-health-states -> 107
+<-------------->
+https://futurehealth.ics.uci.edu/food-computing -> 156
+<-------------->
+https://futurehealth.ics.uci.edu/building-personal-model-for-health-navigation -> 139
+<-------------->
+https://futurehealth.ics.uci.edu/personicle-open-source -> 237
+<-------------->
+https://futurehealth.ics.uci.edu/internet-of-cognitive-things-for-personalized-healthcare -> 196
+<-------------->
+https://futurehealth.ics.uci.edu/smart-connected-and-coordinated-maternal-care-for-underserved-communities -> 234
+<-------------->
+https://futurehealth.ics.uci.edu/covid-19-long-haulers -> 111
+<-------------->
+https://futurehealth.ics.uci.edu/mental-health-navigator -> 146
+<-------------->
+https://futurehealth.ics.uci.edu/loneliness-and-college-students-health -> 106
+<-------------->
+https://www.ics.uci.edu/~sharad -> 385
+<-------------->
+https://www.ics.uci.edu/~amirr1 -> 153
+<-------------->
+https://unite.ics.uci.edu -> 71
+<-------------->
+https://ngs.ics.uci.edu -> 231
+<-------------->
+https://futurehealth.ics.uci.edu -> 446
+<-------------->
+https://www.ics.uci.edu/~dutt -> 132
+<-------------->
+https://www.ics.uci.edu/~yunanc -> 157
+<-------------->
+https://www.ics.uci.edu/~claram -> 138
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1906 -> 953
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1827 -> 430
+<-------------->
+https://mswe.ics.uci.edu -> 175
+<-------------->
+https://mcs.ics.uci.edu -> 205
+<-------------->
+https://mhcid.ics.uci.edu -> 206
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1643 -> 415
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2031 -> 472
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1514 -> 337
+<-------------->
+https://www.ics.uci.edu/~zhaoxia -> 516
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2005 -> 603
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1978 -> 281
+<-------------->
+https://www.ics.uci.edu/~dechter -> 228
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2092 -> 420
+<-------------->
+https://www.ics.uci.edu/~harris -> 90
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1928 -> 551
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1920 -> 641
+<-------------->
+https://www.ics.uci.edu/~emilyo/SimSE -> 79
+<-------------->
+https://www.ics.uci.edu/~emilyo -> 842
+<-------------->
+https://transformativeplay.ics.uci.edu/Tess-Tanenbaum -> 1159
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1380 -> 589
+<-------------->
+https://wics.ics.uci.edu -> 286
+<-------------->
+https://wics.ics.uci.edu/fall-2022-week-3-wics-games -> 162
+<-------------->
+https://wics.ics.uci.edu/fall-2022-week-3-wics-games/?share=twitter -> 35
+<-------------->
+https://www.ics.uci.edu/~djr/DebraJRichardson/Home.html -> 43
+<-------------->
+https://create.ics.uci.edu -> 149
+<-------------->
+https://www.ics.uci.edu/hpi -> 261
+<-------------->
+https://www.ics.uci.edu/~smyth -> 157
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2122 -> 362
+<-------------->
+https://www.ics.uci.edu/~givargis -> 1090
+<-------------->
+https://www.cs.uci.edu/graduate-computer-science-programs -> 153
+<-------------->
+https://www.stat.uci.edu/isi-buds/apply.html -> 70
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1876 -> 399
+<-------------->
+https://www.ics.uci.edu/~magda -> 69
+<-------------->
+http://www.ics.uci.edu/%7Emagda/courses.html -> 30
+<-------------->
+http://www.ics.uci.edu/%7Emagda/CS620.html -> 26
+<-------------->
+http://www.ics.uci.edu/%7Emagda/cs620/announceOG.html -> 977
+<-------------->
+http://www.ics.uci.edu/%7Emagda/cs620/outlineOG.html -> 56
+<-------------->
+http://www.ics.uci.edu/%7Emagda/cs620/introductionOG.html -> 126
+<-------------->
+http://www.ics.uci.edu/%7Emagda -> 69
+<-------------->
+http://www.ics.uci.edu/%7Emagda/netsys230.html -> 22
+<-------------->
+http://www.ics.uci.edu/%7Emagda/netsys270.html -> 29
+<-------------->
+http://www.ics.uci.edu/%7Emagda/ics167.html -> 28
+<-------------->
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/quizsol.html -> 4
+<-------------->
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/projects.html -> 32
+<-------------->
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/chatroom_demo -> 29
+<-------------->
+http://www.ics.uci.edu/~magda/Courses/ics167 -> 78
+<-------------->
+http://www.ics.uci.edu/~magda/Courses -> 35
+<-------------->
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/outline.html -> 91
+<-------------->
+http://www.ics.uci.edu/%7Erkwang/Winter_2016_ICS167/ics167coursepage.html -> 138
+<-------------->
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/description.html -> 110
+<-------------->
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/introduction.html -> 9
+<-------------->
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/Project_Rules.html -> 59
+<-------------->
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/COGSlab_rules.html -> 70
+<-------------->
+http://www.ics.uci.edu/%7Emagda/networksG.html -> 29
+<-------------->
+http://www.ics.uci.edu/%7Emagda/ics_232P/quizsolP.html -> 8
+<-------------->
+http://www.ics.uci.edu/%7Emagda/ics_232P/scheduleP.html -> 103
+<-------------->
+http://www.ics.uci.edu/%7Emagda/ics_232P/outlineP.html -> 179
+<-------------->
+http://www.ics.uci.edu/%7Emagda/netlabG.html -> 28
+<-------------->
+http://www.ics.uci.edu/%7Emagda/ics_x33/quizsolG.html -> 10
+<-------------->
+http://www.ics.uci.edu/%7Emagda/ics_x33/announceG.html -> 14
+<-------------->
+http://www.ics.uci.edu/%7Emagda/ics_x33/scheduleG.html -> 54
+<-------------->
+http://www.ics.uci.edu/%7Emagda/ics_x33/outlineG.html -> 175
+<-------------->
+http://www.ics.uci.edu/%7Emagda/Papers.html -> 192
+<-------------->
+http://www.ics.uci.edu/%7Emagda/Games.html -> 235
+<-------------->
+http://www.ics.uci.edu/%7Emagda/Ghana.html -> 340
+<-------------->
+http://www.ics.uci.edu/~jutts -> 418
+<-------------->
+http://www.ics.uci.edu/~jutts/azpsi.html -> 487
+<-------------->
+http://www.ics.uci.edu/~jutts/response.html -> 445
+<-------------->
+http://www.ics.uci.edu/~jutts/hyman.html -> 1901
+<-------------->
+http://www.ics.uci.edu/~jutts/is8c -> 124
+<-------------->
+http://www.ics.uci.edu/~jutts/st13v-06 -> 141
+<-------------->
+http://www.ics.uci.edu/~jutts/st390 -> 101
+<-------------->
+http://www.ics.uci.edu/~jutts/st108 -> 322
+<-------------->
+http://www.ics.uci.edu/~jutts/8 -> 408
+<-------------->
+http://www.ics.uci.edu/~jutts/statlinks.html -> 338
+<-------------->
+http://www.ics.uci.edu/~jutts/201-F13 -> 349
+<-------------->
+http://www.ics.uci.edu/~jutts/110 -> 353
+<-------------->
+http://www.ics.uci.edu/~jutts/7-W13 -> 445
+<-------------->
+http://www.ics.uci.edu/~jutts/GAISE/index.html -> 80
+<-------------->
+https://transformativeplay.ics.uci.edu/tess-tanenbaum -> 1159
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2036 -> 378
+<-------------->
+https://www.ics.uci.edu/~babaks -> 209
+<-------------->
+https://www.ics.uci.edu/~wjohnson -> 190
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/BIDABook.html -> 85
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch1/Ch1WinBUGScode.odc -> 0
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch1/SurvivalDataArmadilloHunting.txt -> 77
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch1/LungCancerData.txt -> 158
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch1/CowAbortionData.txt -> 41
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch1/BrassAlloyZincData.txt -> 19
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch1/ArmadilloHuntingRepeatedMeasuresData.txt -> 65
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch1/ArmadilloDataOneSample.txt -> 5
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch3/Ch3WinBUGScode.odc -> 0
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch3/RcodeCh3.txt -> 47
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch4/Ch4Rcode.txt -> 12
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/RcodeCh5.txt -> 12
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/SampleSizeRcode.txt -> 29
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/RcodeDiasorinExample.txt -> 17
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/Ch5WinBUGScode.odc -> 0
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/SampleSizeProportions.txt -> 17
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/DiasorinModel1.txt -> 25
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/DiasorinModel.txt -> 29
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch7/Ch7Rcode.txt -> 17
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch7/FEVdataAge10to19.txt -> 301
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/Ch8WinBUGScode.odc -> 0
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/Ch8Rcode.txt -> 7
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/ToenailCodebook.txt -> 58
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/trauma300.txt -> 402
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/ToenailData.txt -> 351
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/prioriterates.txt -> 27220
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/OringData.txt -> 43
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/logoddstrauma.txt -> 2519
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/logoddsdata.txt -> 764
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/cowabortiondata.txt -> 324
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/Ch9WinBUGScodeANOVA.odc -> 0
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/DugongWBcode.txt -> 7
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/DiasorinANOVAModel.txt -> 33
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/FEVWBModel1.txt -> 7
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/Ch9RcodeANOVA.txt -> 98
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/Ch9Rcode.txt -> 22
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/FEVdataAge10to19.txt -> 301
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/BankSalaryData.txt -> 124
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/FullFEVdataExercise9-21.txt -> 1157
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/DiasorinData.txt -> 84
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/Ch11WinBUGScode.odc -> 0
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/Ch11Rcode.txt -> 16
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/Ch11SAScode.txt -> 97
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/ArmadilloHuntingRepeatedMeasuresData.txt -> 65
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/FMDData.txt -> 77
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/GrilleDefectsData.txt -> 29
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/WatkinsData.txt -> 73
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/FabricFaultData.txt -> 67
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch12/Ch12WinBUGScode.odc -> 0
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch12/Ch12Rcode.txt -> 17
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch12/leukemia.txt -> 15
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch12/LeukemiaData.txt -> 26
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/WinBUGScodeExercise13-20.txt -> 8
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/RcodeKidney.txt -> 36
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/Ch13RcodeLeukemia.txt -> 18
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/BayesPHinSAS.sas -> 88
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/LungCancerData.txt -> 158
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/KidneyData.txt -> 1250
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/AcheDataExercise13-20.txt -> 78
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/OvarianCancerData.txt -> 50
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/LeukemiaData.txt -> 26
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/CowData.txt -> 6
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/Larynx-Cancer-Data.txt -> 108
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch14/Ch14WinBUGScode.odc -> 0
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch15/Chap15DPpackage.txt -> 187
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/AppendixC/leukemia.txt -> 13
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/AppendixC/RcodeAppendix.txt -> 37
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/AppendixC/FEVdata.txt -> 301
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/DiagnosticTestsPart2/CodeandDataMedicalTestsPart2.txt -> 51
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/DentalWBcode.txt -> 12
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/DogMixedModel.txt -> 7
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/CSmodel.txt -> 5
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/Ch10WinBUGScode.odc -> 0
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/Ch10Rcode.txt -> 10
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/VentilationData-Exercise-10-15.txt -> 9
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/DentalData.txt -> 64
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/IL1bData.txt -> 95
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/DogDataLinRegVersion.txt -> 37
+<-------------->
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/DogData.txt -> 35
+<-------------->
+https://www.ics.uci.edu/~sternh -> 115
+<-------------->
+https://mdogucu.ics.uci.edu -> 112
+<-------------->
+https://www.stat.uci.edu/faculty/annie-qu -> 203
+<-------------->
+https://dgillen.ics.uci.edu/publications -> 500
+<-------------->
+https://dgillen.ics.uci.edu/current-and-former-lab-members -> 133
+<-------------->
+https://www.ics.uci.edu/involved/project_sponsor -> 325
+<-------------->
+https://www.ics.uci.edu/expo -> 210
+<-------------->
+https://www.ics.uci.edu/about/deans_awards -> 279
+<-------------->
+https://www.stat.uci.edu/faculty/veronica-berrocal -> 190
+<-------------->
+https://www.informatics.uci.edu/explore/faculty-profiles/constance-steinkuehler -> 252
+<-------------->
+https://www.ics.uci.edu/community/events/jim-mckenzie-memorial -> 290
+<-------------->
+https://www.ics.uci.edu/~marios -> 61
+<-------------->
+https://archive.ics.uci.edu/ml/index.php -> 201
+<-------------->
+http://archive.ics.uci.edu/ml/noteNetflix.txt -> 11
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2146 -> 283
+<-------------->
+https://www.informatics.uci.edu/undergrad/bs-business-information-management -> 359
+<-------------->
+https://www.informatics.uci.edu/explore/faculty-profiles/hadar-ziv -> 249
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2177 -> 381
+<-------------->
+https://www.informatics.uci.edu/kobsa-receives-mercator-fellowship -> 218
+<-------------->
+https://www.ics.uci.edu/~kobsa -> 3
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2133 -> 427
+<-------------->
+https://dgillen.ics.uci.edu -> 140
+<-------------->
+https://www.stat.uci.edu/faculty/bin-nan -> 187
+<-------------->
+https://www.stat.uci.edu/undergraduates-conduct-biostatistics-research-at-new-summer-institute-at-uci -> 563
+<-------------->
+https://www.stat.uci.edu/socal-data-science-program-off-to-a-strong-start -> 433
+<-------------->
+https://www.stat.uci.edu/new-faculty-spotlight-statistics-professor-hengrui-cai-strives-for-real-world-impact -> 458
+<-------------->
+https://www.stat.uci.edu/ucis-master-of-data-science-to-launch-part-time-program-in-fall-2023 -> 245
+<-------------->
+https://www.stat.uci.edu/slider/uci-launches-new-professional-program-master-of-data-science -> 328
+<-------------->
+https://statconsulting.ics.uci.edu -> 143
+<-------------->
+https://www.stat.uci.edu/seminar-series -> 205
+<-------------->
+http://www.stat.uci.edu/seminar-series/seminar-series-2014-2015 -> 351
+<-------------->
+http://www.stat.uci.edu/seminar-series/seminar-series-2015-2016 -> 368
+<-------------->
+http://www.stat.uci.edu/seminar-series/seminar-series-2016-2017 -> 244
+<-------------->
+http://www.stat.uci.edu/seminar-series/seminar-series-2017-2018 -> 426
+<-------------->
+http://www.stat.uci.edu/seminar-series/seminar-series-2018-2019 -> 320
+<-------------->
+http://www.stat.uci.edu/wp-content/uploads/JuliaPalaciosAbstract6-6-19 -> 11
+<-------------->
+http://www.stat.uci.edu/wp-content/uploads/TianZhengAbstract5-30-19 -> 11
+<-------------->
+http://www.stat.uci.edu/wp-content/uploads/LorinCrawfordAbstract5-2-19 -> 34
+<-------------->
+http://www.stat.uci.edu/wp-content/uploads/XinTongAbstract4-25-19 -> 11
+<-------------->
+http://www.stat.uci.edu/seminar-series/seminar-series-2019-2020 -> 309
+<-------------->
+https://www.stat.uci.edu/seminar-series-2020-2021 -> 403
+<-------------->
+https://www.stat.uci.edu/seminar-series-2021-2022 -> 404
+<-------------->
+https://www.stat.uci.edu/wp-content/uploads/Shujie-Ma-Abstract-5-5-22 -> 11
+<-------------->
+http://www.stat.uci.edu/news -> 361
+<-------------->
+https://www.stat.uci.edu/news/page/15 -> 260
+<-------------->
+https://www.stat.uci.edu/news/page/13 -> 373
+<-------------->
+https://www.stat.uci.edu/news/page/11 -> 408
+<-------------->
+https://www.stat.uci.edu/news/page/9 -> 479
+<-------------->
+https://www.stat.uci.edu/news/page/7 -> 414
+<-------------->
+https://www.stat.uci.edu/news/page/5 -> 410
+<-------------->
+https://www.stat.uci.edu/news/page/4 -> 446
+<-------------->
+https://www.stat.uci.edu/news/page/6 -> 451
+<-------------->
+https://www.stat.uci.edu/news/page/8 -> 360
+<-------------->
+https://www.stat.uci.edu/news/page/10 -> 482
+<-------------->
+https://www.stat.uci.edu/news/page/12 -> 442
+<-------------->
+https://www.stat.uci.edu/news/page/14 -> 358
+<-------------->
+https://www.stat.uci.edu/news/page/3 -> 464
+<-------------->
+https://www.stat.uci.edu/news/page/2 -> 405
+<-------------->
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL -> 330
+<-------------->
+https://www.stat.uci.edu/minor-in-statistics -> 193
+<-------------->
+https://www.stat.uci.edu/slider/b-s-in-data-science -> 366
+<-------------->
+https://www.stat.uci.edu/employers-of-statistics-grad-students -> 247
+<-------------->
+https://www.stat.uci.edu/statistics-internships-employment-opportunities -> 129
+<-------------->
+https://www.stat.uci.edu/grad-student-directory -> 241
+<-------------->
+http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL -> 478
+<-------------->
+https://mds.ics.uci.edu -> 269
+<-------------->
+https://mds.ics.uci.edu/overview/contact-us -> 66
+<-------------->
+https://mds.ics.uci.edu/overview -> 34
+<-------------->
+https://mds.ics.uci.edu/events -> 100
+<-------------->
+https://mds.ics.uci.edu/2021/12/graduate-student-spotlight-mds-ambassador-adelynn-paik-shares-her-academic-professional-goals -> 371
+<-------------->
+https://mds.ics.uci.edu/category/student-perspective -> 126
+<-------------->
+https://mds.ics.uci.edu/author/editorial-team -> 170
+<-------------->
+https://mds.ics.uci.edu/category/ics-professional-programs -> 107
+<-------------->
+https://mds.ics.uci.edu/category/career-development -> 86
+<-------------->
+https://mds.ics.uci.edu/2022/01/educating-tomorrows-data-scientists -> 329
+<-------------->
+https://mds.ics.uci.edu/2022/04/mds-student-ty-shao-aims-to-make-an-impact-in-healthcare -> 333
+<-------------->
+https://mds.ics.uci.edu/2022/05/mds-program-hosts-panel-discussion-on-career-development-with-data-science-leaders -> 410
+<-------------->
+https://mds.ics.uci.edu/overview/frequently-asked-questions -> 228
+<-------------->
+https://mds.ics.uci.edu/overview/meet-the-team -> 90
+<-------------->
+https://mds.ics.uci.edu/overview/ics-ecosystem -> 145
+<-------------->
+https://mds.ics.uci.edu/overview/financial-aid-tuition -> 359
+<-------------->
+https://mds.ics.uci.edu/overview/career-development -> 115
+<-------------->
+https://mds.ics.uci.edu/overview/academics -> 583
+<-------------->
+https://mds.ics.uci.edu/overview/admissions -> 478
+<-------------->
+https://www.stat.uci.edu/m-s-ph-d-in-statistics -> 153
+<-------------->
+https://www.stat.uci.edu/research -> 288
+<-------------->
+https://www.stat.uci.edu/faculty -> 258
+<-------------->
+https://www.stat.uci.edu/faculty-directory/babak-shahbab -> 206
+<-------------->
+https://www.stat.uci.edu/tutoring-resources -> 184
+<-------------->
+https://www.stat.uci.edu/contact-the-department -> 139
+<-------------->
+https://www.stat.uci.edu/what-is-statistics -> 184
+<-------------->
+https://www.stat.uci.edu/chairs-message -> 161
+<-------------->
+https://www.informatics.uci.edu -> 196
+<-------------->
+https://www.cs.uci.edu -> 273
+<-------------->
+https://www.ics.uci.edu -> 232
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2221 -> 425
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=2222 -> 213
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=2223 -> 313
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=2224 -> 477
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=2225 -> 416
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=2226 -> 327
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=2227 -> 221
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=2228 -> 377
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=2221 -> 422
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=2220 -> 242
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=2223 -> 316
+<-------------->
