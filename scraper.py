@@ -250,7 +250,7 @@ def extract_next_links(url, resp) -> list:
 
     # Adds the tokens to the dictionary storing unique words (part 3 of the report)
     url_token_dict = computeWordFrequencies(tokens, urldefrag(resp.url).url)
-    write_url_word_frequencies_to_file(url_token_dict, urldefrag(resp.url).url)
+    write_url_word_frequencies_to_file(url_token_dict, resp.url) #TODO: redefrag
     write_global_word_frequencies_to_file(unique_word_frequencies)
 
     # Calculates if this page contains the max # of words in a page or not (part 2 of the report)
