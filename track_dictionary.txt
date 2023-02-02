@@ -2960,3 +2960,1439 @@ http://www.ics.uci.edu/community/news/view_news.php?id=1112 -> 224
 <-------------->
 http://www.ics.uci.edu/community/news/view_news.php?id=1076 -> 254
 <-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1075 -> 274
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1074 -> 274
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1072 -> 267
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1071 -> 254
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1070 -> 249
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1069 -> 243
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1068 -> 291
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1067 -> 216
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1066 -> 717
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1065 -> 251
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1064 -> 310
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1073 -> 220
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1063 -> 250
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1062 -> 497
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1061 -> 256
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1060 -> 265
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1059 -> 537
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=679 -> 348
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1046 -> 217
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1045 -> 236
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=678 -> 312
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1044 -> 191
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1043 -> 215
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=677 -> 417
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1042 -> 247
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1041 -> 246
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1039 -> 395
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1040 -> 365
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1036 -> 244
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1037 -> 271
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1038 -> 281
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1035 -> 306
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1034 -> 196
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1032 -> 334
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1031 -> 315
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1033 -> 270
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1029 -> 307
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1030 -> 321
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1028 -> 341
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1027 -> 273
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1026 -> 210
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1025 -> 249
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1024 -> 287
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1023 -> 294
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=676 -> 436
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1022 -> 279
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1021 -> 237
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1018 -> 240
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1019 -> 315
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1020 -> 215
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=675 -> 482
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1015 -> 227
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1016 -> 238
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1017 -> 207
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1013 -> 180
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1014 -> 223
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1012 -> 241
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1047 -> 289
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1011 -> 357
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=674 -> 339
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1010 -> 231
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=3 -> 274
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1009 -> 203
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1008 -> 184
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=5 -> 806
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=4 -> 223
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1006 -> 191
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1007 -> 183
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1005 -> 188
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1004 -> 279
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1003 -> 262
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=672 -> 345
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=671 -> 520
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1002 -> 204
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=673 -> 338
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=7 -> 238
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1048 -> 260
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=670 -> 323
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=669 -> 603
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1001 -> 253
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1000 -> 210
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1049 -> 242
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=667 -> 410
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=998 -> 219
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=999 -> 189
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1050 -> 259
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=666 -> 437
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=996 -> 197
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=997 -> 195
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1051 -> 269
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1052 -> 202
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=994 -> 206
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=995 -> 199
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=665 -> 807
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1053 -> 272
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=993 -> 236
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=664 -> 295
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=668 -> 448
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1054 -> 207
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1055 -> 284
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=663 -> 450
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=992 -> 250
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=991 -> 224
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=990 -> 212
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1056 -> 201
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=989 -> 205
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=1057 -> 289
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=988 -> 216
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=662 -> 469
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=987 -> 201
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=986 -> 214
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=661 -> 473
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=985 -> 213
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=984 -> 204
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=983 -> 229
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=982 -> 251
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=659 -> 660
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=660 -> 463
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=981 -> 219
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=980 -> 197
+<-------------->
+http://www.ics.uci.edu/community/news/view_news.php?id=979 -> 205
+<-------------->
+http://www.ics.uci.edu/~perl -> 275
+<-------------->
+http://www.ics.uci.edu/~perl/publication/pg_diversity -> 127
+<-------------->
+http://www.ics.uci.edu/~perl/publication -> 219
+<-------------->
+http://www.ics.uci.edu/~perl/publication/librando -> 86
+<-------------->
+http://www.ics.uci.edu/~perl/publication/diversity_sok -> 143
+<-------------->
+https://www.stat.uci.edu -> 132
+<-------------->
+https://www.stat.uci.edu/professors-nan-and-gillen-receive-1-8m-grant-to-study-statistical-methods-for-alzheimers-research -> 259
+<-------------->
+https://www.stat.uci.edu/uci-in-top-10-on-fortunes-list-of-best-masters-in-data-science-programs -> 251
+<-------------->
+https://www.stat.uci.edu/stephan-mandt-named-mercator-fellow -> 201
+<-------------->
+https://www.stat.uci.edu/daniel-gillen-named-chancellors-professor -> 230
+<-------------->
+https://www.stat.uci.edu/conference-experience-confirms-competitive-edge-of-ics-capstone-program -> 525
+<-------------->
+https://www.stat.uci.edu/uci-ml-repository-highlights-four-impactful-projects-at-2022-ml-hackathon -> 288
+<-------------->
+https://www.stat.uci.edu/faculty-and-staff-honored-at-annual-ics-awards-celebration -> 409
+<-------------->
+https://www.stat.uci.edu/ics-project-expo-strengthens-industry-engagement-and-showcases-student-talent -> 465
+<-------------->
+https://www.stat.uci.edu/uci-researchers-aim-to-diversify-clinical-research-participation-with-3-7m-nih-grant -> 316
+<-------------->
+https://www.stat.uci.edu/qu-elected-international-statistical-institute-member -> 156
+<-------------->
+https://www.stat.uci.edu/mds-program-hosts-panel-discussion-on-career-development-with-data-science-leaders -> 479
+<-------------->
+https://www.stat.uci.edu/dont-think-you-can-learn-bayesian-statistics-think-again-with-bayes-rules -> 589
+<-------------->
+https://www.stat.uci.edu/professors-berrocal-and-shahbaba-named-american-statistical-association-fellows -> 286
+<-------------->
+https://www.stat.uci.edu/qu-named-2024-ims-medallion-lecturer -> 138
+<-------------->
+https://www.stat.uci.edu/nsf-announces-2022-graduate-research-fellows -> 291
+<-------------->
+https://www.stat.uci.edu/professors-utts-and-stern-honored-with-american-statistical-association-awards -> 231
+<-------------->
+https://www.stat.uci.edu/inaugural-ics-summer-academy-on-data-analytics-now-accepting-applications -> 362
+<-------------->
+https://www.stat.uci.edu/dr-joni-ricks-oddie-applies-data-driven-lens-in-run-for-long-beach-city-council -> 517
+<-------------->
+https://www.stat.uci.edu/applications-open-for-new-uci-summer-biostatistics-institute-for-undergraduate-students -> 330
+<-------------->
+https://www.stat.uci.edu/ics-graduate-programs-in-statistics-and-computer-science-among-top-20-for-public-universities -> 195
+<-------------->
+https://www.stat.uci.edu/mds-student-ty-shao-aims-to-make-an-impact-in-healthcare -> 373
+<-------------->
+https://www.stat.uci.edu/culture-of-collaboration-leads-to-cutting-edge-work-in-ai -> 369
+<-------------->
+https://www.stat.uci.edu/uci-news-ucis-graduate-programs-shine-in-u-s-news-world-report-rankings -> 201
+<-------------->
+https://www.stat.uci.edu/uci-deep-learning-researchers-advance-theory-and-practice-of-data-compression -> 384
+<-------------->
+https://www.stat.uci.edu/uci-news-uci-researchers-receive-state-funding-to-study-pandemic-forecasting -> 179
+<-------------->
+https://www.stat.uci.edu/university-of-california-health-and-cdph-covid-modeling-consortium-awards-grant-funding-to-further-covid-19-data-research -> 187
+<-------------->
+https://www.stat.uci.edu/womens-history-month-resources-for-empowering-women-in-tech -> 773
+<-------------->
+https://www.stat.uci.edu/statistics-ph-d-student-isaac-goldstein-receives-la-verne-noyes-fellowship -> 237
+<-------------->
+https://www.stat.uci.edu/uci-announces-launch-of-institute-for-precision-health -> 515
+<-------------->
+https://www.stat.uci.edu/black-history-month-sharing-resources-to-expand-diversity-in-tech -> 858
+<-------------->
+https://www.stat.uci.edu/4-ics-professors-among-7-uci-researchers-named-aaas-fellows -> 442
+<-------------->
+https://www.stat.uci.edu/xu-receives-slds-student-paper-award -> 155
+<-------------->
+https://www.stat.uci.edu/tech-trends-for-2022 -> 852
+<-------------->
+https://www.stat.uci.edu/graduate-student-spotlight-mds-ambassador-adelynn-paik-shares-her-academic-professional-goals -> 408
+<-------------->
+https://www.stat.uci.edu/disney-research-supports-stephan-mandts-work-on-generative-modeling-with-50000-gift -> 220
+<-------------->
+https://www.stat.uci.edu/beyond-the-t-test-uci-professors-publish-new-statistical-guidance-for-neuroscience-research -> 293
+<-------------->
+https://www.stat.uci.edu/statistics-ph-d-student-tianyu-pan-wins-two-competitive-awards -> 270
+<-------------->
+https://www.stat.uci.edu/elizabeth-lee-wins-data-science-for-social-good-award -> 243
+<-------------->
+https://www.stat.uci.edu/stephan-mandt-and-collaborators-receive-3-5-million-to-study-machine-learning-for-climate-science -> 283
+<-------------->
+https://www.stat.uci.edu/harnessing-the-data-revolution-ics-researchers-and-collaborators-receive-1-5m-data-science-grant -> 319
+<-------------->
+https://www.stat.uci.edu/lifetime-achievement-and-dinsdale-awards-double-the-accolades-for-professor-emerita-jessica-utts -> 413
+<-------------->
+https://www.stat.uci.edu/uci-news-uci-led-study-finds-disparities-in-o-c-rates-of-covid-19-infection-mortality-vladimir-minin-mentioned -> 159
+<-------------->
+https://www.stat.uci.edu/from-theory-to-practice-ucis-machine-learning-hackathon-delivers -> 441
+<-------------->
+https://www.stat.uci.edu/choc-teams-up-with-uci-to-offer-pediatric-capstone-project-in-data-science -> 311
+<-------------->
+https://www.stat.uci.edu/mine-dogucu-receives-young-investigator-award -> 227
+<-------------->
+https://www.stat.uci.edu/qu-appointed-ims-program-secretary -> 205
+<-------------->
+https://www.stat.uci.edu/the-resilience-of-the-class-of-2021 -> 434
+<-------------->
+https://www.stat.uci.edu/capstone-program-showcases-growing-talent-of-ics-students -> 483
+<-------------->
+https://www.stat.uci.edu/a-bold-decision-to-study-abroad-in-high-school-led-sirui-hu-to-uci-and-beyond-data-science-major -> 300
+<-------------->
+https://www.stat.uci.edu/teach-access-recognizes-mine-dogucu-as-curriculum-development-awardee -> 208
+<-------------->
+https://www.stat.uci.edu/uci-news-efforts-to-treat-covid-19-patients-chronicled-in-uc-health-medications-data-bin-nan-mentioned -> 143
+<-------------->
+https://www.stat.uci.edu/exploring-and-strengthening-sports-stats-at-uci -> 450
+<-------------->
+https://www.stat.uci.edu/uci-news-hal-s-stern-is-named-uci-provost-and-executive-vice-chancellor -> 323
+<-------------->
+https://www.stat.uci.edu/three-ics-students-receive-2021-nsf-graduate-research-fellowships -> 299
+<-------------->
+https://www.stat.uci.edu/amstat-news-celebrating-women-in-statistics-2021-annie-qu-mentioned -> 125
+<-------------->
+https://www.stat.uci.edu/a-look-at-health-and-technology-trends-for-2021-and-beyond -> 989
+<-------------->
+https://www.stat.uci.edu/uci-launches-new-professional-program-master-of-data-science -> 328
+<-------------->
+https://www.stat.uci.edu/a-campus-gem-ucis-statistical-consulting-services -> 333
+<-------------->
+https://www.stat.uci.edu/orange-county-business-journal-uci-forecasts-covid-19-trends-in-oc -> 148
+<-------------->
+https://www.stat.uci.edu/kuci-office-hours-podcast-keeping-up-with-coronavirus-statistics-vladimir-minin-interviewed -> 151
+<-------------->
+https://www.stat.uci.edu/uci-statisticians-release-new-online-orange-county-covid-19-information-resource -> 297
+<-------------->
+https://www.stat.uci.edu/ics-statistics-researchers-release-new-online-oc-covid-situation-report -> 329
+<-------------->
+https://www.stat.uci.edu/orange-county-business-journal-uci-releases-covid-19-website -> 172
+<-------------->
+https://www.stat.uci.edu/yahoo-news-data-glitch-confounds-coronavirus-totals-in-orange-county-state-vladimir-minin-quoted -> 130
+<-------------->
+https://www.stat.uci.edu/uci-news-uci-researchers-launch-first-of-its-kind-coronavirus-statistics-portal -> 324
+<-------------->
+https://www.stat.uci.edu/professor-annie-qu-works-to-enhance-the-detection-of-invasive-cancers-using-medical-imaging-data -> 454
+<-------------->
+https://www.stat.uci.edu/hal-stern-selected-as-a-fellow-of-the-international-society-of-bayesian-analysis -> 176
+<-------------->
+https://www.stat.uci.edu/uci-news-national-institute-awards-20-million-in-renewed-funding-to-forensic-science-center -> 284
+<-------------->
+https://www.stat.uci.edu/michelle-nuno-selected-to-participate-in-the-70th-lindau-nobel-laureate-meeting -> 207
+<-------------->
+https://www.stat.uci.edu/uci-mind-alzheimers-disease-clinical-trials-and-covid-19-with-dr-daniel-gillen -> 148
+<-------------->
+https://www.stat.uci.edu/uci-brain-researcher-spotlight-dr-babak-shahbaba -> 349
+<-------------->
+https://www.stat.uci.edu/nsf-announces-2020-graduate-research-fellows -> 339
+<-------------->
+https://www.stat.uci.edu/amstat-news-celebrating-rising-undergraduate-women-in-statistics-and-data-science -> 119
+<-------------->
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship -> 221
+<-------------->
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba -> 254
+<-------------->
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond -> 416
+<-------------->
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed -> 147
+<-------------->
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted -> 145
+<-------------->
+https://www.stat.uci.edu/ics-welcomes-8-new-faculty-for-2019 -> 486
+<-------------->
+https://www.stat.uci.edu/senior-spotlight-taneisha-arora-pursues-her-passions-from-working-in-industry-to-running-a-bakery -> 488
+<-------------->
+https://www.stat.uci.edu/statistics-professors-shahbaba-and-minin-help-develop-framework-to-investigate-complex-biological-systems -> 264
+<-------------->
+https://www.stat.uci.edu/hal-stern-appointed-vice-provost-for-academic-planning -> 212
+<-------------->
+https://www.stat.uci.edu/professor-nan-awarded-nsf-grant-to-improve-statistical-inference -> 229
+<-------------->
+https://www.stat.uci.edu/renewed-funding-lets-hal-stern-continue-research-of-early-life-adversity-brain-development-with-the-uci-conte-center -> 448
+<-------------->
+https://www.stat.uci.edu/conference-honors-statistics-professor-emeritus-wesley-johnson -> 302
+<-------------->
+https://www.stat.uci.edu/ics-students-win-best-web-app-at-hacksc -> 331
+<-------------->
+https://www.stat.uci.edu/professor-guindani-named-fellow-of-the-american-statistical-association -> 268
+<-------------->
+https://www.stat.uci.edu/center-for-statistical-consulting-a-one-stop-shop-for-data-analysis -> 435
+<-------------->
+https://www.stat.uci.edu/statistics-ph-d-students-awarded-nsf-graduate-research-fellowships -> 297
+<-------------->
+https://www.stat.uci.edu/new-data-science-scholarship-to-promote-social-good -> 279
+<-------------->
+https://www.stat.uci.edu/professor-shens-collaborations-exemplify-the-significance-of-statistics -> 316
+<-------------->
+https://www.stat.uci.edu/trio-of-ics-professors-preview-tech-trends-for-2019 -> 828
+<-------------->
+https://www.stat.uci.edu/statistics-ph-d-alumnus-andrew-holbrook-18-named-a-finalist-for-the-savage-award -> 232
+<-------------->
+https://www.stat.uci.edu/multidepartmental-collaboration-on-detecting-code-clones-leads-to-distinguished-paper-award -> 273
+<-------------->
+https://www.stat.uci.edu/senior-spotlight-james-purpura-goes-from-watching-moneyball-to-earning-data-science-degree -> 306
+<-------------->
+https://www.stat.uci.edu/knowable-magazine-when-courtroom-science-goes-wrong-and-how-stats-can-fix-it-hal-stern-featured -> 143
+<-------------->
+https://www.stat.uci.edu/olivia-bernstein-named-outstanding-ta-in-statistics -> 144
+<-------------->
+https://www.stat.uci.edu/hina-arora-tong-zou-share-2018-newcomb-graduate-award-in-statistics -> 176
+<-------------->
+https://www.stat.uci.edu/professor-guindani-named-incoming-editor-in-chief-of-bayesian-analysis -> 313
+<-------------->
+https://www.stat.uci.edu/professor-gillen-receives-1-2m-grant-to-study-alzheimers-disease-clinical-trial-study-partners -> 240
+<-------------->
+https://www.stat.uci.edu/data-science-student-raj-parekh-receives-distinguished-anteater-award -> 405
+<-------------->
+https://www.stat.uci.edu/stern-co-directs-award-winning-csafe-team -> 256
+<-------------->
+https://www.stat.uci.edu/ics-staff-faculty-honored-at-inaugural-faculty-staff-awards-celebration -> 385
+<-------------->
+https://www.stat.uci.edu/maricela-cruz-receives-latino-excellence-award-for-ics -> 231
+<-------------->
+https://www.stat.uci.edu/professor-nan-receives-1-2-million-grant-to-develop-new-statistical-methods -> 388
+<-------------->
+https://www.stat.uci.edu/2018-carl-cotman-young-investigator-award-recipient-is-a-rising-star -> 273
+<-------------->
+https://www.stat.uci.edu/ucis-graduate-programs-shine-in-u-s-news-world-report-rankings -> 128
+<-------------->
+https://www.stat.uci.edu/the-center-for-statistical-consultings-new-director-envisions-a-one-stop-shop-for-data-analysis-needs -> 408
+<-------------->
+https://www.stat.uci.edu/shahbaba-receives-1-7-million-neural-data-analysis-grant -> 323
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1320 -> 345
+<-------------->
+https://www.ics.uci.edu/resources/coronavirus -> 156
+<-------------->
+https://swiki.ics.uci.edu/doku.php/accounts:remote_desktop_connectionCoronavirus -> 38
+<-------------->
+https://swiki.ics.uci.edu/feed.php -> 108
+<-------------->
+https://swiki.ics.uci.edu/doku.php/start -> 246
+<-------------->
+https://swiki.ics.uci.edu/doku.php/projects:maint-winter-2021 -> 351
+<-------------->
+https://swiki.ics.uci.edu/doku.php/projects:maint-fall-2020 -> 128
+<-------------->
+https://swiki.ics.uci.edu/doku.php/announce:fall-2020 -> 446
+<-------------->
+https://swiki.ics.uci.edu/doku.php/accounts:ssh_keys -> 37
+<-------------->
+https://hub.ics.uci.edu -> 93
+<-------------->
+https://rstudio-hub.ics.uci.edu -> 65
+<-------------->
+https://speedtest.ics.uci.edu -> 84
+<-------------->
+https://pastebin.ics.uci.edu -> 102
+<-------------->
+https://pgadmin.ics.uci.edu -> 17
+<-------------->
+https://pgadmin.ics.uci.edu/browser/reset_password -> 12
+<-------------->
+https://phpmyadmin.ics.uci.edu -> 107
+<-------------->
+https://swiki.ics.uci.edu/doku.php/hardware:cluster:openlab -> 39
+<-------------->
+https://swiki.ics.uci.edu/doku.php/projects:maint-2021 -> 397
+<-------------->
+https://swiki.ics.uci.edu/doku.php/projects:maint-spring-2021 -> 323
+<-------------->
+https://swiki.ics.uci.edu/doku.php/announce:announce-2021 -> 353
+<-------------->
+https://containers.ics.uci.edu -> 2
+<-------------->
+https://swiki.ics.uci.edu/doku.php/projects:maint-2022 -> 221
+<-------------->
+https://helpdesk.ics.uci.edu -> 28
+<-------------->
+https://swiki.ics.uci.edu/doku.php/announce:announce-2022 -> 396
+<-------------->
+https://swiki.ics.uci.edu/doku.php/network:campus:campusvpn -> 37
+<-------------->
+https://swiki.ics.uci.edu/doku.php/services:datacenter:cs -> 288
+<-------------->
+https://swiki.ics.uci.edu/doku.php/virtual_environments:jupyterhub -> 564
+<-------------->
+https://hub.ics.uci.edu/hub/admin -> 93
+<-------------->
+https://swiki.ics.uci.edu/doku.php/accounts:account_activation -> 69
+<-------------->
+https://onboarding.ics.uci.edu/site/index -> 6
+<-------------->
+https://onboarding.ics.uci.edu/task/todo -> 19
+<-------------->
+http://www.ics.uci.edu/~lab/students/acct_activate.php -> 303
+<-------------->
+http://www.ics.uci.edu/computing -> 246
+<-------------->
+https://www.ics.uci.edu/~lab/students -> 228
+<-------------->
+https://www.ics.uci.edu/~lab -> 183
+<-------------->
+http://www.ics.uci.edu/about/kfflab -> 255
+<-------------->
+https://swiki.ics.uci.edu/doku.php/hardware:laptops -> 37
+<-------------->
+https://support.ics.uci.edu/laptops -> 11
+<-------------->
+http://keys.ics.uci.edu -> 9
+<-------------->
+http://www.ics.uci.edu/community/news/student_blogs -> 214
+<-------------->
+http://www.ics.uci.edu/community/news/press -> 215
+<-------------->
+http://www.ics.uci.edu/community/news/press/view_press?id=160 -> 324
+<-------------->
+http://www.ics.uci.edu/community/news/press/view_press?id=161 -> 334
+<-------------->
+http://www.ics.uci.edu/community/news/press/view_press?id=162 -> 478
+<-------------->
+http://www.ics.uci.edu/community/news/press/view_press?id=163 -> 414
+<-------------->
+http://www.ics.uci.edu/community/news/press/view_press?id=164 -> 402
+<-------------->
+http://www.ics.uci.edu/community/news/press/view_press?id=165 -> 357
+<-------------->
+http://www.ics.uci.edu/community/news/press/view_press?id=166 -> 365
+<-------------->
+http://www.ics.uci.edu/community/news/press/view_press?id=167 -> 405
+<-------------->
+http://www.ics.uci.edu/ugrad/courses/index -> 235
+<-------------->
+http://www.ics.uci.edu/grad/policies/index -> 203
+<-------------->
+http://www.ics.uci.edu/computing/policy/ethics.php -> 247
+<-------------->
+https://www.ics.uci.edu/grad -> 227
+<-------------->
+http://www.ics.uci.edu/grad/forms/index -> 179
+<-------------->
+https://swiki.ics.uci.edu/doku.php/accounts:remote_desktop_connectioncoronavirus -> 38
+<-------------->
+https://tippersweb.ics.uci.edu/covid19/d/oKgkWMDGk/cs-dashboard-mobile?refresh=30s&orgId=1 -> 15
+<-------------->
+https://www.ics.uci.edu/resources -> 138
+<-------------->
+https://www.ics.uci.edu/about/about_safety.php -> 215
+<-------------->
+https://www.ics.uci.edu/accessibility -> 243
+<-------------->
+https://www.ics.uci.edu/about/facilities/index.php -> 254
+<-------------->
+https://www.ics.uci.edu/about/kfflab/index.php -> 255
+<-------------->
+https://www.ics.uci.edu/resources/researchdevelopment -> 240
+<-------------->
+https://intranet.ics.uci.edu -> 50
+<-------------->
+https://intranet.ics.uci.edu/doku.php/start?do=index -> 37
+<-------------->
+https://intranet.ics.uci.edu/doku.php/start?do=recent -> 44
+<-------------->
+https://www.ics.uci.edu/employment -> 271
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1321 -> 279
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1322 -> 452
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1323 -> 448
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1324 -> 308
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1325 -> 209
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1326 -> 263
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1327 -> 390
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1328 -> 256
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1329 -> 247
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1330 -> 489
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1331 -> 489
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1332 -> 366
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1333 -> 286
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1334 -> 298
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1335 -> 277
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1336 -> 230
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1337 -> 371
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1338 -> 668
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1339 -> 181
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1340 -> 376
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1341 -> 195
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1342 -> 433
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1343 -> 498
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1344 -> 255
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1345 -> 311
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1347 -> 314
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1348 -> 384
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1349 -> 381
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1350 -> 277
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1351 -> 375
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1352 -> 354
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1353 -> 249
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1358 -> 425
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1359 -> 434
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1360 -> 438
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1361 -> 258
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1362 -> 247
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1363 -> 316
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1364 -> 270
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1365 -> 704
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1366 -> 477
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1367 -> 262
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1369 -> 287
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1370 -> 304
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1374 -> 432
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1373 -> 398
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1375 -> 325
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1376 -> 210
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1377 -> 196
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1378 -> 215
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1379 -> 216
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1380 -> 589
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1381 -> 441
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1386 -> 209
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1383 -> 268
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1384 -> 240
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1385 -> 769
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1387 -> 225
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1388 -> 307
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1399 -> 226
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1389 -> 291
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1390 -> 225
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1391 -> 203
+<-------------->
+https://www.ics.uci.edu/~gts -> 256
+<-------------->
+http://www.ics.uci.edu/%7Egts/words.html -> 237
+<-------------->
+http://www.ics.uci.edu/%7Egts/stupid.html -> 177
+<-------------->
+http://www.ics.uci.edu/%7Egts/facts.html -> 305
+<-------------->
+http://www.ics.uci.edu/%7Egts/students.html -> 289
+<-------------->
+http://www.ics.uci.edu/%7Egts/pats.html -> 84
+<-------------->
+http://www.ics.uci.edu/%7Egts/contact.html -> 29
+<-------------->
+https://www.ics.uci.edu/~theory -> 119
+<-------------->
+http://www.ics.uci.edu/~darkhipo -> 92
+<-------------->
+http://www.ics.uci.edu/~rasadi -> 241
+<-------------->
+http://www.ics.uci.edu/~standish -> 252
+<-------------->
+http://www.ics.uci.edu/~lueker -> 296
+<-------------->
+http://www.ics.uci.edu/computerscience -> 273
+<-------------->
+https://www.cs.uci.edu/senior-spotlight-jose-cisneros-builds-impressive-resume-with-trio-of-internships -> 483
+<-------------->
+https://www.cs.uci.edu/ucla-and-uci-research-team-receives-nsf-grant-for-pandemic-prediction -> 293
+<-------------->
+https://www.cs.uci.edu/sangeetha-abdu-jyothi-named-a-rising-star-in-networking-and-communications -> 233
+<-------------->
+https://www.cs.uci.edu/michael-franz-earns-distinguished-professor-title -> 214
+<-------------->
+https://www.cs.uci.edu/marco-levorato-to-give-keynote-at-ieee-healthcom -> 229
+<-------------->
+https://www.cs.uci.edu/cutting-edge-work-in-topological-network-alignment-by-wayne-hayes-and-students -> 415
+<-------------->
+https://www.cs.uci.edu/stephan-mandt-named-mercator-fellow -> 209
+<-------------->
+https://www.cs.uci.edu/conference-experience-confirms-competitive-edge-of-ics-capstone-program -> 527
+<-------------->
+https://www.cs.uci.edu/ics-and-google-researchers-awarded-best-task-paper-for-collaboration-on-automatically-updating-wikipedia -> 309
+<-------------->
+https://www.cs.uci.edu/master-of-computer-science-students-pitch-products-and-network-at-spring-2022-showcase -> 462
+<-------------->
+https://www.cs.uci.edu/uci-ml-repository-highlights-four-impactful-projects-at-2022-ml-hackathon -> 288
+<-------------->
+https://www.cs.uci.edu/faculty-and-staff-honored-at-annual-ics-awards-celebration -> 415
+<-------------->
+https://www.cs.uci.edu/ics-project-expo-strengthens-industry-engagement-and-showcases-student-talent -> 470
+<-------------->
+https://www.cs.uci.edu/uci-takes-fourth-place-in-first-appearance-at-embedded-capture-the-flag-competition -> 398
+<-------------->
+https://www.cs.uci.edu/2022-butterworth-product-development-competition-back-in-full-swing -> 526
+<-------------->
+https://www.cs.uci.edu/computer-science-researchers-collaborating-on-1-2m-nsf-grant-to-study-geometric-graphs -> 227
+<-------------->
+https://www.cs.uci.edu/uci-news-uci-wins-5-year-14m-nih-grant-to-study-brain-circuits-susceptible-to-aging-alzheimers-disease-gopi-meenakshisundaram-mentioned -> 226
+<-------------->
+https://www.cs.uci.edu/pierre-baldi-tackles-deep-learning-at-800th-anniversary-of-the-university-of-padova-in-italy -> 212
+<-------------->
+https://www.cs.uci.edu/the-conversation-what-are-digital-twins-a-pair-of-computer-modeling-experts-explain-co-author-nalini-venkatasubramanian -> 212
+<-------------->
+https://www.cs.uci.edu/futurity-roadside-objects-can-trick-driverless-cars-alfred-chen-quoted -> 152
+<-------------->
+https://www.cs.uci.edu/uci-news-uci-researchers-autonomous-vehicles-can-be-tricked-into-dangerous-driving-behavior -> 336
+<-------------->
+https://www.cs.uci.edu/wired-google-has-a-plan-to-stop-its-new-ai-from-being-dirty-and-rude-sameer-singh-quoted -> 146
+<-------------->
+https://www.cs.uci.edu/nsf-announces-2022-graduate-research-fellows -> 306
+<-------------->
+https://www.cs.uci.edu/alumni-spotlight-ludovico-verniani-21-rewards-adventure-with-quadra-app -> 489
+<-------------->
+https://www.cs.uci.edu/uci-celebration-of-teaching-honors-three-ics-faculty-members -> 549
+<-------------->
+https://www.cs.uci.edu/uci-machine-learning-repository-to-host-2022-ml-hackathon -> 226
+<-------------->
+https://www.cs.uci.edu/inaugural-ics-summer-academy-on-data-analytics-now-accepting-applications -> 360
+<-------------->
+https://www.cs.uci.edu/the-zotbins-team-continues-to-grow-supporting-ucis-move-to-zero-waste -> 478
+<-------------->
+https://www.cs.uci.edu/multidisciplinary-collaborators-set-their-sights-on-color-vision-in-the-dark -> 286
+<-------------->
+https://www.cs.uci.edu/machine-learning-street-talk-podcast-features-reality-check-from-sameer-singh-and-yasaman-razeghi -> 235
+<-------------->
+https://www.cs.uci.edu/ics-researchers-win-best-paper-award-at-eurosys-2022 -> 245
+<-------------->
+https://www.cs.uci.edu/nlp-benchmarks-ml-devops-interoperability-with-yasaman-razeghi-and-prof-sameer-singh-machine-learning-street-talk-podcast -> 181
+<-------------->
+https://www.cs.uci.edu/ics-graduate-programs-in-statistics-and-computer-science-among-top-20-for-public-universities -> 211
+<-------------->
+https://www.cs.uci.edu/culture-of-collaboration-leads-to-cutting-edge-work-in-ai -> 372
+<-------------->
+https://www.cs.uci.edu/uci-news-ucis-graduate-programs-shine-in-u-s-news-world-report-rankings -> 199
+<-------------->
+https://www.cs.uci.edu/uci-deep-learning-researchers-advance-theory-and-practice-of-data-compression -> 385
+<-------------->
+https://www.cs.uci.edu/ukr-ai-develops-ai-model-to-detect-misinformation-on-russia-ukraine-war -> 405
+<-------------->
+https://www.cs.uci.edu/uci-researchers-draft-legislation-to-incentivize-better-cybersecurity -> 601
+<-------------->
+https://www.cs.uci.edu/uci-news-uci-researchers-develop-hybrid-human-machine-framework-for-building-smarter-ai -> 302
+<-------------->
+https://www.cs.uci.edu/hack-at-uci-hosts-hybrid-hackuci-2022 -> 550
+<-------------->
+https://www.cs.uci.edu/ph-d-student-ping-xiang-chen-awarded-j-yang-family-foundation-fellowship -> 222
+<-------------->
+https://www.cs.uci.edu/womens-history-month-resources-for-empowering-women-in-tech -> 783
+<-------------->
+https://www.cs.uci.edu/student-spotlight-computer-science-and-music-double-major-joseph-wong-finds-harmony-at-uci -> 353
+<-------------->
+https://www.cs.uci.edu/alumni-spotlight-anthony-d-mays-is-opening-doors-for-the-next-generation-of-tech-talent -> 690
+<-------------->
+https://www.cs.uci.edu/student-spotlight-cs-major-alex-meng-makes-an-impact-as-a-resident-advisor -> 402
+<-------------->
+https://www.cs.uci.edu/black-history-month-sharing-resources-to-expand-diversity-in-tech -> 878
+<-------------->
+https://duttgroup.ics.uci.edu -> 309
+<-------------->
+https://duttgroup.ics.uci.edu/2020/04/04/our-paper-by-hamid-and-sina-has-been-selected-as-a-finalist-for-the-icassp-2020-best-paper-award -> 148
+<-------------->
+https://duttgroup.ics.uci.edu/2020/03/27/wolfgang-hillen-summer-school-2020 -> 825
+<-------------->
+https://duttgroup.ics.uci.edu/author/maityb -> 101
+<-------------->
+https://duttgroup.ics.uci.edu/category/uncategorized -> 253
+<-------------->
+https://duttgroup.ics.uci.edu/2018/09/13/accepted-paper-in-globecom2018-conference -> 169
+<-------------->
+https://duttgroup.ics.uci.edu/2018/09/25/fall18-kick-off-and-welcome-bbq-party -> 160
+<-------------->
+https://duttgroup.ics.uci.edu/tag/health-care -> 135
+<-------------->
+https://duttgroup.ics.uci.edu/2018/10/13/won-first-place-at-student-design-contest-held-by-16th-international-system-on-chip-conference -> 166
+<-------------->
+https://duttgroup.ics.uci.edu/2018/11/08/chenying-hsiehs-paper-got-accepted-in-date19-titled-the-case-for-exploiting-underutilized-resources-in-heterogeneous-mobile-architectures -> 158
+<-------------->
+https://duttgroup.ics.uci.edu/tag/upr -> 94
+<-------------->
+https://duttgroup.ics.uci.edu/2019/11/12/another-medal-for-drg-kasra-wins-3rd-place-in-acm-student-research-competition-at-esweek19 -> 183
+<-------------->
+https://duttgroup.ics.uci.edu/tag/ipf -> 100
+<-------------->
+https://duttgroup.ics.uci.edu/2019/11/12/hessle-free -> 153
+<-------------->
+https://duttgroup.ics.uci.edu/tag/rlw -> 95
+<-------------->
+https://duttgroup.ics.uci.edu/author/hnejatol -> 112
+<-------------->
+https://duttgroup.ics.uci.edu/2019/02/21/group-meeting-feb-2019-programmable-accelerator-dnn -> 144
+<-------------->
+https://duttgroup.ics.uci.edu/category/meeting -> 81
+<-------------->
+https://duttgroup.ics.uci.edu/2020/08/01/a-paper-was-accepted-at-acm-transaction-on-internet-of-things -> 168
+<-------------->
+https://duttgroup.ics.uci.edu/2020/08/11/stint-paper-by-michael-khuong-and-wongi-was-presented-at-acm-islped-2020 -> 165
+<-------------->
+http://www.ics.uci.edu/~dsm/cypress -> 374
+<-------------->
+http://cert.ics.uci.edu -> 302
+<-------------->
+http://isg.ics.uci.edu/events.html -> 145
+<-------------->
+https://isg.ics.uci.edu/news/isg-researchers-won-the-mark-weiser-best-paper-award-at-ieee-percom-2022 -> 180
+<-------------->
+https://isg.ics.uci.edu/events/list/?tribe_event_display=past&tribe_paged=1 -> 1340
+<-------------->
+https://isg.ics.uci.edu/event/sadeem-alsudais-shengquan-ni-drove-tracking-execution-results-of-workflows-on-large-data -> 246
+<-------------->
+https://isg.ics.uci.edu/event/isg-talks-welcome-back -> 156
+<-------------->
+https://isg.ics.uci.edu/event/anand-deshpahde-persistent-technologies-how-to-build-your-own-business -> 359
+<-------------->
+https://isg.ics.uci.edu/tag/talks -> 135
+<-------------->
+https://isg.ics.uci.edu/event/jayant-haritsa-iisc-bangalore-shedding-light-on-opaque-database-queries -> 278
+<-------------->
+https://isg.ics.uci.edu/event/matt-ingenthron-couchbase-couchbase-and-distributed-computing-backends-for-big-data-processing -> 203
+<-------------->
+https://isg.ics.uci.edu/event/tim-kraska-mit-towards-instance-optimized-data-systems -> 295
+<-------------->
+https://isg.ics.uci.edu/event/nandit-soparkar-ubiquiti-data-driven-ai-technologies-for-a-consumer-webapp -> 281
+<-------------->
+https://isg.ics.uci.edu/event/yannis-chronis-university-of-wisconsin-madison-analytic-query-processing-using-associative-computing -> 259
+<-------------->
+https://isg.ics.uci.edu/event/managing-digital-flows-in-a-data-driven-world -> 205
+<-------------->
+https://isg.ics.uci.edu/event/adding-data-management-to-orleans-a-journey -> 254
+<-------------->
+https://isg.ics.uci.edu/event/locater-cleaning-wifi-connectivity-datasets-for-semantic-localization -> 268
+<-------------->
+https://isg.ics.uci.edu/event/yugabytedb-bringing-together-the-best-of-amazon-aurora-and-google-spanner -> 245
+<-------------->
+https://isg.ics.uci.edu/event/crocodiledb-resource-efficient-database-execution -> 291
+<-------------->
+https://isg.ics.uci.edu/event/lei-cao-toward-an-end-to-end-anomaly-discovery-paradigm -> 288
+<-------------->
+https://isg.ics.uci.edu/event/redesigning-storage-systems-for-future-workloads-hardware-and-performance-requirements-cs-faculty-candidate-seminar -> 320
+<-------------->
+https://isg.ics.uci.edu/event/david-lomet-tbd -> 346
+<-------------->
+https://isg.ics.uci.edu/event/babak-salimi-causal-inference-for-responsible-data-science -> 310
+<-------------->
+https://isg.ics.uci.edu/event/depending-on-appending -> 246
+<-------------->
+https://isg.ics.uci.edu/event/opportunities-and-perils-of-data-science-a-roadmap-ics-distinguished-lecture -> 302
+<-------------->
+https://isg.ics.uci.edu/event/systems-and-ml-at-riselab-cs-distinguished-seminar-series -> 297
+<-------------->
+https://isg.ics.uci.edu/event/effective-filters-and-linear-time-verification-for-tree-similarity-joins -> 305
+<-------------->
+https://isg.ics.uci.edu/event/event-detection-with-temporal-predicates -> 304
+<-------------->
+https://isg.ics.uci.edu/event/final-defense-jordan-oh -> 333
+<-------------->
+https://isg.ics.uci.edu/event/a-theoretical-view-of-distributed-systems-cs-distinguished-seminar-series -> 324
+<-------------->
+https://isg.ics.uci.edu/event/lsm-based-storage-techniques-a-tutorial -> 194
+<-------------->
+https://isg.ics.uci.edu/event/personalization-of-pervasive-autonomy-applications-and-system-support -> 355
+<-------------->
+https://isg.ics.uci.edu/event/scalable-transaction-and-polystore-data-management-in-leanxcale -> 330
+<-------------->
+https://isg.ics.uci.edu/event/aquaeis-middleware-support-for-event-identification-in-communitywater-infrastructures -> 256
+<-------------->
+https://isg.ics.uci.edu/event/amber-a-debuggable-dataflow-system-based-on-theactor-model -> 222
+<-------------->
+https://isg.ics.uci.edu/event/multistage-adaptive-load-balancing-in-big-active-data-publish-subscribe-systems -> 243
+<-------------->
+https://isg.ics.uci.edu/event/gift-sinthong-asterixdb-meets-data-science -> 243
+<-------------->
+https://isg.ics.uci.edu/event/michal-shmueli-scheuer-conversational-bots-for-customer-support -> 260
+<-------------->
+https://isg.ics.uci.edu/event/pat-helland-theres-no-substitute-for-interchangeability -> 259
+<-------------->
+https://isg.ics.uci.edu/event/fatemeh-nargesian-data-enrichment-for-data-science -> 254
+<-------------->
+https://isg.ics.uci.edu/event/xiangyao-yu-transaction-processing-at-scale -> 277
+<-------------->
+https://isg.ics.uci.edu/event/prof-sang-woo-jun-lowering-the-cost-of-large-scale-data-analytics-via-efficient-use-of-flash-storage -> 251
+<-------------->
+https://isg.ics.uci.edu/event/prof-jeff-ullman-visit -> 278
+<-------------->
+https://isg.ics.uci.edu/event/speaker-david-lomet-microsoft-research-cost-performance-in-modern-data-stores-how-data-caching-systems-succeed -> 322
+<-------------->
+https://isg.ics.uci.edu/event/vinayak-borkar-fireeye-inc-the-x15-machine-data-management-platform -> 288
+<-------------->
+https://isg.ics.uci.edu/event/dr-andrey-balmin-and-mayank-pradhan-workday-workday-prism-analytics-unifying-interactive-and-batch-data-processing-using-apache-spark -> 323
+<-------------->
+https://isg.ics.uci.edu/event/large-scale-and-low-latency-data-distribution-from-database-to-servers -> 245
+<-------------->
+https://isg.ics.uci.edu/contact-us -> 133
+<-------------->
+https://isg.ics.uci.edu/visitor-info -> 196
+<-------------->
+https://isg.ics.uci.edu/ournews -> 270
+<-------------->
+https://isg.ics.uci.edu/news/couchbase-sponsers-isg -> 146
+<-------------->
+https://isg.ics.uci.edu/news/socaldb-day-2018-at-ucsd-october-19-2018 -> 156
+<-------------->
+https://isg.ics.uci.edu/news/iot-notarysensor-data-attestation-in-smart-environments-paper-by-isg-authors-receives-the-2019-ieee-nca-award -> 169
+<-------------->
+https://isg.ics.uci.edu/news/tippers-wins-naval-information-warfare-systems-command-navwar-innovation-award -> 133
+<-------------->
+https://www.cs.uci.edu/tippers-wins-naval-information-warfare-systems-command-navwar-innovation-award -> 233
+<-------------->
+https://www.cs.uci.edu/ucis-computer-science-program-ranked-4th-by-best-value-schools -> 139
+<-------------->
+https://www.cs.uci.edu/uci-health-a-digital-prosthetic-eye-for-the-21st-century-ian-harris-mentioned -> 127
+<-------------->
+https://www.cs.uci.edu/new-wics-mentorship-program-helps-high-school-girls-explore-computer-science -> 264
+<-------------->
+https://www.cs.uci.edu/alumni-spotlight-archana-senthilkumars-real-world-education-helps-bring-fictional-worlds-to-life -> 409
+<-------------->
+https://www.cs.uci.edu/uci-news-uci-advances-to-national-cyber-defense-competition-following-historic-regionals-win -> 298
+<-------------->
+https://www.cs.uci.edu/computer-science-student-cheng-zhang-receives-facebook-ph-d-fellowship -> 299
+<-------------->
+https://www.cs.uci.edu/michael-franz-wins-acm-chuck-thacker-breakthrough-in-computing-award -> 337
+<-------------->
+https://www.cs.uci.edu/3416-2 -> 143
+<-------------->
+https://www.cs.uci.edu/uci-news-risk-to-reward-one-alums-journey -> 511
+<-------------->
+https://www.ics.uci.edu/~chengz20 -> 195
+<-------------->
+https://cyberclub.ics.uci.edu -> 169
+<-------------->
+https://cyberclub.ics.uci.edu/blog/HackLAN -> 184
+<-------------->
+https://cyberclub.ics.uci.edu/blog/ioXt-talk -> 103
+<-------------->
+https://cyberclub.ics.uci.edu/blog/TSEC-talk -> 113
+<-------------->
+https://cyberclub.ics.uci.edu/sponsor -> 24
+<-------------->
+https://cyberclub.ics.uci.edu/calendar -> 16
+<-------------->
+https://cyberclub.ics.uci.edu/blog -> 77
+<-------------->
+https://cyberclub.ics.uci.edu/blog/wrccdc-quals-2019 -> 82
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1499 -> 316
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1501 -> 407
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1502 -> 199
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1503 -> 645
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1504 -> 193
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1505 -> 465
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1506 -> 562
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1507 -> 227
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1508 -> 316
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1509 -> 414
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1510 -> 299
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1511 -> 194
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1512 -> 179
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1513 -> 217
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1514 -> 337
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1515 -> 185
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1516 -> 340
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1517 -> 429
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1518 -> 260
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1519 -> 419
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1520 -> 629
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1521 -> 204
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1522 -> 391
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1523 -> 306
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1524 -> 436
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1525 -> 454
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1526 -> 255
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1527 -> 183
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1528 -> 359
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1529 -> 397
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1530 -> 213
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1531 -> 483
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1532 -> 373
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1533 -> 227
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1534 -> 254
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1535 -> 199
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1536 -> 364
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1537 -> 484
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1538 -> 551
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1539 -> 242
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1540 -> 196
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1541 -> 191
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1542 -> 268
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1543 -> 397
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1544 -> 328
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1545 -> 527
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1546 -> 561
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1547 -> 642
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1548 -> 201
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1549 -> 389
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1550 -> 210
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1551 -> 291
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1552 -> 190
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1553 -> 356
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1554 -> 254
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1555 -> 193
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1556 -> 212
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1557 -> 185
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1558 -> 210
+<-------------->
+https://www.ics.uci.edu/community/news/view_news?id=1429 -> 589
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1430 -> 269
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1431 -> 262
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1432 -> 262
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1433 -> 468
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1434 -> 239
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1435 -> 345
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1436 -> 237
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1437 -> 206
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1438 -> 641
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1439 -> 208
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1440 -> 571
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1441 -> 364
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1442 -> 171
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1443 -> 637
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1444 -> 496
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1445 -> 498
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1446 -> 238
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1447 -> 200
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1448 -> 589
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1449 -> 429
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1450 -> 248
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1451 -> 444
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1452 -> 293
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1453 -> 268
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1454 -> 192
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1455 -> 411
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1456 -> 337
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1457 -> 417
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1458 -> 260
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1459 -> 317
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1460 -> 467
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1461 -> 345
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1462 -> 336
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1463 -> 284
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1464 -> 201
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1465 -> 440
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1466 -> 518
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1467 -> 471
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1468 -> 427
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1469 -> 300
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1470 -> 298
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1471 -> 322
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1472 -> 213
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1473 -> 482
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1474 -> 332
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1475 -> 317
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1476 -> 364
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1477 -> 345
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1478 -> 208
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1479 -> 886
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1480 -> 301
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1481 -> 341
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1482 -> 202
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1483 -> 218
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1484 -> 454
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1485 -> 327
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1486 -> 281
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1487 -> 203
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1488 -> 212
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1489 -> 305
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1490 -> 483
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1491 -> 386
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1492 -> 220
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1493 -> 215
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1494 -> 486
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1495 -> 227
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1496 -> 377
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1497 -> 411
+<-------------->
+https://www.ics.uci.edu/~hillarya -> 138
+<-------------->
+https://www.ics.uci.edu/~gbowker -> 210
+<-------------->
+https://transformativeplay.ics.uci.edu -> 17
+<-------------->
+https://transformativeplay.ics.uci.edu/classes -> 75
+<-------------->
+https://transformativeplay.ics.uci.edu/?page_id=70 -> 1096
+<-------------->
+https://transformativeplay.ics.uci.edu/?page_id=188 -> 875
+<-------------->
+https://transformativeplay.ics.uci.edu/classes/in4rmatx-295-digital-media-games -> 1148
+<-------------->
+https://transformativeplay.ics.uci.edu/classes/ics-163-mobile-ubiquitous-games -> 809
+<-------------->
+https://transformativeplay.ics.uci.edu/pervasive-games-film-festival -> 203
+<-------------->
+https://transformativeplay.ics.uci.edu/inf-242-winter-2017 -> 845
+<-------------->
+https://transformativeplay.ics.uci.edu/classes/inf-241-introduction-to-ubiquitous-computing -> 1311
+<-------------->
+https://transformativeplay.ics.uci.edu/classes/ics-169-ab-capstone-game-project-fall-2017 -> 812
+<-------------->
+https://transformativeplay.ics.uci.edu/capstone18-19 -> 1078
+<-------------->
+https://transformativeplay.ics.uci.edu/2019-global-game-jam-at-uci -> 442
+<-------------->
+https://transformativeplay.ics.uci.edu/ar-vr-mr-theater -> 981
+<-------------->
+https://transformativeplay.ics.uci.edu/ics-169-a-b-capstone-game-project-2020-21 -> 1438
+<-------------->
+https://transformativeplay.ics.uci.edu/cgs-capstone-showcase-2021 -> 374
+<-------------->
+https://transformativeplay.ics.uci.edu/storytelling-for-interactive-media -> 1163
+<-------------->
+https://transformativeplay.ics.uci.edu/people-v-2 -> 125
+<-------------->
+https://transformativeplay.ics.uci.edu/matt-knutson -> 42
+<-------------->
+https://transformativeplay.ics.uci.edu/juliet-norton -> 36
+<-------------->
+https://transformativeplay.ics.uci.edu/john-seberger -> 204
+<-------------->
+https://transformativeplay.ics.uci.edu/aubrey-slaughter -> 34
+<-------------->
+https://transformativeplay.ics.uci.edu/aaron-trammell -> 72
+<-------------->
+https://transformativeplay.ics.uci.edu/vincent-olivieri -> 103
+<-------------->
+https://transformativeplay.ics.uci.edu/michael-a-cowling -> 116
+<-------------->
+https://transformativeplay.ics.uci.edu/bonnie-bo-ruberg -> 57
+<-------------->
+https://transformativeplay.ics.uci.edu/jesse-collin-jackson -> 60
+<-------------->
+https://transformativeplay.ics.uci.edu/geoffrey-c-bowker -> 98
+<-------------->
+https://transformativeplay.ics.uci.edu/nazely-hartoonian -> 140
+<-------------->
+https://transformativeplay.ics.uci.edu/jeffrey-bryan -> 70
+<-------------->
+https://transformativeplay.ics.uci.edu/ke-jing -> 122
+<-------------->
+https://transformativeplay.ics.uci.edu/magia-transformo -> 331
+<-------------->
+https://transformativeplay.ics.uci.edu/research -> 67
+<-------------->
+https://transformativeplay.ics.uci.edu/research/publications -> 754
+<-------------->
+https://transformativeplay.ics.uci.edu/tangible-storytelling -> 113
+<-------------->
+https://transformativeplay.ics.uci.edu/design-fiction -> 138
+<-------------->
+https://transformativeplay.ics.uci.edu/playful-fab -> 130
+<-------------->
+https://transformativeplay.ics.uci.edu/transformative-costumed-play -> 144
+<-------------->
+https://transformativeplay.ics.uci.edu/costumes-wearables-as-game-controllers-workshop-at-uci -> 137
+<-------------->
+https://transformativeplay.ics.uci.edu/research/costumes-and-wearables-as-game-controllers -> 74
+<-------------->
+https://wearablegames.ics.uci.edu -> 363
+<-------------->
+https://wearablegames.ics.uci.edu/?feed=rss2 -> 772
+<-------------->
+https://wearablegames.ics.uci.edu/?p=1 -> 610
+<-------------->
+https://wearablegames.ics.uci.edu/?p=34 -> 292
+<-------------->
+https://wearablegames.ics.uci.edu/?page_id=95 -> 123
+<-------------->
+https://transformativeplay.ics.uci.edu/shadowcast -> 217
+<-------------->
+https://transformativeplay.ics.uci.edu/events -> 414
+<-------------->
+https://transformativeplay.ics.uci.edu/?page_id=34 -> 230
+<-------------->
+https://transformativeplay.ics.uci.edu/?page_id=39 -> 410
+<-------------->
+http://www.ics.uci.edu/about/brenhall -> 235
+<-------------->
+http://www.ics.uci.edu/community/news/features/view_feature?id=69 -> 344
+<-------------->
+https://www.ics.uci.edu/community/news/features -> 145
+<-------------->
+https://transformativeplay.ics.uci.edu/?page_id=224 -> 137
+<-------------->
+https://transformativeplay.ics.uci.edu/events/evoking-transformative-play-day-with-cds-middle-schoolers -> 104
+<-------------->
+https://transformativeplay.ics.uci.edu/global-game-jam-part-deux -> 310
+<-------------->
+https://transformativeplay.ics.uci.edu/events/board-games-reclaimed -> 255
+<-------------->
+https://transformativeplay.ics.uci.edu/global-game-jam-2018 -> 543
+<-------------->
+https://transformativeplay.ics.uci.edu/2020-global-game-jam-at-uci -> 463
+<-------------->
+https://www.informatics.uci.edu/global-game-jam-spurs-inspiration-and-connectivity -> 344
+<-------------->
+https://www.informatics.uci.edu/2014/06 -> 187
+<-------------->
+https://www.informatics.uci.edu/gillian-hayes-first-to-hold-new-kleist-informatics-chair -> 263
+<-------------->
+https://www.informatics.uci.edu/uc-irvine-news-ucis-first-14-computer-game-science-majors-are-set-to-graduate-el-zarki-frost-quoted -> 489
+<-------------->
+https://www.informatics.uci.edu/2014/07 -> 153
+<-------------->
+https://www.informatics.uci.edu/2014/08 -> 200
+<-------------->
+https://www.informatics.uci.edu/2014/09 -> 197
+<-------------->
+https://www.informatics.uci.edu/lost-download-zotfinder -> 350
+<-------------->
+https://www.informatics.uci.edu/the-kernel-11-women-who-are-changing-geek-culture -> 181
+<-------------->
+https://www.informatics.uci.edu/close-to-the-trenches -> 598
+<-------------->
+https://www.informatics.uci.edu/1793 -> 223
+<-------------->
+https://www.informatics.uci.edu/south-china-morning-post-the-facebook-afterlife-what-happens-to-your-digital-footprint-when-you-die-brubaker-quoted -> 196
+<-------------->
+https://www.informatics.uci.edu/oc-register-edison-high-school-students-study-cyber-savvy-ito-quoted -> 206
+<-------------->
+https://www.informatics.uci.edu/orange-county-business-journal-broadcom-uci-plan-tech-tourney -> 173
+<-------------->
