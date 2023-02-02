@@ -287,12 +287,19 @@ def is_valid(url):
             return False
 
         #TODO: reject low information pages
-        # Detect and avoid infinite traps
         # Detect and avoid sets of similar pages with no information
         # Detect and avoid crawling very large files, especially if they have low information value
 
         if re.match(r".*\/pdf.*", parsed.path.lower()):
             # we do not want to crawl PDFs
+            return False
+
+        # if it is a login page, it is low information.
+        if re.search("login", url):
+            return False
+
+        # if it is a calendar site, it is low information.
+        if re.search('?ical', url):
             return False
         
         return not re.match(
