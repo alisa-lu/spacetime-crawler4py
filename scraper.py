@@ -236,8 +236,9 @@ def extract_next_links(url, resp) -> list:
                 # skip crawling this page
                 return []
 
-            elif (len(set(tokens).intersection(set(page_tokens))) / len(set(tokens))) >= 0.95\
-                and (len(set(tokens).intersection(set(page_tokens))) / len(set(page_tokens))) >= 0.95:
+            elif len(set(tokens)) != 0 and len(set(page_tokens)) != 0 and \
+                (len(set(tokens).intersection(set(page_tokens))) / len(set(tokens))) >= 0.85\
+                and (len(set(tokens).intersection(set(page_tokens))) / len(set(page_tokens))) >= 0.85:
                 # Current page is a near match to a previously crawled page
                 # skip crawling this page
                 return []
