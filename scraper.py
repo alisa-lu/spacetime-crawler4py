@@ -333,7 +333,8 @@ def is_valid(url):
             if re.search("wiki/asterix/timeline", url):
                 return False
             # These pages contain raw attachments that we do not want to crawl
-            if re.search("wiki/asterix/raw-attachment", url) or re.search("wiki/public/zip-attachment", url):
+            if re.search("wiki/asterix/raw-attachment", url) or re.search("wiki/public/zip-attachment", url)\
+                 or re.search("public/raw-attachment", url) or re.search("public/attachment", url):
                 return False
             # These pages are also password protected, making them low information
             if re.search("wiki/asterix/wiki", url):
