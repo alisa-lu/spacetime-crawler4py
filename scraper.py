@@ -209,15 +209,21 @@ def extract_next_links(url, resp) -> list:
             # Append the href links found in the anchor tags to extracted links list
             link = urldefrag(tag['href']).url
             if link.startswith('/'):
-                # print("this is a relative url", link)
-                # print("base url: ", urldefrag(resp.url).url)
+                # for relative URLs, we change them to absolute URLs
                 link = urljoin(urldefrag(resp.url).url, link)
-                # print("we found the absolute url", link)
-                # print('\n')
 
             # if the link is a swiki link, we do not want to find the queries
             if link.startswith('https://swiki.ics.uci.edu') or link.startswith('https://wiki.ics.uci.edu'):
                 link = urljoin(link, urlparse(link).path)
+            
+            # for wics links, the queries simply lead to separate pages of images, so we dequery the result
+            if link.startswith('https://wics.ics.uci.edu'):
+                link = urljoin(link, urlparse(link).path)
+
+            # for grape links, the queries are not useful or new information (many are simply different versions of each other), so we dequery the link
+            if link.startswith('https://grape.ics.uci.edu'):
+                link = urljoin(link, urlparse(link).path)
+
             extracted_links.append(link)
             
         except KeyError:
@@ -323,16 +329,47 @@ def is_valid(url):
 
         # Do not crawl this subdomain; it requires authentication making it low information
         if re.search("grape.ics.uci.edu", url):
+            # These webpages are password protected, making them low information
+            if re.search("wiki/asterix/timeline", url):
+                return False
+            # These pages contain raw attachments that we do not want to crawl
+            if re.search("wiki/asterix/raw-attachment", url) or re.search("wiki/public/zip-attachment", url):
+                return False
+            # These pages are also password protected, making them low information
+            if re.search("wiki/asterix/wiki", url):
+                return False
+            # These pages are preference setting pages and are low information
+            if re.search("wiki/asterix/prefs", url):
+                return False
+
+        # Do not crawl jpg images
+        if url.endswith('jpg'):
+            return False
+        
+        # Do not crawl this page; blocked by a login page
+        if url == "https://containers.ics.uci.edu":
+            return False
+
+        # Do not crawl page, it is simply a discord link and is low information
+        if url == "https://student-council.ics.uci.edu/discord.html":
+            return False
+
+        # this page is simply an image and we do not want to crawl it
+        if url == "https://wics.ics.uci.edu/fall-quarter-2016-week-1-mentorship-mixer/img_2377":
+            return False
+
+        # this page is also simply an image
+        if url == "https://wics.ics.uci.edu/4":
             return False
         
         return not re.match(
             r".*\.(css|js|bmp|gif|jpe?g|ico"
             + r"|png|tiff?|mid|mp2|mp3|mp4"
             + r"|wav|avi|mov|mpeg|ram|m4v|mkv|ogg|ogv|pdf"
-            + r"|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names"
+            + r"|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names|ppsx"
             + r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso"
-            + r"|epub|dll|cnf|tgz|sha1"
-            + r"|thmx|mso|arff|rtf|jar|csv"
+            + r"|epub|dll|cnf|tgz|sha1|sql|bib|ss|scm"
+            + r"|thmx|mso|arff|rtf|jar|csv|ipynb|r|c|tex"
             + r"|rm|smil|wmv|swf|wma|zip|rar|gz)$", parsed.path.lower())
 
     except TypeError:
