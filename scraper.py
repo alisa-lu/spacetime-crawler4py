@@ -316,6 +316,14 @@ def is_valid(url):
         # we do not want to crawl the social media sharing pages
         if re.search("\?share=", url):
             return False
+
+        # Do not crawl calendar (potential trap) on WICS website
+        if parsed.netloc == "wics.ics.uci.edu" and parsed.path.startswith("/events"):
+            return False
+
+        # Do not crawl this subdomain; it requires authentication making it low information
+        if re.search("grape.ics.uci.edu", url):
+            return False
         
         return not re.match(
             r".*\.(css|js|bmp|gif|jpe?g|ico"
