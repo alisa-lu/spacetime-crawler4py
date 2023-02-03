@@ -289,8 +289,12 @@ def is_valid(url):
         #TODO: reject low information pages
         # Detect and avoid crawling very large files, especially if they have low information value
 
-        if re.match(r".*\/pdf.*", parsed.path.lower()):
-            # we do not want to crawl PDFs
+        # we do not want to crawl PDFs
+        if re.match(r".*\/pdf.*", parsed.path.lower()) or url.endswith(".pdf"):
+            return False
+
+        # we do not want to crawl zip files
+        if re.match(r".*\/zip.*", parsed.path.lower()) or url.endswith(".zip"):
             return False
 
         # if it is a login page, it is low information.
@@ -303,6 +307,14 @@ def is_valid(url):
         
         # we don't want to crawl elms.ics.uci.edu because they are all low information and barred by a login.
         if url.startswith("http://elms.ics.uci.edu"):
+            return False
+
+        # we don't want to crawl download sites
+        if re.search("\?action=download", url):
+            return False
+
+        # we do not want to crawl the social media sharing pages
+        if re.search("\?share=", url):
             return False
         
         return not re.match(
