@@ -1,2 +1,2 @@
-Longest page: DefragResult(url='https://transformativeplay.ics.uci.edu/ics-169-a-b-capstone-game-project-2020-21', fragment='')
-Number of words in page: 7060
+Longest page: DefragResult(url='http://www.ics.uci.edu/~kay/wordlist.txt', fragment='')
+Number of words in page: 475850
