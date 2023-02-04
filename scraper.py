@@ -409,6 +409,10 @@ def is_valid(url):
         if re.search("ics.uci.edu/~kay/wordlist.txt", url):
             return False
 
+        # Do not crawl this large, low information text file
+        if re.search("ics.uci.edu/~wjohnson/BIDA/Ch8/prioriterates.txt", url):
+            return False
+
         # Do not crawl jpg images
         if url.endswith('jpg'):
             return False
