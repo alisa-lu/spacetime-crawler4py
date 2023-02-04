@@ -124,6 +124,10 @@ def write_unique_links_to_text_file(url: str) -> None:
     f.close()
 
 def max_words(tokens:list, resp):
+    """
+    Determines the page with the longest number of words, storing the url
+    and count in global variables and in a file.
+    """
     global max_words_in_a_page
     global page_with_max_words
 
