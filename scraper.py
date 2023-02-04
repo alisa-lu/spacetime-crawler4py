@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 visited_links = set()
 max_words_in_a_page = 0
 page_with_max_words = ""
+top_150_longest_pages = [] # Store a list of lists containing page url and number of words in a page
 unique_word_frequencies = {} # key: unique word -> value: word frequency across all pages found
 ics_subdomain_page_frequencies = {} # key: subdomain url -> value: set of unique pages in the subdomain
 
@@ -136,6 +137,7 @@ def max_words(tokens:list, resp):
     """
     global max_words_in_a_page
     global page_with_max_words
+    global top_150_longest_pages
 
     # Determine the number of words in the page    
     page_num_of_words = len(tokens)
@@ -145,10 +147,21 @@ def max_words(tokens:list, resp):
         max_words_in_a_page = page_num_of_words
         page_with_max_words = urldefrag(resp.url)
 
+        # Add page in records of top 150 longest pages
+        if len(top_150_longest_pages) == 150:
+            top_150_longest_pages.pop(0); # Remove smallest page
+        top_150_longest_pages.append([resp.url, page_num_of_words])
+
     # Update file storing the longest page in terms of the number of words
     f = open("longest_page.txt", "w")
     f.write(f"Longest page: {page_with_max_words}\nNumber of words in page: {max_words_in_a_page}\n")
     f.close()
+
+    f = open("top_150_longest_pages.txt", "w")
+    for page in top_150_longest_pages:
+        f.write(f"{page[0]} -> {page[1]} words\n")
+    f.close()
+
 
 def _write_ics_subdomains_to_file() -> None:
     """
