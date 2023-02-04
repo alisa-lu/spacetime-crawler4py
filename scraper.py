@@ -224,6 +224,10 @@ def extract_next_links(url, resp) -> list:
             if link.startswith('https://grape.ics.uci.edu'):
                 link = urljoin(link, urlparse(link).path)
 
+            # De-query this link as the pages with queries are low information
+            if link.startswith('https://cbcl.ics.uci.edu/'):
+                link = urljoin(link, urlparse(link).path)
+
             extracted_links.append(link)
             
         except KeyError:
@@ -342,6 +346,10 @@ def is_valid(url):
             # These pages are preference setting pages and are low information
             if re.search("wiki/asterix/prefs", url):
                 return False
+
+        # Do not crawl this large, low information text file
+        if re.search("ics.uci.edu/~kay/wordlist.txt", url):
+            return False
 
         # Do not crawl jpg images
         if url.endswith('jpg'):
