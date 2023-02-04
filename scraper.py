@@ -220,6 +220,29 @@ def _refine_url(resp, link: str) -> str:
 
     return link
 
+def _has_high_content_similarity(tokens: list) -> bool:
+    """
+    Returns a bool indicating whether the current page has a
+    high level of similar content to any of the five most
+    recently visited pages.
+    """
+    global content_of_five_most_recent_pages
+
+    # Compare tokenized page to 5 most recently crawled pages
+    if len(content_of_five_most_recent_pages) > 0:
+        for page_tokens in content_of_five_most_recent_pages:
+            if tokens == page_tokens:
+                # Current page is an exact match to a previously crawled page;
+                return True
+
+            elif len(set(tokens)) != 0 and len(set(page_tokens)) != 0 and \
+                (len(set(tokens).intersection(set(page_tokens))) / len(set(tokens))) >= 0.85\
+                and (len(set(tokens).intersection(set(page_tokens))) / len(set(page_tokens))) >= 0.85:
+                # Current page is a near match to a previously crawled page
+                return True
+    
+    return False
+
 def extract_next_links(url, resp) -> list:
     """
     Returns list of links found in the current url.
@@ -270,20 +293,11 @@ def extract_next_links(url, resp) -> list:
     page_text_content = soup.get_text()
     tokens = tokenize(page_text_content)
 
-    # Compare tokenized page to 5 most recently crawled pages, removes page if it is an exact or near match of a previous chained page
-    if len(content_of_five_most_recent_pages) > 0:
-        for page_tokens in content_of_five_most_recent_pages:
-            if tokens == page_tokens:
-                # Current page is an exact match to a previously crawled page;
-                # skip crawling this page
-                return []
 
-            elif len(set(tokens)) != 0 and len(set(page_tokens)) != 0 and \
-                (len(set(tokens).intersection(set(page_tokens))) / len(set(tokens))) >= 0.85\
-                and (len(set(tokens).intersection(set(page_tokens))) / len(set(page_tokens))) >= 0.85:
-                # Current page is a near match to a previously crawled page
-                # skip crawling this page
-                return []
+    if _has_high_content_similarity(tokens):
+        # Skip crawling page if it is an exact or near match to
+        # any of the five most recently visited pages
+        return []
             
     # Add tokens of current page to content_of_five_most_recent_pages
     if len(content_of_five_most_recent_pages) == 5:
