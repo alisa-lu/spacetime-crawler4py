@@ -426,6 +426,18 @@ def is_valid(url):
         if re.search("ics.uci.edu/~wjohnson/BIDA/Ch8/prioriterates.txt", url):
             return False
 
+        # Do not crawl this large, low information text file
+        if re.search("ics.uci.edu/~wjohnson/BIDA/Ch8/posterioriterates.txt", url):
+            return False
+
+        # Do not crawl this large, low information page (unrendered HTML)
+        if re.search("ics.uci.edu/~cs224", url):
+            return False
+
+        # Do not crawl this large, low information page (crashes from excessive redirects)
+        if re.search("sli.ics.uci.edu/AIStats/Postings", url):
+            return False
+
         # Do not crawl jpg images
         if url.endswith('jpg'):
             return False
