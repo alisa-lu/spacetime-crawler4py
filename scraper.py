@@ -72,20 +72,20 @@ def computeWordFrequencies(tokens: list, url) -> dict:
     """
     Takes a list of tokens and adds it into the global dictionary storing token frequencies.
     It also writes into a file that tracks all the token dictionaries for individual URLs for reference.
-    Returns the dictionary containing the token dictionaries of the URL.
+    Returns the dictionary containing frequency of tokens for the given URL.
     """
     global unique_word_frequencies
     tokens = remove_stop_words(tokens)
 
-    word_freq = {} # stores the frequencies of tokens found in this url in a local dict
+    word_freq = {} # Stores the frequencies of tokens found in this url in a local dict
     for item in tokens:
-        # add item to unique_word_frequencies
+        # Add item to global unique_word_frequencies dictionary
         if item not in unique_word_frequencies:
             unique_word_frequencies[item] = 1
         else:
             unique_word_frequencies[item] += 1
 
-        # add item to dictionary storing just this value
+        # Add item to local tokens dictionary
         if item not in word_freq:
             word_freq[item] = 1
         else:
