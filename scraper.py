@@ -228,6 +228,10 @@ def extract_next_links(url, resp) -> list:
             if link.startswith('https://cbcl.ics.uci.edu/'):
                 link = urljoin(link, urlparse(link).path)
 
+            # Do not crawl commits / subpages of gitlab repositories (trap)
+            if re.search("gitlab.ics.uci.edu", link):
+                link = link.split("-")[0]
+
             extracted_links.append(link)
             
         except KeyError:
