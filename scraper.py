@@ -123,7 +123,7 @@ def write_unique_links_to_text_file(url: str) -> None:
     global visited_links
 
     f = open("unique_links.txt", "a")
-    f.write(str(url))
+    f.write(f"{str(url)}\n")
     f.close()
 
     f = open("num_unique_links.txt", "w")
