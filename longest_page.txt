@@ -1,2 +1,2 @@
-Longest page: DefragResult(url='http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/prioriterates.txt', fragment='')
-Number of words in page: 120030
+Longest page: DefragResult(url='http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/posterioriterates.txt', fragment='')
+Number of words in page: 120011
