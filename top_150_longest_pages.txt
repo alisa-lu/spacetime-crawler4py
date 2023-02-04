@@ -11,6 +11,6 @@ https://www.stat.uci.edu/a-look-at-health-and-technology-trends-for-2021-and-bey
 https://isg.ics.uci.edu/events/list/?tribe_event_display=past&tribe_paged=1 -> 4615 words
 https://transformativeplay.ics.uci.edu/ics-169-a-b-capstone-game-project-2020-21 -> 7060 words
 https://cml.ics.uci.edu/category/aiml -> 17433 words
-https://sli.ics.uci.edu/AIStats/Postings -> 22745 words
-http://www.ics.uci.edu/~cs224 -> 83259 words
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/posterioriterates.txt -> 120011 words
+http://www.ics.uci.edu/~kay/courses/i42/wildride/data/1000customers.txt -> 22329 words
+https://www.stat.uci.edu/covid19/index.html -> 25180 words
+http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/cowabortiondata.txt -> 52584 words
