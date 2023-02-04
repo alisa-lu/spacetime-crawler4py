@@ -422,12 +422,12 @@ def is_valid(url):
         if re.search("ics.uci.edu/~kay/wordlist.txt", url):
             return False
 
-        # Do not crawl this large, low information text file
-        if re.search("ics.uci.edu/~wjohnson/BIDA/Ch8/prioriterates.txt", url):
+        # Do not crawl the large, low information text files located at this path
+        if re.search("ics.uci.edu/~wjohnson/BIDA/Ch8/", url):
             return False
 
         # Do not crawl this large, low information text file
-        if re.search("ics.uci.edu/~wjohnson/BIDA/Ch8/posterioriterates.txt", url):
+        if re.search("ics.uci.edu/~kay/courses/i42/wildride/data/1000customers.txt", url):
             return False
 
         # Do not crawl this large, low information page (unrendered HTML)
