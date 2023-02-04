@@ -186,6 +186,40 @@ def scraper(url, resp) -> list:
     links = extract_next_links(url, resp)
     return [link for link in links if is_valid(link)]
 
+def _refine_url(resp, link: str) -> str:
+    """
+    If applicable, converts the relative url to an absolute url.
+    If applicable, removes queries/paths from certain urls to
+    avoid pages that are traps or have low information.
+    """
+    if link.startswith('/'):
+        # Convert relative URLS to absolute URLS
+        link = urljoin(urldefrag(resp.url).url, link)
+
+    # If the link is a swiki link, remove the queries (trap)
+    if link.startswith('https://swiki.ics.uci.edu') or link.startswith('https://wiki.ics.uci.edu'):
+        link = urljoin(link, urlparse(link).path)
+    
+    # If the link is a WICS link, remove the queries
+    # (low-information, leads to separate pages of images)
+    if link.startswith('https://wics.ics.uci.edu'):
+        link = urljoin(link, urlparse(link).path)
+
+    # If the link is a grape link, remove the queries
+    # (low-information, many are different versions of each other)
+    if link.startswith('https://grape.ics.uci.edu'):
+        link = urljoin(link, urlparse(link).path)
+
+    # De-query this link as the pages with queries are low information
+    if link.startswith('https://cbcl.ics.uci.edu/'):
+        link = urljoin(link, urlparse(link).path)
+
+    # Do not crawl commits / subpages of gitlab repositories (trap)
+    if re.search("gitlab.ics.uci.edu", link):
+        link = link.split("-")[0]
+
+    return link
+
 def extract_next_links(url, resp) -> list:
     """
     Returns list of links found in the current url.
@@ -208,7 +242,7 @@ def extract_next_links(url, resp) -> list:
     if url in visited_links or resp.url in visited_links or urldefrag(resp.url).url in visited_links:
         return []
 
-    # adds link to global visited_links set
+    # Append link to global visited_links set and links.txt file
     visited_links.add(urldefrag(resp.url).url)
     write_unique_links_to_text_file(urldefrag(resp.url).url)
 
@@ -225,34 +259,11 @@ def extract_next_links(url, resp) -> list:
         try:
             # Append the href links found in the anchor tags to extracted links list
             link = urldefrag(tag['href']).url
-            if link.startswith('/'):
-                # for relative URLs, we change them to absolute URLs
-                link = urljoin(urldefrag(resp.url).url, link)
-
-            # if the link is a swiki link, we do not want to find the queries
-            if link.startswith('https://swiki.ics.uci.edu') or link.startswith('https://wiki.ics.uci.edu'):
-                link = urljoin(link, urlparse(link).path)
-            
-            # for wics links, the queries simply lead to separate pages of images, so we dequery the result
-            if link.startswith('https://wics.ics.uci.edu'):
-                link = urljoin(link, urlparse(link).path)
-
-            # for grape links, the queries are not useful or new information (many are simply different versions of each other), so we dequery the link
-            if link.startswith('https://grape.ics.uci.edu'):
-                link = urljoin(link, urlparse(link).path)
-
-            # De-query this link as the pages with queries are low information
-            if link.startswith('https://cbcl.ics.uci.edu/'):
-                link = urljoin(link, urlparse(link).path)
-
-            # Do not crawl commits / subpages of gitlab repositories (trap)
-            if re.search("gitlab.ics.uci.edu", link):
-                link = link.split("-")[0]
-
+            link = _refine_url(resp, link)
             extracted_links.append(link)
             
         except KeyError:
-            # If the a tag doesn't have an href, continue
+            # If the a tag doesn't have an href, continue to the next tag
             pass
 
     # Tokenizes the content of the page
