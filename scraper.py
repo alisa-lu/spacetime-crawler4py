@@ -243,6 +243,23 @@ def _has_high_content_similarity(tokens: list) -> bool:
     
     return False
 
+def _update_report_records(resp, tokens: list) -> None:
+    """
+    Updates records for report after visiting the given page.
+    """
+    global unique_word_frequencies
+
+    # Adds the tokens to the dictionary storing unique words (part 3 of the report)
+    url_token_dict = computeWordFrequencies(tokens, urldefrag(resp.url).url)
+    write_url_word_frequencies_to_file(url_token_dict, urldefrag(resp.url).url)
+    write_global_word_frequencies_to_file(unique_word_frequencies)
+
+    # Calculates if this page contains the max # of words in a page or not (part 2 of the report)
+    max_words(tokens, resp)
+    
+    # Calculates if this page is an subdomain of ICS, and if so, updates the file and global dictionary (part 4 of the report)
+    track_ics_subdomains(resp)
+
 def extract_next_links(url, resp) -> list:
     """
     Returns list of links found in the current url.
@@ -256,7 +273,6 @@ def extract_next_links(url, resp) -> list:
     #         resp.raw_response.url: the url, again
     #         resp.raw_response.content: the content of the page!
     # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
-
     global unique_word_frequencies
     global visited_links
     global content_of_five_most_recent_pages
@@ -284,15 +300,13 @@ def extract_next_links(url, resp) -> list:
             link = urldefrag(tag['href']).url
             link = _refine_url(resp, link)
             extracted_links.append(link)
-            
         except KeyError:
             # If the a tag doesn't have an href, continue to the next tag
             pass
 
-    # Tokenizes the content of the page
+    # Tokenize the content of the page
     page_text_content = soup.get_text()
     tokens = tokenize(page_text_content)
-
 
     if _has_high_content_similarity(tokens):
         # Skip crawling page if it is an exact or near match to
@@ -304,16 +318,8 @@ def extract_next_links(url, resp) -> list:
         content_of_five_most_recent_pages.pop(0)
     content_of_five_most_recent_pages.append(tokens)
 
-    # Adds the tokens to the dictionary storing unique words (part 3 of the report)
-    url_token_dict = computeWordFrequencies(tokens, urldefrag(resp.url).url)
-    write_url_word_frequencies_to_file(url_token_dict, urldefrag(resp.url).url)
-    write_global_word_frequencies_to_file(unique_word_frequencies)
-
-    # Calculates if this page contains the max # of words in a page or not (part 2 of the report)
-    max_words(tokens, resp)
-    
-    # Calculates if this page is an subdomain of ICS, and if so, updates the file and global dictionary (part 4 of the report)
-    track_ics_subdomains(resp)
+    # Update global variable and file records used for report
+    _update_report_records(resp, tokens)
 
     return extracted_links
 
