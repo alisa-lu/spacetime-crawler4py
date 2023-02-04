@@ -116,11 +116,17 @@ def write_global_word_frequencies_to_file(Frequencies: dict) -> None:
 
 def write_unique_links_to_text_file(url: str) -> None:
     """
-    Stores the current url in a file to keep track of all unique links found.
+    Write given url to file tracking all unique links found.
+    Write number of unique links visited to file.
     """
-    f = open("links.txt", "a")
+    global visited_links
+
+    f = open("unique_links.txt", "a")
     f.write(str(url))
-    f.write("\n<-------------->\n")
+    f.close()
+
+    f = open("num_unique_links.txt", "w")
+    f.write(str(len(visited_links)))
     f.close()
 
 def max_words(tokens:list, resp):
