@@ -144,7 +144,25 @@ def max_words(tokens:list, resp):
     f.write(f"Longest page: {page_with_max_words}\nNumber of words in page: {max_words_in_a_page}\n")
     f.close()
 
-def ics_subdomains(resp):
+def _write_ics_subdomains_to_file() -> None:
+    """
+    Updates file storing subdomains of ics.uci.edu and their
+    page frequencies.
+    """
+    global ics_subdomain_page_frequencies
+
+    f = open("ics_subdomains.txt", "w")
+    for k, v in sorted(ics_subdomain_page_frequencies.items()):
+        f.write(k + " -> " + str(v)+"\nThis subdomain has "+str(len(v))+" unique pages.")
+        f.write('\n')
+    f.close()
+
+def track_ics_subdomains(resp):
+    """
+    Determines if given page is a subdomain of ics.uci.edu.
+    If so, stores the subdomain in a global dictionary mapping subdomains
+    to pages, and writes results to file.
+    """
     global ics_subdomain_page_frequencies
 
     # Determine if page is in a subdomain of ics.uci.edu
@@ -159,12 +177,7 @@ def ics_subdomains(resp):
         else:
             ics_subdomain_page_frequencies[subdomain_url].add(urldefrag(resp.url).url)
 
-    # Update file storing the subdomains of ics.uci.edu
-    f = open("subdomains.txt", "w")
-    for k, v in sorted(ics_subdomain_page_frequencies.items()):
-        f.write(k + " -> " + str(v)+"\nThis subdomain has "+str(len(v))+" unique pages.")
-        f.write('\n')
-    f.close()
+    _write_ics_subdomains_to_file()
 
 def scraper(url, resp) -> list:
     """
@@ -275,7 +288,7 @@ def extract_next_links(url, resp) -> list:
     max_words(tokens, resp)
     
     # Calculates if this page is an subdomain of ICS, and if so, updates the file and global dictionary (part 4 of the report)
-    ics_subdomains(resp)
+    track_ics_subdomains(resp)
 
     return extracted_links
 
