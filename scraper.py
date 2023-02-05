@@ -124,7 +124,8 @@ def write_unique_links_to_text_file(url: str) -> None:
     global visited_links
 
     f = open("unique_links.txt", "a")
-    f.write(f"{str(url)}\n")
+    f.write(f"{str(url)}")
+    f.write('\n')
     f.close()
 
     f = open("num_unique_links.txt", "w")
@@ -421,8 +422,7 @@ def is_valid(url):
             if re.search("wiki/asterix/timeline", url):
                 return False
             # These pages contain raw attachments that we do not want to crawl
-            if re.search("wiki/asterix/raw-attachment", url) or re.search("wiki/public/zip-attachment", url)\
-                 or re.search("public/raw-attachment", url) or re.search("public/attachment", url):
+            if re.search("wiki/asterix/raw-attachment", url) or re.search("wiki/public/zip-attachment", url) or re.search("public/raw-attachment", url) or re.search("public/attachment", url):
                 return False
             # These pages are also password protected, making them low information
             if re.search("wiki/asterix/wiki", url):
@@ -477,7 +477,7 @@ def is_valid(url):
             + r"|wav|avi|mov|mpeg|ram|m4v|mkv|ogg|ogv|pdf"
             + r"|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names|ppsx"
             + r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso"
-            + r"|epub|dll|cnf|tgz|sha1|sql|bib|ss|scm"
+            + r"|epub|dll|cnf|tgz|sha1|sql|bib|ss|scm|xml|war"
             + r"|thmx|mso|arff|rtf|jar|csv|ipynb|r|c|tex"
             + r"|rm|smil|wmv|swf|wma|zip|rar|gz)$", parsed.path.lower())
 
