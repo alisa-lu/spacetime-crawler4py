@@ -1,2 +1,2 @@
-Longest page: DefragResult(url='http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/cowabortiondata.txt', fragment='')
-Number of words in page: 52584
+Longest page: DefragResult(url='https://www.stat.uci.edu/covid19/index.html', fragment='')
+Number of words in page: 25180
