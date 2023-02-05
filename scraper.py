@@ -416,7 +416,7 @@ def is_valid(url):
         if parsed.netloc == "wics.ics.uci.edu" and parsed.path.startswith("/events"):
             return False
 
-        # Do not crawl this subdomain; it requires authentication making it low information
+        # For grape.ics.uci.edu links, we have to do some investigating to see if it is useful information or not
         if re.search("grape.ics.uci.edu", url):
             # These webpages are password protected, making them low information
             if re.search("wiki/asterix/timeline", url):
