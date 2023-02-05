@@ -7406,3 +7406,5133 @@ https://sli.ics.uci.edu/AIStats/RecentChanges -> 32
 <-------------->
 https://sli.ics.uci.edu/AIML/RecentChanges -> 29
 <-------------->
+http://sli.ics.uci.edu/AIML/PreNIPS2010 -> 33
+<-------------->
+http://sli.ics.uci.edu/AIML -> 24
+<-------------->
+https://sli.ics.uci.edu/Site/AllRecentChanges -> 298
+<-------------->
+https://sli.ics.uci.edu/Ihler-Private/Ihler-Private -> 28
+<-------------->
+https://sli.ics.uci.edu/Ihler-Private/People -> 28
+<-------------->
+https://sli.ics.uci.edu/Ihler-Private/Papers -> 29
+<-------------->
+https://sli.ics.uci.edu/Ihler-Private/WebResources -> 29
+<-------------->
+https://sli.ics.uci.edu/Ihler-Private/Research -> 28
+<-------------->
+https://sli.ics.uci.edu/Ihler-Private/ToDo-gtddata -> 29
+<-------------->
+https://sli.ics.uci.edu/Ihler-Private/Charges -> 28
+<-------------->
+https://sli.ics.uci.edu/Ihler-Private/ScratchPad -> 29
+<-------------->
+https://sli.ics.uci.edu/Johutchi-Private/Johutchi-Private -> 28
+<-------------->
+https://sli.ics.uci.edu/Grants-2008NSF/Main -> 35
+<-------------->
+http://sli.ics.uci.edu/Grants-2008NSF -> 29
+<-------------->
+https://sli.ics.uci.edu/Grants-2008SciSIP/Summary -> 29
+<-------------->
+http://sli.ics.uci.edu/Grants-2008SciSIP -> 28
+<-------------->
+https://sli.ics.uci.edu/Site/UploadQuickReference -> 62
+<-------------->
+https://sli.ics.uci.edu/Site/EditQuickReference -> 82
+<-------------->
+https://sli.ics.uci.edu/Site/HtPasswd -> 28
+<-------------->
+https://sli.ics.uci.edu/Site/AuthUser -> 28
+<-------------->
+https://sli.ics.uci.edu/Site/AuthForm -> 28
+<-------------->
+https://sli.ics.uci.edu/Site/Preferences -> 139
+<-------------->
+https://sli.ics.uci.edu/Site/PageListTemplates -> 182
+<-------------->
+https://sli.ics.uci.edu/Site/PageNotFound -> 36
+<-------------->
+https://sli.ics.uci.edu/Site/PageActions -> 24
+<-------------->
+https://sli.ics.uci.edu/Site/EditForm -> 103
+<-------------->
+https://sli.ics.uci.edu/Site/SideBar -> 25
+<-------------->
+https://sli.ics.uci.edu/PmWiki/PasswordsAdmin -> 497
+<-------------->
+http://sli.ics.uci.edu -> 76
+<-------------->
+http://www.ics.uci.edu/~dechter/courses/ics-295/fall-2013/index.html -> 230
+<-------------->
+http://www.ics.uci.edu/~dechter/courses/ics-275a/spring-2014 -> 299
+<-------------->
+http://www.ics.uci.edu/~dechter/books -> 182
+<-------------->
+http://www.ics.uci.edu/~dechter/courses/ics-275b/fall-14 -> 249
+<-------------->
+http://www.ics.uci.edu/~dechter/courses/ics-295/winter-2018 -> 748
+<-------------->
+http://www.ics.uci.edu/~dechter/courses/ics-276/spring-18 -> 268
+<-------------->
+https://www.ics.uci.edu/~dechter/courses/ics-295/fall-2019 -> 1190
+<-------------->
+https://www.ics.uci.edu/~dechter/courses/ics-276/spring-19 -> 312
+<-------------->
+https://www.ics.uci.edu/~dechter/courses/ics-275/fall-2020 -> 324
+<-------------->
+https://www.ics.uci.edu/~dechter/courses/ics-276/winter-2020 -> 258
+<-------------->
+https://www.ics.uci.edu/~dechter/courses/ics-295cr/spring-2021 -> 308
+<-------------->
+https://www.ics.uci.edu/~dechter/courses/ics-276/fall-2021 -> 294
+<-------------->
+http://www.ics.uci.edu/~dechter/software.html -> 333
+<-------------->
+http://sli.ics.uci.edu/~ihler/uai-data -> 139
+<-------------->
+http://www.ics.uci.edu/~dechter/awards.html -> 156
+<-------------->
+http://www.ics.uci.edu/~dechter/talks.html -> 471
+<-------------->
+http://www.ics.uci.edu/~dechter/publications.html -> 1576
+<-------------->
+http://www.ics.uci.edu/~dechter/gradstudents.html -> 228
+<-------------->
+http://www.ics.uci.edu/~frost -> 128
+<-------------->
+http://www.ics.uci.edu/~kkask -> 28
+<-------------->
+https://www.ics.uci.edu/~kkask/courses.html -> 36
+<-------------->
+https://www.ics.uci.edu/~kkask/Fall-2018 CS271/index.html -> 407
+<-------------->
+https://www.ics.uci.edu/~kkask/Spring-2018 CS273P/index.html -> 369
+<-------------->
+http://www.ics.uci.edu/~kkask/Spring-2018 CS273P/Demos/Intro_Tutorial.html -> 522
+<-------------->
+https://www.ics.uci.edu/~kkask/Fall-2017 CS271/index.html -> 343
+<-------------->
+https://www.ics.uci.edu/~kkask/Fall-2015 CS271/index.html -> 309
+<-------------->
+https://www.ics.uci.edu/~kkask/Fall-2014 CS271/index.html -> 242
+<-------------->
+http://www.ics.uci.edu/~kkask/Fall-2014%20CS271/project.html -> 509
+<-------------->
+https://www.ics.uci.edu/~kkask/publications.html -> 318
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r38.html -> 66
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r34.html -> 90
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r46.html -> 101
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r71.html -> 101
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r72.html -> 95
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r77.html -> 84
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r79.html -> 87
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r86.html -> 85
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r87a.html -> 86
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r87.html -> 97
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r91.html -> 90
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r92a.html -> 84
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r92.html -> 84
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r94.html -> 101
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r95.html -> 108
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r98.html -> 73
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r99.html -> 89
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r101.html -> 90
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r104.html -> 105
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r111.html -> 122
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r118.html -> 88
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r109.html -> 75
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r164.html -> 88
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r175.html -> 77
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r180.html -> 113
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r181.html -> 104
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r196.html -> 91
+<-------------->
+http://www.ics.uci.edu/~dechter/publications/r212.html -> 83
+<-------------->
+https://www.ics.uci.edu/~dechter/publications/r248.html -> 91
+<-------------->
+https://www.ics.uci.edu/~kkask/index.html -> 28
+<-------------->
+http://www.ics.uci.edu/~dechter/research.html -> 469
+<-------------->
+http://www.ics.uci.edu/~dechter/biographical.html -> 215
+<-------------->
+http://www.ics.uci.edu/~dechter/acp_award.html -> 304
+<-------------->
+http://www.ics.uci.edu/~dechter/index.html -> 228
+<-------------->
+http://www.ics.uci.edu/~dechter/talks/lifted-minischool-2014 -> 58
+<-------------->
+http://www.ics.uci.edu/community/news/articles/view_article?id=321 -> 636
+<-------------->
+https://www.ics.uci.edu/community/news/articles -> 150
+<-------------->
+http://www.ics.uci.edu/community/news/articles/view_article?id=344 -> 272
+<-------------->
+https://cml.ics.uci.edu/courses -> 80
+<-------------->
+http://www.ics.uci.edu/grad/courses/details.php?id=374 -> 139
+<-------------->
+https://www.ics.uci.edu/grad/courses -> 225
+<-------------->
+https://cml.ics.uci.edu/aiml/ml-reading-group -> 81
+<-------------->
+https://cml.ics.uci.edu/aiml/ml-distinguished-speakers -> 74
+<-------------->
+https://cml.ics.uci.edu/aiml/cml-seminar-live-stream -> 86
+<-------------->
+https://cml.ics.uci.edu/alumni -> 171
+<-------------->
+http://www.ics.uci.edu/~sgaffney -> 212
+<-------------->
+http://www.ics.uci.edu/~dchudova -> 113
+<-------------->
+https://cml.ics.uci.edu/faculty -> 130
+<-------------->
+http://www.ics.uci.edu/~emj -> 152
+<-------------->
+https://emj.ics.uci.edu/comments/feed -> 30
+<-------------->
+https://emj.ics.uci.edu/feed -> 133
+<-------------->
+https://emj.ics.uci.edu/2012/12 -> 88
+<-------------->
+http://www.ics.uci.edu/~emj/index_2012.html -> 107
+<-------------->
+http://computableplant.ics.uci.edu/papers -> 979
+<-------------->
+http://computableplant.ics.uci.edu/~guy/downloads/DGPublications.html -> 91
+<-------------->
+http://computableplant.ics.uci.edu/%7Eguy/Plenum.html -> 38
+<-------------->
+http://computableplant.ics.uci.edu/%7Eguy/PlenumLicense.html -> 262
+<-------------->
+http://www.ics.uci.edu/%7Eemj -> 152
+<-------------->
+https://emj.ics.uci.edu/author/emj -> 88
+<-------------->
+https://emj.ics.uci.edu/democracy -> 109
+<-------------->
+https://emj.ics.uci.edu/research-opportunities -> 376
+<-------------->
+https://emj.ics.uci.edu/papers/computational-biology-papers/  -> 878
+<-------------->
+http://computableplant.ics.uci.edu/papers/2002/BGRS-2002-KAP-abstract.html -> 102
+<-------------->
+http://computableplant.ics.uci.edu/papers/2004/BGRS-2004-KAP-abstract.html -> 131
+<-------------->
+http://computableplant.ics.uci.edu/papers/2006/phyllotaxis05/pathwayV5.nb -> 516
+<-------------->
+http://www.ics.uci.edu/grad/degrees/degree_cs.php -> 305
+<-------------->
+https://www.ics.uci.edu/grad/degrees -> 188
+<-------------->
+https://emj.ics.uci.edu/cv -> 106
+<-------------->
+http://www.ics.uci.edu/community/news/press/view_press?id=144 -> 423
+<-------------->
+https://emj.ics.uci.edu/grand-questions -> 120
+<-------------->
+https://emj.ics.uci.edu/?page_id=220 -> 143
+<-------------->
+https://emj.ics.uci.edu/?page_id=85 -> 192
+<-------------->
+https://emj.ics.uci.edu/?page_id=87 -> 315
+<-------------->
+https://emj.ics.uci.edu/?page_id=27 -> 878
+<-------------->
+https://emj.ics.uci.edu/reviews-and-tutorials -> 130
+<-------------->
+https://emj.ics.uci.edu/phd-theses -> 227
+<-------------->
+http://computableplant.ics.uci.edu/sw/gccd -> 90
+<-------------->
+http://computableplant.ics.uci.edu/sw/dd -> 54
+<-------------->
+http://www.ics.uci.edu/~johnsong/thesis -> 138
+<-------------->
+http://computableplant.ics.uci.edu/hierleap -> 77
+<-------------->
+http://computableplant.ics.uci.edu/erleap -> 82
+<-------------->
+http://computableplant.ics.uci.edu/~dorendor/thesis -> 37
+<-------------->
+https://emj.ics.uci.edu/teaching -> 85
+<-------------->
+https://emj.ics.uci.edu/talks/talks-computational-biology -> 71
+<-------------->
+https://emj.ics.uci.edu/talks -> 340
+<-------------->
+https://emj.ics.uci.edu/software/cambium-model-translation-software -> 89
+<-------------->
+http://computableplant.ics.uci.edu/sw/CambiumOrganism -> 49
+<-------------->
+http://computableplant.ics.uci.edu/sw/CambiumPlenum -> 40
+<-------------->
+http://computableplant.ics.uci.edu/~guy/Plenum.html -> 38
+<-------------->
+https://emj.ics.uci.edu/software/software-computational-biology -> 142
+<-------------->
+http://computableplant.ics.uci.edu/theses/companib -> 130
+<-------------->
+http://computableplant.ics.uci.edu/theses/companib/SigMech.html -> 115
+<-------------->
+http://computableplant.ics.uci.edu/%7Ecompanib/SigMech -> 40
+<-------------->
+http://computableplant.ics.uci.edu/index.html -> 280
+<-------------->
+http://computableplant.ics.uci.edu/alphasite -> 76
+<-------------->
+http://computableplant.ics.uci.edu/models/index.html -> 35
+<-------------->
+http://computableplant.ics.uci.edu/tut.html -> 203
+<-------------->
+http://computableplant.ics.uci.edu/links.html -> 82
+<-------------->
+http://computableplant.ics.uci.edu/outreach.html -> 35
+<-------------->
+http://computableplant.ics.uci.edu/people.html -> 257
+<-------------->
+http://computableplant.ics.uci.edu/research.html -> 50
+<-------------->
+http://computableplant.ics.uci.edu/publications.html -> 784
+<-------------->
+http://computableplant.ics.uci.edu/gallery/gallery.html -> 38
+<-------------->
+http://computableplant.ics.uci.edu/theses/guy/Plenum.html -> 38
+<-------------->
+https://emj.ics.uci.edu/?page_id=427 -> 89
+<-------------->
+http://computableplant.ics.uci.edu/sw.html -> 167
+<-------------->
+https://emj.ics.uci.edu/software -> 140
+<-------------->
+https://emj.ics.uci.edu/topics -> 77
+<-------------->
+https://emj.ics.uci.edu/projects -> 88
+<-------------->
+https://emj.ics.uci.edu/papers/calculational-papers -> 226
+<-------------->
+https://emj.ics.uci.edu/papers/neural-network-papers -> 237
+<-------------->
+https://emj.ics.uci.edu/papers/computational-field-geology -> 143
+<-------------->
+https://emj.ics.uci.edu/papers/cognition-papers -> 192
+<-------------->
+https://emj.ics.uci.edu/papers/optimization-papers -> 180
+<-------------->
+https://emj.ics.uci.edu/papers/vision-and-image-analysis-papers -> 311
+<-------------->
+https://emj.ics.uci.edu/papers/machine-learning-papers -> 276
+<-------------->
+https://emj.ics.uci.edu/papers/modeling-frameworks-papers -> 315
+<-------------->
+https://emj.ics.uci.edu/papers/computational-biology-papers -> 878
+<-------------->
+https://emj.ics.uci.edu/about -> 149
+<-------------->
+http://www.ics.uci.edu/~jain -> 231
+<-------------->
+https://ngs.ics.uci.edu/teacher -> 50
+<-------------->
+https://ngs.ics.uci.edu/personal/favorite-quotes -> 87
+<-------------->
+https://ngs.ics.uci.edu/personal/favorite-books -> 228
+<-------------->
+https://ngs.ics.uci.edu/personal/education -> 70
+<-------------->
+https://ngs.ics.uci.edu/personal/past-affiliations -> 186
+<-------------->
+https://ngs.ics.uci.edu/professionalsocial/interviews -> 69
+<-------------->
+https://ngs.ics.uci.edu/professionalsocial/recognitions -> 77
+<-------------->
+https://ngs.ics.uci.edu/professionalsocial/services -> 101
+<-------------->
+https://ngs.ics.uci.edu/professionalsocial -> 50
+<-------------->
+https://ngs.ics.uci.edu/partners/collaborators -> 101
+<-------------->
+https://ngs.ics.uci.edu/partners/past-students -> 178
+<-------------->
+https://ngs.ics.uci.edu/partners/current-students -> 63
+<-------------->
+https://ngs.ics.uci.edu/partners -> 82
+<-------------->
+https://ngs.ics.uci.edu/entrepreneurship/past-companies -> 130
+<-------------->
+https://ngs.ics.uci.edu/entrepreneurship/current-companies -> 73
+<-------------->
+https://ngs.ics.uci.edu/entrepreneurship -> 90
+<-------------->
+https://ngs.ics.uci.edu/teaching/past-courses -> 84
+<-------------->
+https://ngs.ics.uci.edu/teaching/current-courses -> 77
+<-------------->
+https://ngs.ics.uci.edu/teaching -> 64
+<-------------->
+https://ngs.ics.uci.edu/research/research-papers/multimedia-information-management -> 298
+<-------------->
+https://ngs.ics.uci.edu/research/research-papers/experiential-computing -> 255
+<-------------->
+https://ngs.ics.uci.edu/research/research-papers/computer-vision -> 303
+<-------------->
+https://ngs.ics.uci.edu/research/research-papers -> 80
+<-------------->
+https://ngs.ics.uci.edu/research/projects -> 68
+<-------------->
+https://ngs.ics.uci.edu/research/presentations -> 147
+<-------------->
+https://ngs.ics.uci.edu/research/patents -> 175
+<-------------->
+https://ngs.ics.uci.edu/research/books -> 100
+<-------------->
+https://ngs.ics.uci.edu/research -> 99
+<-------------->
+https://ngs.ics.uci.edu/blog -> 150
+<-------------->
+https://ngs.ics.uci.edu/blog/page/2 -> 184
+<-------------->
+https://ngs.ics.uci.edu/blog/page/3 -> 164
+<-------------->
+https://ngs.ics.uci.edu/blog/page/4 -> 165
+<-------------->
+https://ngs.ics.uci.edu/blog/page/5 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/6 -> 163
+<-------------->
+https://ngs.ics.uci.edu/blog/page/7 -> 166
+<-------------->
+https://ngs.ics.uci.edu/blog/page/8 -> 153
+<-------------->
+https://ngs.ics.uci.edu/blog/page/9 -> 153
+<-------------->
+https://ngs.ics.uci.edu/blog/page/10 -> 151
+<-------------->
+https://ngs.ics.uci.edu/blog/page/11 -> 154
+<-------------->
+https://ngs.ics.uci.edu/blog/page/12 -> 167
+<-------------->
+https://ngs.ics.uci.edu/blog/page/13 -> 153
+<-------------->
+https://ngs.ics.uci.edu/blog/page/14 -> 172
+<-------------->
+https://ngs.ics.uci.edu/blog/page/15 -> 167
+<-------------->
+https://ngs.ics.uci.edu/blog/page/16 -> 155
+<-------------->
+https://ngs.ics.uci.edu/blog/page/17 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/18 -> 164
+<-------------->
+https://ngs.ics.uci.edu/blog/page/19 -> 166
+<-------------->
+https://ngs.ics.uci.edu/blog/page/20 -> 160
+<-------------->
+https://ngs.ics.uci.edu/blog/page/21 -> 153
+<-------------->
+https://ngs.ics.uci.edu/blog/page/22 -> 154
+<-------------->
+https://ngs.ics.uci.edu/blog/page/23 -> 174
+<-------------->
+https://ngs.ics.uci.edu/blog/page/24 -> 162
+<-------------->
+https://ngs.ics.uci.edu/blog/page/25 -> 173
+<-------------->
+https://ngs.ics.uci.edu/blog/page/26 -> 171
+<-------------->
+https://ngs.ics.uci.edu/blog/page/27 -> 146
+<-------------->
+https://ngs.ics.uci.edu/blog/page/28 -> 166
+<-------------->
+https://ngs.ics.uci.edu/blog/page/29 -> 166
+<-------------->
+https://ngs.ics.uci.edu/blog/page/30 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/31 -> 144
+<-------------->
+https://ngs.ics.uci.edu/blog/page/32 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/33 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/34 -> 158
+<-------------->
+https://ngs.ics.uci.edu/blog/page/35 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/36 -> 157
+<-------------->
+https://ngs.ics.uci.edu/blog/page/37 -> 156
+<-------------->
+https://ngs.ics.uci.edu/blog/page/38 -> 157
+<-------------->
+https://ngs.ics.uci.edu/blog/page/39 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/40 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/41 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/42 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/43 -> 178
+<-------------->
+https://ngs.ics.uci.edu/blog/page/44 -> 146
+<-------------->
+https://ngs.ics.uci.edu/blog/page/45 -> 165
+<-------------->
+https://ngs.ics.uci.edu/blog/page/46 -> 154
+<-------------->
+https://ngs.ics.uci.edu/blog/page/47 -> 157
+<-------------->
+https://ngs.ics.uci.edu/blog/page/48 -> 146
+<-------------->
+https://ngs.ics.uci.edu/blog/page/49 -> 163
+<-------------->
+https://ngs.ics.uci.edu/blog/page/50 -> 169
+<-------------->
+https://ngs.ics.uci.edu/blog/page/51 -> 181
+<-------------->
+https://ngs.ics.uci.edu/blog/page/52 -> 170
+<-------------->
+https://ngs.ics.uci.edu/blog/page/53 -> 149
+<-------------->
+https://ngs.ics.uci.edu/blog/page/54 -> 157
+<-------------->
+https://ngs.ics.uci.edu/blog/page/55 -> 155
+<-------------->
+https://ngs.ics.uci.edu/blog/page/56 -> 175
+<-------------->
+https://ngs.ics.uci.edu/blog/page/57 -> 164
+<-------------->
+https://ngs.ics.uci.edu/blog/page/58 -> 171
+<-------------->
+https://ngs.ics.uci.edu/blog/page/59 -> 166
+<-------------->
+https://ngs.ics.uci.edu/blog/page/60 -> 164
+<-------------->
+https://ngs.ics.uci.edu/blog/page/61 -> 162
+<-------------->
+https://ngs.ics.uci.edu/blog/page/62 -> 172
+<-------------->
+https://ngs.ics.uci.edu/blog/page/63 -> 149
+<-------------->
+https://ngs.ics.uci.edu/blog/page/64 -> 164
+<-------------->
+https://ngs.ics.uci.edu/blog/page/65 -> 143
+<-------------->
+https://ngs.ics.uci.edu/blog/page/66 -> 170
+<-------------->
+https://ngs.ics.uci.edu/blog/page/67 -> 168
+<-------------->
+https://ngs.ics.uci.edu/blog/page/68 -> 170
+<-------------->
+https://ngs.ics.uci.edu/blog/page/69 -> 149
+<-------------->
+https://ngs.ics.uci.edu/blog/page/70 -> 157
+<-------------->
+https://ngs.ics.uci.edu/blog/page/71 -> 158
+<-------------->
+https://ngs.ics.uci.edu/blog/page/72 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/73 -> 154
+<-------------->
+https://ngs.ics.uci.edu/blog/page/74 -> 162
+<-------------->
+https://ngs.ics.uci.edu/blog/page/75 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/76 -> 171
+<-------------->
+https://ngs.ics.uci.edu/blog/page/77 -> 171
+<-------------->
+https://ngs.ics.uci.edu/blog/page/78 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/79 -> 158
+<-------------->
+https://ngs.ics.uci.edu/blog/page/80 -> 152
+<-------------->
+https://ngs.ics.uci.edu/blog/page/81 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/82 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/83 -> 172
+<-------------->
+https://ngs.ics.uci.edu/blog/page/84 -> 162
+<-------------->
+https://ngs.ics.uci.edu/blog/page/85 -> 165
+<-------------->
+https://ngs.ics.uci.edu/blog/page/86 -> 167
+<-------------->
+https://ngs.ics.uci.edu/blog/page/87 -> 149
+<-------------->
+https://ngs.ics.uci.edu/blog/page/88 -> 158
+<-------------->
+https://ngs.ics.uci.edu/blog/page/89 -> 165
+<-------------->
+https://ngs.ics.uci.edu/blog/page/90 -> 171
+<-------------->
+https://ngs.ics.uci.edu/blog/page/91 -> 149
+<-------------->
+https://ngs.ics.uci.edu/blog/page/92 -> 155
+<-------------->
+https://ngs.ics.uci.edu/blog/page/93 -> 166
+<-------------->
+https://ngs.ics.uci.edu/blog/page/94 -> 162
+<-------------->
+https://ngs.ics.uci.edu/blog/page/95 -> 165
+<-------------->
+https://ngs.ics.uci.edu/blog/page/96 -> 162
+<-------------->
+https://ngs.ics.uci.edu/blog/page/97 -> 165
+<-------------->
+https://ngs.ics.uci.edu/blog/page/98 -> 177
+<-------------->
+https://ngs.ics.uci.edu/blog/page/99 -> 164
+<-------------->
+https://ngs.ics.uci.edu/blog/page/100 -> 182
+<-------------->
+https://ngs.ics.uci.edu/blog/page/101 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/102 -> 175
+<-------------->
+https://ngs.ics.uci.edu/blog/page/103 -> 174
+<-------------->
+https://ngs.ics.uci.edu/blog/page/104 -> 166
+<-------------->
+https://ngs.ics.uci.edu/blog/page/105 -> 175
+<-------------->
+https://ngs.ics.uci.edu/blog/page/106 -> 162
+<-------------->
+https://ngs.ics.uci.edu/blog/page/107 -> 169
+<-------------->
+https://ngs.ics.uci.edu/blog/page/108 -> 190
+<-------------->
+https://ngs.ics.uci.edu/blog/page/109 -> 158
+<-------------->
+https://ngs.ics.uci.edu/blog/page/110 -> 166
+<-------------->
+https://ngs.ics.uci.edu/blog/page/111 -> 179
+<-------------->
+https://ngs.ics.uci.edu/blog/page/112 -> 173
+<-------------->
+https://ngs.ics.uci.edu/blog/page/113 -> 164
+<-------------->
+https://ngs.ics.uci.edu/blog/page/114 -> 148
+<-------------->
+https://ngs.ics.uci.edu/blog/page/115 -> 180
+<-------------->
+https://ngs.ics.uci.edu/blog/page/116 -> 176
+<-------------->
+https://ngs.ics.uci.edu/blog/page/117 -> 173
+<-------------->
+https://ngs.ics.uci.edu/blog/page/118 -> 155
+<-------------->
+https://ngs.ics.uci.edu/blog/page/119 -> 166
+<-------------->
+https://ngs.ics.uci.edu/blog/page/120 -> 168
+<-------------->
+https://ngs.ics.uci.edu/blog/page/121 -> 181
+<-------------->
+https://ngs.ics.uci.edu/blog/page/122 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/123 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/124 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/125 -> 176
+<-------------->
+https://ngs.ics.uci.edu/blog/page/126 -> 152
+<-------------->
+https://ngs.ics.uci.edu/blog/page/127 -> 141
+<-------------->
+https://ngs.ics.uci.edu/blog/page/128 -> 177
+<-------------->
+https://ngs.ics.uci.edu/blog/page/129 -> 164
+<-------------->
+https://ngs.ics.uci.edu/blog/page/130 -> 166
+<-------------->
+https://ngs.ics.uci.edu/blog/page/131 -> 172
+<-------------->
+https://ngs.ics.uci.edu/blog/page/132 -> 172
+<-------------->
+https://ngs.ics.uci.edu/blog/page/133 -> 163
+<-------------->
+https://ngs.ics.uci.edu/blog/page/134 -> 160
+<-------------->
+https://ngs.ics.uci.edu/blog/page/135 -> 160
+<-------------->
+https://ngs.ics.uci.edu/blog/page/136 -> 178
+<-------------->
+https://ngs.ics.uci.edu/blog/page/137 -> 175
+<-------------->
+https://ngs.ics.uci.edu/blog/page/138 -> 157
+<-------------->
+https://ngs.ics.uci.edu/blog/page/139 -> 180
+<-------------->
+https://ngs.ics.uci.edu/blog/page/140 -> 166
+<-------------->
+https://ngs.ics.uci.edu/blog/page/141 -> 169
+<-------------->
+https://ngs.ics.uci.edu/blog/page/142 -> 160
+<-------------->
+https://ngs.ics.uci.edu/blog/page/143 -> 156
+<-------------->
+https://ngs.ics.uci.edu/blog/page/144 -> 170
+<-------------->
+https://ngs.ics.uci.edu/blog/page/145 -> 177
+<-------------->
+https://ngs.ics.uci.edu/blog/page/146 -> 142
+<-------------->
+https://ngs.ics.uci.edu/blog/page/147 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/148 -> 167
+<-------------->
+https://ngs.ics.uci.edu/blog/page/149 -> 164
+<-------------->
+https://ngs.ics.uci.edu/blog/page/150 -> 154
+<-------------->
+https://ngs.ics.uci.edu/blog/page/151 -> 157
+<-------------->
+https://ngs.ics.uci.edu/blog/page/152 -> 160
+<-------------->
+https://ngs.ics.uci.edu/blog/page/153 -> 169
+<-------------->
+https://ngs.ics.uci.edu/blog/page/154 -> 143
+<-------------->
+https://ngs.ics.uci.edu/blog/page/155 -> 153
+<-------------->
+https://ngs.ics.uci.edu/blog/page/156 -> 165
+<-------------->
+https://ngs.ics.uci.edu/blog/page/157 -> 146
+<-------------->
+https://ngs.ics.uci.edu/blog/page/158 -> 163
+<-------------->
+https://ngs.ics.uci.edu/blog/page/159 -> 144
+<-------------->
+https://ngs.ics.uci.edu/blog/page/160 -> 165
+<-------------->
+https://ngs.ics.uci.edu/blog/page/161 -> 172
+<-------------->
+https://ngs.ics.uci.edu/blog/page/162 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/163 -> 165
+<-------------->
+https://ngs.ics.uci.edu/blog/page/164 -> 156
+<-------------->
+https://ngs.ics.uci.edu/blog/page/165 -> 164
+<-------------->
+https://ngs.ics.uci.edu/blog/page/166 -> 149
+<-------------->
+https://ngs.ics.uci.edu/blog/page/167 -> 156
+<-------------->
+https://ngs.ics.uci.edu/blog/page/168 -> 163
+<-------------->
+https://ngs.ics.uci.edu/blog/page/169 -> 153
+<-------------->
+https://ngs.ics.uci.edu/blog/page/170 -> 157
+<-------------->
+https://ngs.ics.uci.edu/blog/page/171 -> 154
+<-------------->
+https://ngs.ics.uci.edu/blog/page/172 -> 149
+<-------------->
+https://ngs.ics.uci.edu/blog/page/173 -> 176
+<-------------->
+https://ngs.ics.uci.edu/blog/page/174 -> 158
+<-------------->
+https://ngs.ics.uci.edu/blog/page/175 -> 149
+<-------------->
+https://ngs.ics.uci.edu/blog/page/176 -> 155
+<-------------->
+https://ngs.ics.uci.edu/blog/page/177 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/178 -> 172
+<-------------->
+https://ngs.ics.uci.edu/blog/page/179 -> 165
+<-------------->
+https://ngs.ics.uci.edu/blog/page/180 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/181 -> 156
+<-------------->
+https://ngs.ics.uci.edu/blog/page/182 -> 151
+<-------------->
+https://ngs.ics.uci.edu/blog/page/183 -> 173
+<-------------->
+https://ngs.ics.uci.edu/blog/page/184 -> 163
+<-------------->
+https://ngs.ics.uci.edu/blog/page/185 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/186 -> 151
+<-------------->
+https://ngs.ics.uci.edu/blog/page/187 -> 151
+<-------------->
+https://ngs.ics.uci.edu/blog/page/188 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/189 -> 167
+<-------------->
+https://ngs.ics.uci.edu/blog/page/190 -> 167
+<-------------->
+https://ngs.ics.uci.edu/blog/page/191 -> 168
+<-------------->
+https://ngs.ics.uci.edu/blog/page/192 -> 153
+<-------------->
+https://ngs.ics.uci.edu/blog/page/193 -> 155
+<-------------->
+https://ngs.ics.uci.edu/blog/page/194 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/195 -> 152
+<-------------->
+https://ngs.ics.uci.edu/blog/page/196 -> 166
+<-------------->
+https://ngs.ics.uci.edu/blog/page/197 -> 172
+<-------------->
+https://ngs.ics.uci.edu/blog/page/198 -> 158
+<-------------->
+https://ngs.ics.uci.edu/blog/page/199 -> 173
+<-------------->
+https://ngs.ics.uci.edu/blog/page/200 -> 165
+<-------------->
+https://ngs.ics.uci.edu/blog/page/201 -> 150
+<-------------->
+https://ngs.ics.uci.edu/blog/page/202 -> 162
+<-------------->
+https://ngs.ics.uci.edu/blog/page/203 -> 160
+<-------------->
+https://ngs.ics.uci.edu/blog/page/204 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/205 -> 134
+<-------------->
+https://ngs.ics.uci.edu/blog/page/206 -> 151
+<-------------->
+https://ngs.ics.uci.edu/blog/page/207 -> 154
+<-------------->
+https://ngs.ics.uci.edu/blog/page/208 -> 165
+<-------------->
+https://ngs.ics.uci.edu/blog/page/209 -> 181
+<-------------->
+https://ngs.ics.uci.edu/blog/page/210 -> 169
+<-------------->
+https://ngs.ics.uci.edu/blog/page/211 -> 167
+<-------------->
+https://ngs.ics.uci.edu/blog/page/212 -> 182
+<-------------->
+https://ngs.ics.uci.edu/blog/page/213 -> 169
+<-------------->
+https://ngs.ics.uci.edu/blog/page/214 -> 183
+<-------------->
+https://ngs.ics.uci.edu/blog/page/215 -> 161
+<-------------->
+https://ngs.ics.uci.edu/blog/page/216 -> 168
+<-------------->
+https://ngs.ics.uci.edu/blog/page/217 -> 172
+<-------------->
+https://ngs.ics.uci.edu/blog/page/218 -> 168
+<-------------->
+https://ngs.ics.uci.edu/blog/page/219 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/220 -> 157
+<-------------->
+https://ngs.ics.uci.edu/blog/page/221 -> 160
+<-------------->
+https://ngs.ics.uci.edu/blog/page/222 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/223 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/224 -> 156
+<-------------->
+https://ngs.ics.uci.edu/blog/page/225 -> 156
+<-------------->
+https://ngs.ics.uci.edu/blog/page/226 -> 153
+<-------------->
+https://ngs.ics.uci.edu/blog/page/227 -> 156
+<-------------->
+https://ngs.ics.uci.edu/blog/page/228 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/229 -> 155
+<-------------->
+https://ngs.ics.uci.edu/blog/page/230 -> 165
+<-------------->
+https://ngs.ics.uci.edu/blog/page/231 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/232 -> 160
+<-------------->
+https://ngs.ics.uci.edu/blog/page/233 -> 174
+<-------------->
+https://ngs.ics.uci.edu/blog/page/234 -> 271
+<-------------->
+https://ngs.ics.uci.edu/blog/page/235 -> 162
+<-------------->
+https://ngs.ics.uci.edu/blog/page/236 -> 150
+<-------------->
+https://ngs.ics.uci.edu/blog/page/237 -> 160
+<-------------->
+https://ngs.ics.uci.edu/blog/page/238 -> 157
+<-------------->
+https://ngs.ics.uci.edu/blog/page/239 -> 160
+<-------------->
+https://ngs.ics.uci.edu/blog/page/240 -> 166
+<-------------->
+https://ngs.ics.uci.edu/blog/page/241 -> 157
+<-------------->
+https://ngs.ics.uci.edu/blog/page/242 -> 171
+<-------------->
+https://ngs.ics.uci.edu/blog/page/243 -> 163
+<-------------->
+https://ngs.ics.uci.edu/blog/page/244 -> 148
+<-------------->
+https://ngs.ics.uci.edu/blog/page/245 -> 156
+<-------------->
+https://ngs.ics.uci.edu/blog/page/246 -> 157
+<-------------->
+https://ngs.ics.uci.edu/blog/page/247 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/248 -> 153
+<-------------->
+https://ngs.ics.uci.edu/blog/page/249 -> 163
+<-------------->
+https://ngs.ics.uci.edu/blog/page/250 -> 154
+<-------------->
+https://ngs.ics.uci.edu/blog/page/251 -> 159
+<-------------->
+https://ngs.ics.uci.edu/blog/page/252 -> 160
+<-------------->
+https://ngs.ics.uci.edu/blog/page/253 -> 163
+<-------------->
+https://ngs.ics.uci.edu/blog/page/254 -> 109
+<-------------->
+https://ngs.ics.uci.edu/experiencing-past-events -> 351
+<-------------->
+https://ngs.ics.uci.edu/information-and-experience-1 -> 282
+<-------------->
+https://ngs.ics.uci.edu/information-and-experience-2 -> 259
+<-------------->
+https://ngs.ics.uci.edu/event-information-venues-and-calendars -> 288
+<-------------->
+https://ngs.ics.uci.edu/1st-anniversary -> 314
+<-------------->
+https://ngs.ics.uci.edu/welcome-to-my-blog-at-uci -> 110
+<-------------->
+https://ngs.ics.uci.edu/iptv-will-bring-folktv -> 554
+<-------------->
+https://ngs.ics.uci.edu/when-in-where -> 133
+<-------------->
+https://ngs.ics.uci.edu/landmarks-in-life -> 147
+<-------------->
+https://ngs.ics.uci.edu/echronicles -> 162
+<-------------->
+https://ngs.ics.uci.edu/seraja-presentation-at-where-20 -> 175
+<-------------->
+https://ngs.ics.uci.edu/product-development-in-india -> 183
+<-------------->
+https://ngs.ics.uci.edu/in-varna-bulgaria -> 298
+<-------------->
+https://ngs.ics.uci.edu/honorary-professorship -> 158
+<-------------->
+https://ngs.ics.uci.edu/bulgarian-experience -> 303
+<-------------->
+https://ngs.ics.uci.edu/prague-is-pretty-impressive -> 170
+<-------------->
+https://ngs.ics.uci.edu/computer-vision -> 287
+<-------------->
+https://ngs.ics.uci.edu/new-research-directions -> 266
+<-------------->
+https://ngs.ics.uci.edu/first-morning-of-where-20 -> 131
+<-------------->
+https://ngs.ics.uci.edu/where-20-first-afternoon -> 231
+<-------------->
+https://ngs.ics.uci.edu/events-and-paradigms -> 280
+<-------------->
+https://ngs.ics.uci.edu/cruise-first-day -> 249
+<-------------->
+https://ngs.ics.uci.edu/cruising -> 207
+<-------------->
+https://ngs.ics.uci.edu/the-worst-part-of-a-vacation -> 162
+<-------------->
+https://ngs.ics.uci.edu/photo-search -> 268
+<-------------->
+https://ngs.ics.uci.edu/yrl-berkeley -> 108
+<-------------->
+https://ngs.ics.uci.edu/visual-info-retrieval -> 174
+<-------------->
+https://ngs.ics.uci.edu/future-google-and-news-interesting-viewpoint -> 164
+<-------------->
+https://ngs.ics.uci.edu/sensor-net-for-traffic -> 127
+<-------------->
+https://ngs.ics.uci.edu/frustration-or-strategy -> 117
+<-------------->
+https://ngs.ics.uci.edu/photo-database -> 136
+<-------------->
+https://ngs.ics.uci.edu/the-power-of-nature -> 297
+<-------------->
+https://ngs.ics.uci.edu/talk-practical-apps-of-multimedia-search -> 248
+<-------------->
+http://www.ics.uci.edu/~jain/presentations -> 148
+<-------------->
+https://ngs.ics.uci.edu/future-media-video -> 192
+<-------------->
+https://ngs.ics.uci.edu/observation-systems -> 197
+<-------------->
+https://ngs.ics.uci.edu/future-of-web-is-here-now -> 464
+<-------------->
+https://ngs.ics.uci.edu/search-center-at-berkeley -> 174
+<-------------->
+https://ngs.ics.uci.edu/a9-and-local -> 176
+<-------------->
+https://ngs.ics.uci.edu/observation-systems-functionality -> 279
+<-------------->
+https://ngs.ics.uci.edu/future-web-2 -> 290
+<-------------->
+https://ngs.ics.uci.edu/towards-telepresence -> 132
+<-------------->
+https://ngs.ics.uci.edu/citizen-photojournalists -> 147
+<-------------->
+https://ngs.ics.uci.edu/experiencing-maps -> 159
+<-------------->
+https://ngs.ics.uci.edu/surveillance-systems-obsys -> 235
+<-------------->
+https://ngs.ics.uci.edu/the-nets-next-10-years -> 191
+<-------------->
+https://ngs.ics.uci.edu/memories-from-ann-arbor-mi -> 204
+<-------------->
+https://ngs.ics.uci.edu/finding-info-on-a-person -> 294
+<-------------->
+https://ngs.ics.uci.edu/more-on-camera -> 109
+<-------------->
+https://ngs.ics.uci.edu/funny-story-about-googles-plans -> 86
+<-------------->
+https://ngs.ics.uci.edu/presentation-on-observation-systems -> 131
+<-------------->
+https://ngs.ics.uci.edu/video-search-story-in-wired -> 206
+<-------------->
+https://ngs.ics.uci.edu/pictureal-producing-home-videos -> 218
+<-------------->
+https://ngs.ics.uci.edu/experiential-education -> 162
+<-------------->
+https://ngs.ics.uci.edu/google-hires -> 131
+<-------------->
+https://ngs.ics.uci.edu/moving-from-san-diego-to-irvine -> 169
+<-------------->
+https://ngs.ics.uci.edu/murdoch-in-internet-media -> 154
+<-------------->
+https://ngs.ics.uci.edu/confusing-cultural-diversity -> 300
+<-------------->
+https://ngs.ics.uci.edu/sitting-among-packed-boxes -> 160
+<-------------->
+https://ngs.ics.uci.edu/new-house-filled-with-boxes -> 130
+<-------------->
+https://ngs.ics.uci.edu/privacy-preserving-cameras -> 147
+<-------------->
+https://ngs.ics.uci.edu/getting-back-to-routine -> 148
+<-------------->
+https://ngs.ics.uci.edu/destinator -> 131
+<-------------->
+https://ngs.ics.uci.edu/time-machine -> 128
+<-------------->
+https://ngs.ics.uci.edu/yahoos-mission-future-media -> 183
+<-------------->
+https://ngs.ics.uci.edu/close-to-normal-at-home -> 116
+<-------------->
+https://ngs.ics.uci.edu/what-is-the-your-business -> 167
+<-------------->
+https://ngs.ics.uci.edu/immersive-search -> 88
+<-------------->
+https://ngs.ics.uci.edu/teaching-entrepreneurism -> 191
+<-------------->
+https://ngs.ics.uci.edu/death-to-folders -> 198
+<-------------->
+https://ngs.ics.uci.edu/is-this-true-about-we-indians -> 392
+<-------------->
+https://ngs.ics.uci.edu/outsourcing-to-estonia -> 363
+<-------------->
+https://ngs.ics.uci.edu/blinkx-has-better-interface -> 115
+<-------------->
+https://ngs.ics.uci.edu/photojournalism -> 143
+<-------------->
+https://ngs.ics.uci.edu/yahoo-acquires-upcomingorg -> 156
+<-------------->
+https://ngs.ics.uci.edu/verbs-and-nouns-on-the-web -> 197
+<-------------->
+https://ngs.ics.uci.edu/ubiquitous-city -> 240
+<-------------->
+https://ngs.ics.uci.edu/grand-challenge-for-ai -> 144
+<-------------->
+https://ngs.ics.uci.edu/all-the-worlds-information -> 157
+<-------------->
+https://ngs.ics.uci.edu/eventfulcom -> 100
+<-------------->
+https://ngs.ics.uci.edu/ipod-for-print -> 140
+<-------------->
+https://ngs.ics.uci.edu/google-will-touch-everything -> 140
+<-------------->
+https://ngs.ics.uci.edu/data-data-everywhere-and-more-data-coming -> 274
+<-------------->
+https://ngs.ics.uci.edu/metadata-for-images-video-and-other-data -> 194
+<-------------->
+https://ngs.ics.uci.edu/inspirational-thoughts -> 104
+<-------------->
+https://ngs.ics.uci.edu/experiencing-sports-using-technology -> 191
+<-------------->
+https://ngs.ics.uci.edu/thin-mobile-clients -> 135
+<-------------->
+https://ngs.ics.uci.edu/search-steering-wheel -> 124
+<-------------->
+https://ngs.ics.uci.edu/research-areas -> 159
+<-------------->
+https://ngs.ics.uci.edu/research-areacomputer-vision -> 308
+<-------------->
+https://ngs.ics.uci.edu/multimedia-information-systems -> 230
+<-------------->
+https://ngs.ics.uci.edu/experiential-environments -> 174
+<-------------->
+https://ngs.ics.uci.edu/professional-affiliations -> 101
+<-------------->
+https://ngs.ics.uci.edu/entrepreneurial-activities -> 234
+<-------------->
+https://ngs.ics.uci.edu/publications -> 82
+<-------------->
+https://ngs.ics.uci.edu/recent-papers -> 161
+<-------------->
+https://ngs.ics.uci.edu/media-vision-column-in-ieee-multimedia -> 217
+<-------------->
+https://ngs.ics.uci.edu/list-of-publications -> 1634
+<-------------->
+https://ngs.ics.uci.edu/white-papers -> 82
+<-------------->
+https://ngs.ics.uci.edu/presentations -> 148
+<-------------->
+https://ngs.ics.uci.edu/photographs -> 98
+<-------------->
+https://ngs.ics.uci.edu/about-ramesh -> 231
+<-------------->
+https://ngs.ics.uci.edu/interviews -> 88
+<-------------->
+https://ngs.ics.uci.edu/web20-buzzwords -> 174
+<-------------->
+https://ngs.ics.uci.edu/next-generation-movies -> 107
+<-------------->
+https://ngs.ics.uci.edu/perspectives-on-the-nextgenweb -> 121
+<-------------->
+https://ngs.ics.uci.edu/google-of-tv -> 141
+<-------------->
+https://ngs.ics.uci.edu/folk-events-and-mobiletv -> 130
+<-------------->
+https://ngs.ics.uci.edu/indieflix-2 -> 188
+<-------------->
+https://ngs.ics.uci.edu/living-in-virtual-world -> 185
+<-------------->
+https://ngs.ics.uci.edu/death-of-databases -> 176
+<-------------->
+https://ngs.ics.uci.edu/terrible-state-of-search-engines -> 150
+<-------------->
+https://ngs.ics.uci.edu/video-or-photo -> 124
+<-------------->
+https://ngs.ics.uci.edu/real-reality -> 301
+<-------------->
+https://ngs.ics.uci.edu/microsoft-strengthens-search-research -> 106
+<-------------->
+https://ngs.ics.uci.edu/when20 -> 205
+<-------------->
+https://ngs.ics.uci.edu/events-are-not-just-scribbles-in-calendars -> 240
+<-------------->
+https://ngs.ics.uci.edu/events-on-yahoo -> 96
+<-------------->
+https://ngs.ics.uci.edu/esther-dyson-and-when20 -> 120
+<-------------->
+https://ngs.ics.uci.edu/going-to-acm-multimedia-2005 -> 160
+<-------------->
+https://ngs.ics.uci.edu/first-day-at-acm-multimedia -> 162
+<-------------->
+https://ngs.ics.uci.edu/second-day-at-acm-multimedia -> 188
+<-------------->
+https://ngs.ics.uci.edu/third-day-at-acm-multimedia -> 184
+<-------------->
+https://ngs.ics.uci.edu/video-sharing -> 210
+<-------------->
+https://ngs.ics.uci.edu/workshops-at-acm-multimedia -> 236
+<-------------->
+https://ngs.ics.uci.edu/taxonomy-and-folksonomy -> 395
+<-------------->
+https://ngs.ics.uci.edu/not-alone -> 90
+<-------------->
+https://ngs.ics.uci.edu/drama-architecture-and-computers -> 149
+<-------------->
+https://ngs.ics.uci.edu/industry-support-for-academia -> 164
+<-------------->
+https://ngs.ics.uci.edu/information-assimilation-using-wikis-and-maps -> 149
+<-------------->
+https://ngs.ics.uci.edu/tags-give-human-meaning -> 99
+<-------------->
+https://ngs.ics.uci.edu/us-innovation-slowing-down -> 179
+<-------------->
+https://ngs.ics.uci.edu/enterprise-search-is-not-for-google -> 87
+<-------------->
+https://ngs.ics.uci.edu/calendar-of-events-is-limited -> 184
+<-------------->
+https://ngs.ics.uci.edu/a-site-combining-taxonomy-and-folksonomy -> 152
+<-------------->
+https://ngs.ics.uci.edu/total-recall-an-echronicle -> 164
+<-------------->
+https://ngs.ics.uci.edu/video-games-in-academia -> 221
+<-------------->
+https://ngs.ics.uci.edu/visual-search-on-mobile-phones -> 159
+<-------------->
+https://ngs.ics.uci.edu/indian-sentiments-in-cricket -> 130
+<-------------->
+https://ngs.ics.uci.edu/now-laptops-getting-phone -> 176
+<-------------->
+https://ngs.ics.uci.edu/folk-computing-or-100-computer -> 278
+<-------------->
+https://ngs.ics.uci.edu/cyber-hugs -> 112
+<-------------->
+https://ngs.ics.uci.edu/search-andor-media -> 269
+<-------------->
+https://ngs.ics.uci.edu/calendars-are-just-a-structuring-mechanism -> 261
+<-------------->
+https://ngs.ics.uci.edu/privacy-and-security -> 222
+<-------------->
+https://ngs.ics.uci.edu/video-on-skype -> 79
+<-------------->
+https://ngs.ics.uci.edu/promoting-events-promotro -> 121
+<-------------->
+https://ngs.ics.uci.edu/controls-at-wikipedia -> 119
+<-------------->
+https://ngs.ics.uci.edu/the-next-google -> 169
+<-------------->
+https://ngs.ics.uci.edu/when-20 -> 362
+<-------------->
+https://ngs.ics.uci.edu/time-is-of-the-essence -> 80
+<-------------->
+https://ngs.ics.uci.edu/yearly-tests -> 131
+<-------------->
+https://ngs.ics.uci.edu/maps-become-more-visual -> 175
+<-------------->
+https://ngs.ics.uci.edu/future-of-visual-maps -> 198
+<-------------->
+https://ngs.ics.uci.edu/young-innovators-in-ics-180280 -> 163
+<-------------->
+https://ngs.ics.uci.edu/social-search -> 165
+<-------------->
+https://ngs.ics.uci.edu/academia-and-visual-maps -> 95
+<-------------->
+https://ngs.ics.uci.edu/microsoft-vs-netscape-and-microsoft-vs-google -> 154
+<-------------->
+https://ngs.ics.uci.edu/live-video-on-cnn-glimpse-into-the-future -> 132
+<-------------->
+https://ngs.ics.uci.edu/government-in-india -> 170
+<-------------->
+https://ngs.ics.uci.edu/presentation-of-flickr-story-on-newscom -> 236
+<-------------->
+https://ngs.ics.uci.edu/sourav-ganguli-issue -> 238
+<-------------->
+https://ngs.ics.uci.edu/from-gopher-to-google-for-eventweb -> 271
+<-------------->
+https://ngs.ics.uci.edu/more-video-coming -> 97
+<-------------->
+https://ngs.ics.uci.edu/411 -> 163
+<-------------->
+https://ngs.ics.uci.edu/bangalore-and-hyderabad -> 183
+<-------------->
+https://ngs.ics.uci.edu/a-memorable-evening-in-bangalore -> 312
+<-------------->
+http://ngs.ics.uci.edu/blog/?p=491 -> 137
+<-------------->
+https://ngs.ics.uci.edu/systems-in-india -> 226
+<-------------->
+https://ngs.ics.uci.edu/nagpur -> 1044
+<-------------->
+https://ngs.ics.uci.edu/product-company-in-nagpur -> 100
+<-------------->
+https://ngs.ics.uci.edu/reflections -> 273
+<-------------->
+https://ngs.ics.uci.edu/bill-gates-on-speech-recognition -> 98
+<-------------->
+https://ngs.ics.uci.edu/folk-computing-sub-100-computer -> 134
+<-------------->
+https://ngs.ics.uci.edu/india-a-mystery-land -> 370
+<-------------->
+https://ngs.ics.uci.edu/face-processing-technology -> 192
+<-------------->
+https://ngs.ics.uci.edu/gutenbergs-revenge -> 84
+<-------------->
+https://ngs.ics.uci.edu/godcasting -> 92
+<-------------->
+https://ngs.ics.uci.edu/recognition-at-microsoft -> 101
+<-------------->
+https://ngs.ics.uci.edu/5-million-channel-tv-is-here -> 175
+<-------------->
+https://ngs.ics.uci.edu/eventweb-is-here-now -> 247
+<-------------->
+https://ngs.ics.uci.edu/singapore-and-multimedia -> 153
+<-------------->
+https://ngs.ics.uci.edu/google-and-video -> 128
+<-------------->
+https://ngs.ics.uci.edu/back-home -> 122
+<-------------->
+https://ngs.ics.uci.edu/searching-maps -> 174
+<-------------->
+https://ngs.ics.uci.edu/gym-and-cabletvtelco -> 108
+<-------------->
+https://ngs.ics.uci.edu/image-search-retrievr -> 138
+<-------------->
+https://ngs.ics.uci.edu/eventweb-is-getting-ready -> 199
+<-------------->
+https://ngs.ics.uci.edu/globe-divide -> 244
+<-------------->
+https://ngs.ics.uci.edu/internet-growth-in-china -> 200
+<-------------->
+https://ngs.ics.uci.edu/where-is-this -> 80
+<-------------->
+https://ngs.ics.uci.edu/437 -> 113
+<-------------->
+https://ngs.ics.uci.edu/india-today -> 90
+<-------------->
+https://ngs.ics.uci.edu/picture-search-at-ask -> 96
+<-------------->
+https://ngs.ics.uci.edu/mcluhan-is-out -> 229
+<-------------->
+https://ngs.ics.uci.edu/academic-reviewing -> 344
+<-------------->
+https://ngs.ics.uci.edu/new-search-companies -> 143
+<-------------->
+https://ngs.ics.uci.edu/the-ubiquitous-web -> 136
+<-------------->
+https://ngs.ics.uci.edu/india-is-getting-expensive -> 83
+<-------------->
+https://ngs.ics.uci.edu/academic-reviewing-simone-santini -> 104
+<-------------->
+https://ngs.ics.uci.edu/cancer-survivor -> 276
+<-------------->
+https://ngs.ics.uci.edu/research-in-search-really -> 214
+<-------------->
+https://ngs.ics.uci.edu/professor-wins-academy-award -> 111
+<-------------->
+https://ngs.ics.uci.edu/cameras -> 131
+<-------------->
+https://ngs.ics.uci.edu/movies-by-and-for-phones -> 117
+<-------------->
+https://ngs.ics.uci.edu/a-great-but-failed-vision-medialab-asia -> 180
+<-------------->
+https://ngs.ics.uci.edu/family -> 164
+<-------------->
+https://ngs.ics.uci.edu/progress-in-speech-recognition -> 166
+<-------------->
+https://ngs.ics.uci.edu/video-analysis-and-content-extraction-vace -> 296
+<-------------->
+https://ngs.ics.uci.edu/static-and-dynamic-cyberspaces -> 278
+<-------------->
+https://ngs.ics.uci.edu/riya-computer-vision-in-search -> 109
+<-------------->
+https://ngs.ics.uci.edu/need-for-theory-and-models-of-events -> 217
+<-------------->
+https://ngs.ics.uci.edu/458 -> 180
+<-------------->
+https://ngs.ics.uci.edu/fair-weather-patriotism -> 264
+<-------------->
+https://ngs.ics.uci.edu/460 -> 137
+<-------------->
+https://ngs.ics.uci.edu/test-driving-seraja-the-eventweb -> 122
+<-------------->
+https://ngs.ics.uci.edu/kosmix-one-more-from-stanford -> 104
+<-------------->
+https://ngs.ics.uci.edu/timeline-segmentation-holistic-perspective -> 202
+<-------------->
+https://ngs.ics.uci.edu/invented-in-india -> 155
+<-------------->
+https://ngs.ics.uci.edu/a-new-folk-art-self-photographs -> 91
+<-------------->
+https://ngs.ics.uci.edu/memories-uday-sengupta -> 336
+<-------------->
+https://ngs.ics.uci.edu/till-divorce-do-us-apart -> 105
+<-------------->
+https://ngs.ics.uci.edu/online-video -> 173
+<-------------->
+https://ngs.ics.uci.edu/war-agains-cancer -> 198
+<-------------->
+https://ngs.ics.uci.edu/proposals-and-proposals -> 113
+<-------------->
+https://ngs.ics.uci.edu/data-mining -> 160
+<-------------->
+https://ngs.ics.uci.edu/great-opportunity-for-video-researchers -> 187
+<-------------->
+https://ngs.ics.uci.edu/future-surveillance -> 248
+<-------------->
+https://ngs.ics.uci.edu/newscorp-going-mobile -> 171
+<-------------->
+https://ngs.ics.uci.edu/new-askcom -> 172
+<-------------->
+https://ngs.ics.uci.edu/creators-synthesizers-and-consumers -> 126
+<-------------->
+https://ngs.ics.uci.edu/review-of-video-search-on-the-web -> 129
+<-------------->
+https://ngs.ics.uci.edu/microsoft-search-lab -> 184
+<-------------->
+https://ngs.ics.uci.edu/blinkx-introduces-implicit-search -> 133
+<-------------->
+https://ngs.ics.uci.edu/computing3o -> 168
+<-------------->
+https://ngs.ics.uci.edu/cisco-and-video-surveillance -> 174
+<-------------->
+https://ngs.ics.uci.edu/iptv-and-eventweb -> 146
+<-------------->
+https://ngs.ics.uci.edu/483 -> 129
+<-------------->
+https://ngs.ics.uci.edu/novatiums-sub-100-netpc -> 210
+<-------------->
+https://ngs.ics.uci.edu/new-media-business -> 226
+<-------------->
+https://ngs.ics.uci.edu/world-wide-event-web -> 455
+<-------------->
+https://ngs.ics.uci.edu/iptv -> 391
+<-------------->
+https://ngs.ics.uci.edu/iptv-and-eventweb-2 -> 371
+<-------------->
+https://ngs.ics.uci.edu/watershed-event-for-web -> 81
+<-------------->
+https://ngs.ics.uci.edu/improving-speech-recognition-for-video-indexing -> 140
+<-------------->
+https://ngs.ics.uci.edu/binford-in-bangalore -> 137
+<-------------->
+https://ngs.ics.uci.edu/seraja-9-goes-live -> 125
+<-------------->
+https://ngs.ics.uci.edu/too-much-travel -> 109
+<-------------->
+https://ngs.ics.uci.edu/freezen-in-time-or -> 172
+<-------------->
+https://ngs.ics.uci.edu/seraja-product-development -> 152
+<-------------->
+https://ngs.ics.uci.edu/wifi-at-mumbai-airport -> 292
+<-------------->
+https://ngs.ics.uci.edu/german-memories -> 216
+<-------------->
+https://ngs.ics.uci.edu/video-search-presenting-results -> 169
+<-------------->
+https://ngs.ics.uci.edu/data-in-motion -> 192
+<-------------->
+https://ngs.ics.uci.edu/popular-videos -> 81
+<-------------->
+https://ngs.ics.uci.edu/escience -> 132
+<-------------->
+https://ngs.ics.uci.edu/social-search-2 -> 131
+<-------------->
+https://ngs.ics.uci.edu/world-wide-tv-network -> 79
+<-------------->
+https://ngs.ics.uci.edu/video-revolution-continues -> 263
+<-------------->
+https://ngs.ics.uci.edu/google-search -> 78
+<-------------->
+https://ngs.ics.uci.edu/user-video-on-microsoft -> 96
+<-------------->
+https://ngs.ics.uci.edu/the-web-you-trust -> 390
+<-------------->
+https://ngs.ics.uci.edu/best-jobs-well-i-am-in-one -> 121
+<-------------->
+https://ngs.ics.uci.edu/seraja-progress -> 125
+<-------------->
+https://ngs.ics.uci.edu/google-calendar -> 147
+<-------------->
+https://ngs.ics.uci.edu/ever-widening-web -> 290
+<-------------->
+https://ngs.ics.uci.edu/eventweb-is-born -> 132
+<-------------->
+https://ngs.ics.uci.edu/fingerprints-of-a-camera -> 85
+<-------------->
+https://ngs.ics.uci.edu/responsive-to-customser -> 135
+<-------------->
+https://ngs.ics.uci.edu/worship-tech -> 213
+<-------------->
+https://ngs.ics.uci.edu/multimedia-search-in-france -> 167
+<-------------->
+https://ngs.ics.uci.edu/better-search-through-people -> 156
+<-------------->
+https://ngs.ics.uci.edu/3-d-mash-ups -> 161
+<-------------->
+https://ngs.ics.uci.edu/changing-academic-climate -> 192
+<-------------->
+https://ngs.ics.uci.edu/innertube-a-new-cbs-online-channel -> 115
+<-------------->
+https://ngs.ics.uci.edu/latent-web -> 140
+<-------------->
+https://ngs.ics.uci.edu/future-of-news -> 168
+<-------------->
+https://ngs.ics.uci.edu/real-time-maps -> 138
+<-------------->
+https://ngs.ics.uci.edu/senseweb -> 129
+<-------------->
+https://ngs.ics.uci.edu/human-and-search -> 229
+<-------------->
+https://ngs.ics.uci.edu/convergence-in-search-and-databases -> 313
+<-------------->
+https://ngs.ics.uci.edu/micrsoft-in-enterprise-search -> 111
+<-------------->
+https://ngs.ics.uci.edu/clickable-video-ads -> 244
+<-------------->
+https://ngs.ics.uci.edu/second-anniversary-of-freedom-from-cancer -> 286
+<-------------->
+https://ngs.ics.uci.edu/hectic-days -> 92
+<-------------->
+https://ngs.ics.uci.edu/100-laptop-from-olpc -> 165
+<-------------->
+https://ngs.ics.uci.edu/visiting-ann-arbor -> 172
+<-------------->
+https://ngs.ics.uci.edu/visual-search-challenge-and-status -> 115
+<-------------->
+https://ngs.ics.uci.edu/techies-are-coming-back -> 116
+<-------------->
+https://ngs.ics.uci.edu/slow -> 98
+<-------------->
+https://ngs.ics.uci.edu/video-as-primary-media -> 241
+<-------------->
+https://ngs.ics.uci.edu/personal-media-management-pmm -> 181
+<-------------->
+https://ngs.ics.uci.edu/new-channels -> 134
+<-------------->
+https://ngs.ics.uci.edu/vloggercon -> 114
+<-------------->
+https://ngs.ics.uci.edu/digital-photo-album -> 261
+<-------------->
+http://ngs.ics.uci.edu/blog/?p=572 -> 213
+<-------------->
+https://ngs.ics.uci.edu/representing-events -> 156
+<-------------->
+https://ngs.ics.uci.edu/capturing-experiences -> 82
+<-------------->
+https://ngs.ics.uci.edu/in-greece -> 104
+<-------------->
+https://ngs.ics.uci.edu/words-the-world-of-words -> 291
+<-------------->
+https://ngs.ics.uci.edu/words-the-bow -> 187
+<-------------->
+https://ngs.ics.uci.edu/greece-vacation -> 230
+<-------------->
+https://ngs.ics.uci.edu/giving-back-to-society-gates-and-buffett -> 209
+<-------------->
+https://ngs.ics.uci.edu/vace2-close-out-workshop -> 219
+<-------------->
+https://ngs.ics.uci.edu/phone-as-a-guide-in-real-world -> 210
+<-------------->
+https://ngs.ics.uci.edu/web-video-and-cable -> 205
+<-------------->
+https://ngs.ics.uci.edu/seraja-updates -> 160
+<-------------->
+https://ngs.ics.uci.edu/words-atoms-of-semantics -> 247
+<-------------->
+https://ngs.ics.uci.edu/words-apicture-is-worth-a-thousand-words -> 306
+<-------------->
+https://ngs.ics.uci.edu/july-4th -> 171
+<-------------->
+https://ngs.ics.uci.edu/search-infrastructure -> 189
+<-------------->
+https://ngs.ics.uci.edu/immersive-world-cup-football -> 129
+<-------------->
+https://ngs.ics.uci.edu/modern-travel-requirements -> 228
+<-------------->
+https://ngs.ics.uci.edu/words-space-and-time -> 177
+<-------------->
+https://ngs.ics.uci.edu/visiting-nagpur -> 1279
+<-------------->
+http://ngs.ics.uci.edu/blog/?p=688 -> 213
+<-------------->
+https://ngs.ics.uci.edu/travel-experiences -> 350
+<-------------->
+https://ngs.ics.uci.edu/bangalore-hotels -> 109
+<-------------->
+https://ngs.ics.uci.edu/seraja-updates-060712 -> 184
+<-------------->
+https://ngs.ics.uci.edu/wsj-on-citizen-journalism -> 198
+<-------------->
+https://ngs.ics.uci.edu/words-a-farewell -> 86
+<-------------->
+https://ngs.ics.uci.edu/events-around-us -> 185
+<-------------->
+https://ngs.ics.uci.edu/high-resolution-photos-of-cities -> 94
+<-------------->
+https://ngs.ics.uci.edu/gesture-based-image-navigation -> 97
+<-------------->
+https://ngs.ics.uci.edu/words-events -> 269
+<-------------->
+https://ngs.ics.uci.edu/digital-photo-albums -> 213
+<-------------->
+https://ngs.ics.uci.edu/uci-cap-council-on-academic-personnel -> 170
+<-------------->
+https://ngs.ics.uci.edu/consistency-vs-wow -> 118
+<-------------->
+https://ngs.ics.uci.edu/raghu-ramakrishnan-at-yahoo -> 143
+<-------------->
+https://ngs.ics.uci.edu/increasing-video-apps -> 222
+<-------------->
+https://ngs.ics.uci.edu/long-tail-is-not-so-big -> 221
+<-------------->
+https://ngs.ics.uci.edu/text-mining-nyt -> 105
+<-------------->
+https://ngs.ics.uci.edu/camera-with-3d-effects -> 156
+<-------------->
+https://ngs.ics.uci.edu/photo-albums-into-navigable-3-d-worlds -> 131
+<-------------->
+https://ngs.ics.uci.edu/words-visual-words -> 294
+<-------------->
+https://ngs.ics.uci.edu/live-art -> 145
+<-------------->
+https://ngs.ics.uci.edu/eventweb-towards-events -> 278
+<-------------->
+https://ngs.ics.uci.edu/tagging-videos -> 231
+<-------------->
+https://ngs.ics.uci.edu/fun-can-be-stressful -> 217
+<-------------->
+https://ngs.ics.uci.edu/eventweb-what-is-an-event -> 258
+<-------------->
+https://ngs.ics.uci.edu/seraja -> 101
+<-------------->
+https://ngs.ics.uci.edu/an-interesting-problem -> 102
+<-------------->
+https://ngs.ics.uci.edu/google-in-computer-vision -> 113
+<-------------->
+https://ngs.ics.uci.edu/media-gap -> 206
+<-------------->
+https://ngs.ics.uci.edu/from-documents-to-experiences -> 154
+<-------------->
+https://ngs.ics.uci.edu/eventweb3-defining-event -> 225
+<-------------->
+https://ngs.ics.uci.edu/novel-uses-of-cameraphones-diet -> 131
+<-------------->
+https://ngs.ics.uci.edu/yahoo-stocking-up-on-academics -> 203
+<-------------->
+https://ngs.ics.uci.edu/important-factors-for-india -> 138
+<-------------->
+https://ngs.ics.uci.edu/eventweb4-experiential-data -> 286
+<-------------->
+https://ngs.ics.uci.edu/eventweb5-creating-a-web -> 256
+<-------------->
+https://ngs.ics.uci.edu/photo-software-revised-reality -> 215
+<-------------->
+https://ngs.ics.uci.edu/events-flickr-and-upcoming -> 333
+<-------------->
+https://ngs.ics.uci.edu/vision-andor-hype-in-search -> 504
+<-------------->
+http://ngs.ics.uci.edu/blog/?p=658 -> 171
+<-------------->
+http://ngs.ics.uci.edu/blog/?p=654 -> 145
+<-------------->
+https://ngs.ics.uci.edu/eventweb6-explicit-referential-links -> 195
+<-------------->
+https://ngs.ics.uci.edu/google-and-images -> 147
+<-------------->
+https://ngs.ics.uci.edu/on-tags -> 217
+<-------------->
+https://ngs.ics.uci.edu/macrosopes -> 105
+<-------------->
+https://ngs.ics.uci.edu/growing-old -> 100
+<-------------->
+https://ngs.ics.uci.edu/in-bali -> 125
+<-------------->
+https://ngs.ics.uci.edu/eventweb7-spatio-temporal-links -> 226
+<-------------->
+https://ngs.ics.uci.edu/search-on-phones -> 96
+<-------------->
+https://ngs.ics.uci.edu/bangalore-airport -> 181
+<-------------->
+https://ngs.ics.uci.edu/seraja-updates-september-18-2006 -> 144
+<-------------->
+https://ngs.ics.uci.edu/internet-features-on-tv-in-india -> 144
+<-------------->
+https://ngs.ics.uci.edu/new-media-in-singapore -> 210
+<-------------->
+https://ngs.ics.uci.edu/eventweb8-ie-eventoscope -> 215
+<-------------->
+https://ngs.ics.uci.edu/pet-resorts -> 349
+<-------------->
+https://ngs.ics.uci.edu/back-home-2 -> 142
+<-------------->
+https://ngs.ics.uci.edu/pattern-recognition -> 108
+<-------------->
+https://ngs.ics.uci.edu/entrepreneurism-class -> 195
+<-------------->
+https://ngs.ics.uci.edu/progress-in-digital-cameras -> 238
+<-------------->
+https://ngs.ics.uci.edu/towards-immersive-telepresence -> 197
+<-------------->
+https://ngs.ics.uci.edu/more-is-not-better -> 202
+<-------------->
+https://ngs.ics.uci.edu/worst-service-experience -> 200
+<-------------->
+https://ngs.ics.uci.edu/a9-scaling-back-key-features -> 110
+<-------------->
+https://ngs.ics.uci.edu/eventweb9-causality-deterministic -> 218
+<-------------->
+https://ngs.ics.uci.edu/using-youself-in-emoticons -> 152
+<-------------->
+https://ngs.ics.uci.edu/ten-myths-for-entrepreneurs -> 288
+<-------------->
+https://ngs.ics.uci.edu/hindi-movies -> 185
+<-------------->
+https://ngs.ics.uci.edu/a-really-important-video-news-ieeetv -> 180
+<-------------->
+https://ngs.ics.uci.edu/an-entrepreneurial-researcher -> 110
+<-------------->
+https://ngs.ics.uci.edu/visual-search -> 127
+<-------------->
+https://ngs.ics.uci.edu/human-centered-computing-1 -> 305
+<-------------->
+https://ngs.ics.uci.edu/human-centered-computing-2 -> 277
+<-------------->
+https://ngs.ics.uci.edu/married-couples-outnumbered-in-usa -> 147
+<-------------->
+https://ngs.ics.uci.edu/friendster-and-youtube-or-myspace -> 168
+<-------------->
+https://ngs.ics.uci.edu/osito-the-cutest-thing -> 236
+<-------------->
+https://ngs.ics.uci.edu/human-centered-computing-3 -> 213
+<-------------->
+https://ngs.ics.uci.edu/education-in-india -> 161
+<-------------->
+https://ngs.ics.uci.edu/indian-internet-future-in-mobiles -> 190
+<-------------->
+https://ngs.ics.uci.edu/eventweb-11-causal-chains -> 191
+<-------------->
+https://ngs.ics.uci.edu/telepresence -> 147
+<-------------->
+https://ngs.ics.uci.edu/acm-multimedia-2006 -> 130
+<-------------->
+https://ngs.ics.uci.edu/acm-multimedia-2006-day-2 -> 145
+<-------------->
+https://ngs.ics.uci.edu/acm-multimedia-2006-day-3 -> 234
+<-------------->
+https://ngs.ics.uci.edu/human-centered-multimedia -> 251
+<-------------->
+https://ngs.ics.uci.edu/china-trip-research-in-china -> 147
+<-------------->
+https://ngs.ics.uci.edu/china-trip-nov-2006-1 -> 271
+<-------------->
+https://ngs.ics.uci.edu/pacific-rim-multimedia-conference-day-1 -> 167
+<-------------->
+https://ngs.ics.uci.edu/pacific-rim-multimedia-conference-day-2 -> 149
+<-------------->
+https://ngs.ics.uci.edu/china-trip-nov-2006-2 -> 212
+<-------------->
+https://ngs.ics.uci.edu/china-trip-nov-20063 -> 265
+<-------------->
+https://ngs.ics.uci.edu/china-trip-nov-20064 -> 222
+<-------------->
+https://ngs.ics.uci.edu/seraja-updates-061105 -> 112
+<-------------->
+https://ngs.ics.uci.edu/eventweb-11-a-scenario-conferences -> 311
+<-------------->
+https://ngs.ics.uci.edu/being-too-early-is-worse-than-being-late -> 145
+<-------------->
+https://ngs.ics.uci.edu/start-ups-on-shoestring -> 121
+<-------------->
+https://ngs.ics.uci.edu/eventweb-13-crowdsourcing -> 367
+<-------------->
+https://ngs.ics.uci.edu/web-30 -> 197
+<-------------->
+https://ngs.ics.uci.edu/nyt-likes-like -> 171
+<-------------->
+https://ngs.ics.uci.edu/web-20-hype -> 178
+<-------------->
+https://ngs.ics.uci.edu/internet-video-on-tv -> 144
+<-------------->
+https://ngs.ics.uci.edu/in-switzerland -> 241
+<-------------->
+https://ngs.ics.uci.edu/seraja-update-061115 -> 114
+<-------------->
+https://ngs.ics.uci.edu/multimedia-story-telling -> 135
+<-------------->
+https://ngs.ics.uci.edu/eventweb-14-lifecycle-pre-event-activities -> 327
+<-------------->
+https://ngs.ics.uci.edu/progress-in-science-india-and-china -> 446
+<-------------->
+https://ngs.ics.uci.edu/linking-physical-with-cyber -> 159
+<-------------->
+https://ngs.ics.uci.edu/uploading-photos -> 127
+<-------------->
+https://ngs.ics.uci.edu/interesting-approach-to-make-your-team-victorious -> 147
+<-------------->
+https://ngs.ics.uci.edu/barry-diller-wants-to-revolutionize-news -> 172
+<-------------->
+https://ngs.ics.uci.edu/most-indian-grads-unemployable -> 180
+<-------------->
+https://ngs.ics.uci.edu/end-of-dvd -> 224
+<-------------->
+https://ngs.ics.uci.edu/eventweb-15-participatory-urban-sensing -> 166
+<-------------->
+https://ngs.ics.uci.edu/seraja-updates-2 -> 133
+<-------------->
+https://ngs.ics.uci.edu/negropontes-100-computer-for-developing-world -> 367
+<-------------->
+https://ngs.ics.uci.edu/computers-in-libraries-in-developing-countries -> 147
+<-------------->
+https://ngs.ics.uci.edu/citizen-journalism-going-experiential -> 164
+<-------------->
+https://ngs.ics.uci.edu/mashups-with-maps -> 96
+<-------------->
+https://ngs.ics.uci.edu/eventweb-16-web-20-does-not-necessarily-create-a-web -> 222
+<-------------->
+https://ngs.ics.uci.edu/joint-response-to-youtube -> 168
+<-------------->
+https://ngs.ics.uci.edu/user-generated-content-self-expression -> 277
+<-------------->
+https://ngs.ics.uci.edu/visual-search-2 -> 108
+<-------------->
+https://ngs.ics.uci.edu/updates-from-seraja-2 -> 146
+<-------------->
+https://ngs.ics.uci.edu/person-of-the-year-you -> 146
+<-------------->
+https://ngs.ics.uci.edu/long-tail-always-deams-of-becoming-the-head -> 244
+<-------------->
+https://ngs.ics.uci.edu/seraja-update-061220 -> 137
+<-------------->
+https://ngs.ics.uci.edu/at-kumarakom-resort -> 96
+<-------------->
+https://ngs.ics.uci.edu/in-nagpur-061226 -> 213
+<-------------->
+https://ngs.ics.uci.edu/nagpur-061227 -> 210
+<-------------->
+https://ngs.ics.uci.edu/nostalgia -> 359
+<-------------->
+https://ngs.ics.uci.edu/photography-in-india -> 554
+<-------------->
+https://ngs.ics.uci.edu/year-of-events -> 103
+<-------------->
+https://ngs.ics.uci.edu/camera-with-face-detection-technology -> 139
+<-------------->
+https://ngs.ics.uci.edu/busy-but-exciting-time-in-singapore -> 122
+<-------------->
+https://ngs.ics.uci.edu/organic-books -> 170
+<-------------->
+https://ngs.ics.uci.edu/back-home-070108 -> 125
+<-------------->
+https://ngs.ics.uci.edu/events-in-singapore -> 192
+<-------------->
+https://ngs.ics.uci.edu/iphone-is-a-step-towards-folk-computing -> 159
+<-------------->
+https://ngs.ics.uci.edu/anytown-online -> 180
+<-------------->
+https://ngs.ics.uci.edu/mental-toughness -> 175
+<-------------->
+https://ngs.ics.uci.edu/indians-can-not-work-together -> 145
+<-------------->
+http://ngs.ics.uci.edu/blog/?page_id=346 -> 75
+<-------------->
+https://ngs.ics.uci.edu/future-set-top-boxes -> 220
+<-------------->
+https://ngs.ics.uci.edu/live-sex-on-demand-in-hotels -> 156
+<-------------->
+https://ngs.ics.uci.edu/one-day-in-london -> 170
+<-------------->
+https://ngs.ics.uci.edu/we-generation -> 176
+<-------------->
+https://ngs.ics.uci.edu/nri-and-clinton-campaign -> 157
+<-------------->
+https://ngs.ics.uci.edu/search-by-humming -> 184
+<-------------->
+https://ngs.ics.uci.edu/computer-vision-research -> 610
+<-------------->
+https://ngs.ics.uci.edu/evolving-nature-of-books-1 -> 252
+<-------------->
+https://ngs.ics.uci.edu/evolving-nature-of-books-2 -> 333
+<-------------->
+https://ngs.ics.uci.edu/collaborative-novel-writing -> 160
+<-------------->
+https://ngs.ics.uci.edu/jim-gray -> 200
+<-------------->
+https://ngs.ics.uci.edu/indias-education-system -> 337
+<-------------->
+https://ngs.ics.uci.edu/video-will-bring-facebook-and-comcast-closer -> 150
+<-------------->
+https://ngs.ics.uci.edu/steering-wheel-and-search-as-a-conversation -> 208
+<-------------->
+https://ngs.ics.uci.edu/now-video-in-radio -> 153
+<-------------->
+https://ngs.ics.uci.edu/revenue-sharing-comes-to-video -> 180
+<-------------->
+https://ngs.ics.uci.edu/progress-in-immersive-sports -> 157
+<-------------->
+https://ngs.ics.uci.edu/new-media-and-face-to-face-interactions -> 126
+<-------------->
+https://ngs.ics.uci.edu/piracy-protection-using-content-video-recognition -> 223
+<-------------->
+https://ngs.ics.uci.edu/the-next-youtube -> 146
+<-------------->
+https://ngs.ics.uci.edu/unemployable-mba-graduates -> 166
+<-------------->
+https://ngs.ics.uci.edu/head-and-long-tail -> 122
+<-------------->
+https://ngs.ics.uci.edu/eventweb-17-bliki -> 232
+<-------------->
+https://ngs.ics.uci.edu/eventweb-18-bliki-continued -> 241
+<-------------->
+https://ngs.ics.uci.edu/special-effects-in-indian-tv -> 532
+<-------------->
+https://ngs.ics.uci.edu/future-search -> 139
+<-------------->
+https://ngs.ics.uci.edu/wikia -> 101
+<-------------->
+https://ngs.ics.uci.edu/changing-marriages-bedrooms -> 180
+<-------------->
+https://ngs.ics.uci.edu/history-preservation-in-digital-age -> 194
+<-------------->
+https://ngs.ics.uci.edu/iit-students -> 170
+<-------------->
+https://ngs.ics.uci.edu/internet-advertising -> 89
+<-------------->
+https://ngs.ics.uci.edu/obvious-vs-complex -> 191
+<-------------->
+https://ngs.ics.uci.edu/pervasive-computing -> 114
+<-------------->
+https://ngs.ics.uci.edu/entrepreneurship-and-processes -> 118
+<-------------->
+https://ngs.ics.uci.edu/india-in-cricket-world-cup -> 304
+<-------------->
+https://ngs.ics.uci.edu/vidhu-vinod-chopra-and-bollywood -> 271
+<-------------->
+https://ngs.ics.uci.edu/long-tail-using-recognition-by-crowds -> 178
+<-------------->
+https://ngs.ics.uci.edu/towards-natural-interfaces -> 223
+<-------------->
+https://ngs.ics.uci.edu/phone-as-modern-swiss-army-knife -> 202
+<-------------->
+https://ngs.ics.uci.edu/on-hiring-an-australian-to-become-an-indian -> 152
+<-------------->
+https://ngs.ics.uci.edu/is-this-bitterness-or-real-belief -> 133
+<-------------->
+https://ngs.ics.uci.edu/ignorance-of-crowds -> 278
+<-------------->
+https://ngs.ics.uci.edu/3-d-fax -> 183
+<-------------->
+https://ngs.ics.uci.edu/east-west-and-object-event -> 189
+<-------------->
+https://ngs.ics.uci.edu/cyber-spirituality -> 130
+<-------------->
+https://ngs.ics.uci.edu/virginia-tech-massacre -> 205
+<-------------->
+https://ngs.ics.uci.edu/on-efficacy-and-distraction-of-tags -> 198
+<-------------->
+https://ngs.ics.uci.edu/start-up-in-social-networking-interesting-insights -> 117
+<-------------->
+https://ngs.ics.uci.edu/hawaii-vacation-photos -> 100
+<-------------->
+https://ngs.ics.uci.edu/eventweb-and-saving-lives -> 192
+<-------------->
+https://ngs.ics.uci.edu/india-has-more-than-200-million-telephone-subscribers -> 198
+<-------------->
+https://ngs.ics.uci.edu/culture-or-politics-or-stupidity -> 267
+<-------------->
+https://ngs.ics.uci.edu/aggressiveness-in-start-ups -> 222
+<-------------->
+https://ngs.ics.uci.edu/building-more-iits -> 296
+<-------------->
+https://ngs.ics.uci.edu/goodbye-mouse -> 159
+<-------------->
+https://ngs.ics.uci.edu/most-popular-but-little-known-photosite -> 135
+<-------------->
+https://ngs.ics.uci.edu/social-networking-is-ephemeral -> 536
+<-------------->
+https://ngs.ics.uci.edu/vacation-in-germany -> 128
+<-------------->
+https://ngs.ics.uci.edu/internet-cameras-and-politics -> 144
+<-------------->
+https://ngs.ics.uci.edu/nagpur-a-model-for-indian-cities -> 148
+<-------------->
+https://ngs.ics.uci.edu/electricity-in-india -> 202
+<-------------->
+https://ngs.ics.uci.edu/interesting-trip-child-birth-on-a-flight -> 195
+<-------------->
+https://ngs.ics.uci.edu/events-unaware-of-events -> 129
+<-------------->
+https://ngs.ics.uci.edu/protecting-ancient-indian-knowledge -> 150
+<-------------->
+https://ngs.ics.uci.edu/a-german-wedding -> 142
+<-------------->
+https://ngs.ics.uci.edu/social-networking-platform -> 129
+<-------------->
+https://ngs.ics.uci.edu/nagpur-the-big-orange -> 97
+<-------------->
+https://ngs.ics.uci.edu/photo-uploads-on-facebook -> 260
+<-------------->
+https://ngs.ics.uci.edu/colorful-reading -> 142
+<-------------->
+https://ngs.ics.uci.edu/maps-getting-richer -> 248
+<-------------->
+https://ngs.ics.uci.edu/richer-maps -> 91
+<-------------->
+https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs -> 226
+<-------------->
+https://ngs.ics.uci.edu/travel-to-singapore -> 517
+<-------------->
+https://ngs.ics.uci.edu/conference-non-proceedings -> 127
+<-------------->
+https://ngs.ics.uci.edu/humans-in-search-engine -> 184
+<-------------->
+https://ngs.ics.uci.edu/towards-unified-search-ask -> 149
+<-------------->
+https://ngs.ics.uci.edu/facebook-in-india -> 292
+<-------------->
+https://ngs.ics.uci.edu/social-networks-on-mobile-by-coke -> 169
+<-------------->
+https://ngs.ics.uci.edu/muvee-california-culture-in-singapore -> 134
+<-------------->
+https://ngs.ics.uci.edu/camera-with-wifi -> 109
+<-------------->
+https://ngs.ics.uci.edu/multimedia-evidences-for-events -> 117
+<-------------->
+https://ngs.ics.uci.edu/where-to-store-your-photos -> 181
+<-------------->
+https://ngs.ics.uci.edu/digital-camera-sensitivity -> 134
+<-------------->
+https://ngs.ics.uci.edu/creating-a-photo-eco-system-the-problem -> 242
+<-------------->
+https://ngs.ics.uci.edu/photo-eco-system-digital-cameras -> 266
+<-------------->
+https://ngs.ics.uci.edu/offline-social-networks -> 166
+<-------------->
+https://ngs.ics.uci.edu/searching-sportscasts -> 223
+<-------------->
+https://ngs.ics.uci.edu/user-generated-stock-photos -> 137
+<-------------->
+https://ngs.ics.uci.edu/photo-eco-system-analyzing-digital-photos -> 186
+<-------------->
+https://ngs.ics.uci.edu/photo-eco-system-i-need-to-solve-my-problem -> 228
+<-------------->
+https://ngs.ics.uci.edu/rising-wages-in-india-starting-to-hurt -> 124
+<-------------->
+https://ngs.ics.uci.edu/sobering-data -> 170
+<-------------->
+https://ngs.ics.uci.edu/brave-new-world-at-so-called-high-quality-conferences -> 194
+<-------------->
+https://ngs.ics.uci.edu/iphone-a-good-step-towards-folk-computing -> 339
+<-------------->
+https://ngs.ics.uci.edu/large-scale-cut-and-paste-to-enhance-photos -> 156
+<-------------->
+https://ngs.ics.uci.edu/from-killer-apps-to-platform -> 174
+<-------------->
+https://ngs.ics.uci.edu/research-in-computer-vision-and-many-other-fields -> 149
+<-------------->
+https://ngs.ics.uci.edu/wow-factor-in-photo-technologies-at-microsoft -> 126
+<-------------->
+https://ngs.ics.uci.edu/cnn-youtube-debates -> 144
+<-------------->
+https://ngs.ics.uci.edu/living-in-singapore -> 143
+<-------------->
+https://ngs.ics.uci.edu/interest-in-nagpur -> 111
+<-------------->
+https://ngs.ics.uci.edu/fast-image-similarity-search -> 144
+<-------------->
+https://ngs.ics.uci.edu/a-picture-is-worth-a-thousand-lies -> 121
+<-------------->
+https://ngs.ics.uci.edu/e2e-environment-to-environment-communications -> 130
+<-------------->
+https://ngs.ics.uci.edu/indian-technology-in-the-flat-world -> 278
+<-------------->
+https://ngs.ics.uci.edu/india-as-outsourcer -> 133
+<-------------->
+https://ngs.ics.uci.edu/religion-and-progress -> 139
+<-------------->
+https://ngs.ics.uci.edu/60-years-of-indian-independence -> 227
+<-------------->
+https://ngs.ics.uci.edu/videoconferencing-in-future-for-seniors -> 158
+<-------------->
+https://ngs.ics.uci.edu/india-has-the-brains-but -> 255
+<-------------->
+https://ngs.ics.uci.edu/ancient-rome-born-in-3d -> 136
+<-------------->
+https://ngs.ics.uci.edu/ho-chi-minh-city -> 175
+<-------------->
+https://ngs.ics.uci.edu/history-and-events -> 220
+<-------------->
+https://ngs.ics.uci.edu/hiperwall-at-uc-irvine-calit2 -> 213
+<-------------->
+https://ngs.ics.uci.edu/busy-working-on-eventweb-project -> 122
+<-------------->
+https://ngs.ics.uci.edu/eventweb-article-based-on-keynote-talk -> 136
+<-------------->
+https://ngs.ics.uci.edu/perth-is-a-nice-place -> 145
+<-------------->
+https://ngs.ics.uci.edu/environment-to-environment-e2e-communication -> 185
+<-------------->
+https://ngs.ics.uci.edu/geotagging -> 188
+<-------------->
+https://ngs.ics.uci.edu/academic-research -> 185
+<-------------->
+https://ngs.ics.uci.edu/long-and-short-trip-ending -> 124
+<-------------->
+https://ngs.ics.uci.edu/face-recognition-engine -> 165
+<-------------->
+https://ngs.ics.uci.edu/image-search-in-multiple-languages -> 149
+<-------------->
+https://ngs.ics.uci.edu/back-home-3 -> 114
+<-------------->
+https://ngs.ics.uci.edu/amusing-event-in-religion-politics-in-india -> 95
+<-------------->
+https://ngs.ics.uci.edu/computer-vision-applications-in-cameras -> 168
+<-------------->
+https://ngs.ics.uci.edu/semantics-in-multimedia -> 174
+<-------------->
+https://ngs.ics.uci.edu/losing-friends -> 150
+<-------------->
+https://ngs.ics.uci.edu/attending-acm-multimedia-2007 -> 152
+<-------------->
+https://ngs.ics.uci.edu/oktoberfest -> 155
+<-------------->
+https://ngs.ics.uci.edu/smartweb-presentation-at-acmmm07 -> 197
+<-------------->
+https://ngs.ics.uci.edu/acm-multimedia-2007-day-2 -> 274
+<-------------->
+https://ngs.ics.uci.edu/acm-multimedia-2007-day-3 -> 174
+<-------------->
+https://ngs.ics.uci.edu/back-and-in-the-middle-of-action -> 162
+<-------------->
+https://ngs.ics.uci.edu/can-entrepreneurship-be-taught -> 235
+<-------------->
+https://ngs.ics.uci.edu/smile-you-are-on-camera -> 151
+<-------------->
+https://ngs.ics.uci.edu/computer-vision-for-developing-countries -> 136
+<-------------->
+https://ngs.ics.uci.edu/computer-for-developing-world-from-olpc -> 127
+<-------------->
+https://ngs.ics.uci.edu/cpmputers-for-emerging-markets-and-emerging-segments -> 192
+<-------------->
+https://ngs.ics.uci.edu/women-accepting-wife-beating -> 121
+<-------------->
+https://ngs.ics.uci.edu/mashup-of-youtube-and-googlemaps -> 133
+<-------------->
+https://ngs.ics.uci.edu/to-brazil-thinking-computer-vision-in-developing-countries -> 117
+<-------------->
+https://ngs.ics.uci.edu/visiting-rio-first-trip-to-south-america -> 115
+<-------------->
+https://ngs.ics.uci.edu/computer-vision-in-developing-countries -> 227
+<-------------->
+https://ngs.ics.uci.edu/rio-de-janeiro-brazil-experience -> 173
+<-------------->
+https://ngs.ics.uci.edu/gates-long-list-natural-interfaces -> 169
+<-------------->
+https://ngs.ics.uci.edu/electronic-cultural-atlas-initiative-workshop -> 142
+<-------------->
+https://ngs.ics.uci.edu/indian-technology-in-the-flat-world-2 -> 137
+<-------------->
+https://ngs.ics.uci.edu/fires-in-southern-california -> 162
+<-------------->
+https://ngs.ics.uci.edu/back-after-fires -> 114
+<-------------->
+https://ngs.ics.uci.edu/seraja-towards-a-new-incarnation -> 170
+<-------------->
+https://ngs.ics.uci.edu/853 -> 89
+<-------------->
+https://ngs.ics.uci.edu/interesting-uses-of-mass-photography -> 118
+<-------------->
+https://ngs.ics.uci.edu/if-it-merged-with-e-t -> 142
+<-------------->
+https://ngs.ics.uci.edu/you-know-it-but-it-still-hurts -> 150
+<-------------->
+https://ngs.ics.uci.edu/bai-is-no-more-with-us -> 127
+<-------------->
+https://ngs.ics.uci.edu/google-phone-a-step-towards-folk-computing -> 137
+<-------------->
+https://ngs.ics.uci.edu/named-event-extraction -> 116
+<-------------->
+https://ngs.ics.uci.edu/social-networks-for-art-enthusiasts -> 94
+<-------------->
+https://ngs.ics.uci.edu/face-recognition-in-vending-machines -> 118
+<-------------->
+https://ngs.ics.uci.edu/cameras-will-recognize-you -> 126
+<-------------->
+https://ngs.ics.uci.edu/medical-tourism-and-medical-care-in-india -> 385
+<-------------->
+https://ngs.ics.uci.edu/e2e-environemnt-to-environment-connection -> 164
+<-------------->
+https://ngs.ics.uci.edu/in-21st-century -> 166
+<-------------->
+https://ngs.ics.uci.edu/places-coming-to-flickr -> 108
+<-------------->
+https://ngs.ics.uci.edu/we-have-a-long-way-to-go -> 123
+<-------------->
+https://ngs.ics.uci.edu/3d-movies -> 154
+<-------------->
+https://ngs.ics.uci.edu/relationships -> 332
+<-------------->
+https://ngs.ics.uci.edu/social-networks-for-less-privileged -> 470
+<-------------->
+https://ngs.ics.uci.edu/busy-time -> 99
+<-------------->
+https://ngs.ics.uci.edu/now-to-osteoarthritis-of-knees -> 224
+<-------------->
+https://ngs.ics.uci.edu/deep-history -> 155
+<-------------->
+https://ngs.ics.uci.edu/knee -> 109
+<-------------->
+https://ngs.ics.uci.edu/folk-computing-a-scenario-from-2013 -> 224
+<-------------->
+https://ngs.ics.uci.edu/nagpur-person-to-head-citi-bank -> 101
+<-------------->
+https://ngs.ics.uci.edu/sad-education-situation-in-india -> 102
+<-------------->
+https://ngs.ics.uci.edu/indian-ceos-pride-of-nagpur -> 204
+<-------------->
+https://ngs.ics.uci.edu/in-singapore -> 97
+<-------------->
+https://ngs.ics.uci.edu/pandit-does-bring-recognition-to-nagpur -> 105
+<-------------->
+https://ngs.ics.uci.edu/cyber-and-real-cybereal -> 162
+<-------------->
+https://ngs.ics.uci.edu/cav-indexing -> 164
+<-------------->
+https://ngs.ics.uci.edu/back-in-india -> 224
+<-------------->
+https://ngs.ics.uci.edu/nagpur-trip-2007 -> 202
+<-------------->
+https://ngs.ics.uci.edu/indian-weddings -> 154
+<-------------->
+https://ngs.ics.uci.edu/indian-wedding-2 -> 89
+<-------------->
+https://ngs.ics.uci.edu/nagpur-trip-20072 -> 124
+<-------------->
+https://ngs.ics.uci.edu/visiting-new-delhi -> 154
+<-------------->
+https://ngs.ics.uci.edu/seraja-software -> 259
+<-------------->
+https://ngs.ics.uci.edu/back-home-4 -> 117
+<-------------->
+https://ngs.ics.uci.edu/open-cable-platform -> 124
+<-------------->
+https://ngs.ics.uci.edu/tata-and-rs-1-lakh-car -> 125
+<-------------->
+https://ngs.ics.uci.edu/geotagging-2 -> 136
+<-------------->
+https://ngs.ics.uci.edu/computer-vision-in-computing -> 213
+<-------------->
+https://ngs.ics.uci.edu/educating-india -> 155
+<-------------->
+https://ngs.ics.uci.edu/creativeit -> 152
+<-------------->
+https://ngs.ics.uci.edu/creativity-and-creativeit -> 221
+<-------------->
+https://ngs.ics.uci.edu/divorces-in-india -> 452
+<-------------->
+https://ngs.ics.uci.edu/the-new-bill-gates -> 148
+<-------------->
+https://ngs.ics.uci.edu/padma-vibhushan -> 124
+<-------------->
+https://ngs.ics.uci.edu/test-images-in-computer-vision-research -> 183
+<-------------->
+https://ngs.ics.uci.edu/face-recognition-one-more-claim -> 128
+<-------------->
+https://ngs.ics.uci.edu/multimedia-content-access -> 147
+<-------------->
+https://ngs.ics.uci.edu/tom-brady-a-fighter -> 205
+<-------------->
+https://ngs.ics.uci.edu/events-becoming-popular -> 123
+<-------------->
+https://ngs.ics.uci.edu/eventweb-article -> 132
+<-------------->
+https://ngs.ics.uci.edu/us-universities-setting-outposts -> 211
+<-------------->
+https://ngs.ics.uci.edu/computational-journalism -> 175
+<-------------->
+https://ngs.ics.uci.edu/human-sensors -> 138
+<-------------->
+https://ngs.ics.uci.edu/mahaexodus-navanirman-or-satyanash -> 159
+<-------------->
+https://ngs.ics.uci.edu/applications-of-face-recognition -> 155
+<-------------->
+https://ngs.ics.uci.edu/obsession-with-non-issues -> 203
+<-------------->
+https://ngs.ics.uci.edu/another-non-issue-gaining-importance -> 135
+<-------------->
+https://ngs.ics.uci.edu/computational-journalism-day-1 -> 239
+<-------------->
+https://ngs.ics.uci.edu/nostalgia-in-atlanta-at-tsrb -> 187
+<-------------->
+https://ngs.ics.uci.edu/computational-journalism-day-2 -> 166
+<-------------->
+https://ngs.ics.uci.edu/searching-real-world-using-images-from-mobile -> 175
+<-------------->
+http://ngs.ics.uci.edu/blog/?p=552 -> 210
+<-------------->
+https://ngs.ics.uci.edu/contenxt-search -> 119
+<-------------->
+https://ngs.ics.uci.edu/other-india -> 115
+<-------------->
+https://ngs.ics.uci.edu/seraja-reincarnation-at-uci -> 184
+<-------------->
+https://ngs.ics.uci.edu/intelligence-analysts -> 156
+<-------------->
+https://ngs.ics.uci.edu/east-and-west -> 134
+<-------------->
+https://ngs.ics.uci.edu/cav-indexing-towards-contenxt -> 242
+<-------------->
+https://ngs.ics.uci.edu/basic-research-in-singapore -> 137
+<-------------->
+https://ngs.ics.uci.edu/suffering-fools -> 147
+<-------------->
+https://ngs.ics.uci.edu/research-in-singapore -> 136
+<-------------->
+https://ngs.ics.uci.edu/quality-of-experience -> 116
+<-------------->
+https://ngs.ics.uci.edu/after-mandarin-it-is-hindi -> 172
+<-------------->
+https://ngs.ics.uci.edu/knowledge-science -> 204
+<-------------->
+https://ngs.ics.uci.edu/knowledge-science-2 -> 131
+<-------------->
+https://ngs.ics.uci.edu/3-d-viewfinder-for-photos -> 97
+<-------------->
+https://ngs.ics.uci.edu/knowledge-science-3 -> 190
+<-------------->
+https://ngs.ics.uci.edu/in-florence -> 160
+<-------------->
+https://ngs.ics.uci.edu/chi-conference -> 167
+<-------------->
+https://ngs.ics.uci.edu/knowledge-science-4 -> 164
+<-------------->
+https://ngs.ics.uci.edu/knowledge-science-5-orality-and-literacy -> 189
+<-------------->
+https://ngs.ics.uci.edu/subtitles-to-teach-reading -> 207
+<-------------->
+https://ngs.ics.uci.edu/beijing -> 153
+<-------------->
+https://ngs.ics.uci.edu/web-science -> 148
+<-------------->
+https://ngs.ics.uci.edu/web-science-2 -> 278
+<-------------->
+https://ngs.ics.uci.edu/iit-brands -> 97
+<-------------->
+https://ngs.ics.uci.edu/everything-ok -> 148
+<-------------->
+https://ngs.ics.uci.edu/knee-surgery -> 102
+<-------------->
+https://ngs.ics.uci.edu/web-science-3 -> 179
+<-------------->
+https://ngs.ics.uci.edu/on-selecting-a-research-problem -> 167
+<-------------->
+https://ngs.ics.uci.edu/telepresence-and-e2e -> 162
+<-------------->
+https://ngs.ics.uci.edu/eventweb-symposium -> 151
+<-------------->
+https://ngs.ics.uci.edu/knee-surgery-2 -> 179
+<-------------->
+https://ngs.ics.uci.edu/20-of-drugs-sold-in-india-fake -> 98
+<-------------->
+https://ngs.ics.uci.edu/pain-management-after-knee-surgery -> 138
+<-------------->
+https://ngs.ics.uci.edu/going-home -> 168
+<-------------->
+https://ngs.ics.uci.edu/what-did-we-do-before-computers -> 149
+<-------------->
+https://ngs.ics.uci.edu/what-did-we-do-before-computers-2 -> 208
+<-------------->
+https://ngs.ics.uci.edu/first-meeting-using-e2e -> 102
+<-------------->
+https://ngs.ics.uci.edu/allergic-reaction -> 135
+<-------------->
+https://ngs.ics.uci.edu/empty-emotionalism -> 192
+<-------------->
+https://ngs.ics.uci.edu/language-for-experiences -> 211
+<-------------->
+https://ngs.ics.uci.edu/media-and-experiences -> 161
+<-------------->
+https://ngs.ics.uci.edu/arun-hampapur-distinguished-engineer-at-ibm -> 128
+<-------------->
+https://ngs.ics.uci.edu/ipl-tournament-in-india -> 166
+<-------------->
+https://ngs.ics.uci.edu/maybe-this-time-speech-interfaces-are-really-oming -> 91
+<-------------->
+https://ngs.ics.uci.edu/rehabilitation-from-knee-surgery -> 243
+<-------------->
+https://ngs.ics.uci.edu/experiential-computing -> 178
+<-------------->
+https://ngs.ics.uci.edu/acm-multimedia-information-retrieval -> 164
+<-------------->
+https://ngs.ics.uci.edu/information-sites-in-multimedia -> 166
+<-------------->
+https://ngs.ics.uci.edu/one-month-later -> 250
+<-------------->
+https://ngs.ics.uci.edu/photo-stream-segmentation-photo-organization -> 304
+<-------------->
+https://ngs.ics.uci.edu/hammer-syndrome-in-sciences -> 213
+<-------------->
+https://ngs.ics.uci.edu/can-we-go-beyond-gutenberg -> 296
+<-------------->
+https://ngs.ics.uci.edu/iphone-or-mcomputer -> 253
+<-------------->
+https://ngs.ics.uci.edu/spreading-joy -> 142
+<-------------->
+https://ngs.ics.uci.edu/scientific-reviews-pagerank -> 364
+<-------------->
+https://ngs.ics.uci.edu/zeetv -> 112
+<-------------->
+https://ngs.ics.uci.edu/hectic-time-in-singapore -> 139
+<-------------->
+https://ngs.ics.uci.edu/computing-in-100-bc -> 102
+<-------------->
+https://ngs.ics.uci.edu/cuil-a-new-search-engine -> 122
+<-------------->
+https://ngs.ics.uci.edu/hypelinking-videos-google-getting-into-it -> 163
+<-------------->
+https://ngs.ics.uci.edu/mir-1-data-sets -> 165
+<-------------->
+https://ngs.ics.uci.edu/tineye-an-image-search-engine -> 199
+<-------------->
+https://ngs.ics.uci.edu/co-space -> 219
+<-------------->
+https://ngs.ics.uci.edu/12-computer-down-from-100 -> 133
+<-------------->
+https://ngs.ics.uci.edu/real-and-virtual-cybereal -> 142
+<-------------->
+https://ngs.ics.uci.edu/metamorphosis-of-india -> 143
+<-------------->
+https://ngs.ics.uci.edu/abstractions-operations-and-transformations-in-computing -> 197
+<-------------->
+https://ngs.ics.uci.edu/abstractions-and-experiential-computing -> 207
+<-------------->
+https://ngs.ics.uci.edu/indian-medals-at-olympic-an-interesting-perspective -> 252
+<-------------->
+https://ngs.ics.uci.edu/carrot-works-in-research -> 158
+<-------------->
+https://ngs.ics.uci.edu/economic-gains-are-limited-in-india -> 144
+<-------------->
+https://ngs.ics.uci.edu/wealth-as-cure-for-indias-caste-bias -> 142
+<-------------->
+https://ngs.ics.uci.edu/sharing-your-visualizaion -> 144
+<-------------->
+https://ngs.ics.uci.edu/interactive-digital-media-in-singapore -> 219
+<-------------->
+https://ngs.ics.uci.edu/abstraction-matching -> 193
+<-------------->
+https://ngs.ics.uci.edu/going-back-to-usa -> 185
+<-------------->
+https://ngs.ics.uci.edu/video-communication-is-starting -> 207
+<-------------->
+https://ngs.ics.uci.edu/memories-for-life -> 141
+<-------------->
+https://ngs.ics.uci.edu/singapore-governement -> 205
+<-------------->
+https://ngs.ics.uci.edu/the-new-age-of-innovation -> 153
+<-------------->
+https://ngs.ics.uci.edu/multimedia-teaching-need-a-real-text-book -> 121
+<-------------->
+https://ngs.ics.uci.edu/reality-is-funnier-than-satire-on-snl -> 162
+<-------------->
+https://ngs.ics.uci.edu/dumbing-down-or-freeing-for-creativity -> 312
+<-------------->
+https://ngs.ics.uci.edu/southern-california-computer-vision-meetup -> 102
+<-------------->
+https://ngs.ics.uci.edu/storytelling -> 179
+<-------------->
+https://ngs.ics.uci.edu/memories-life-and-experiences -> 190
+<-------------->
+https://ngs.ics.uci.edu/mir-at-ieee-int-conf-on-image-processing -> 100
+<-------------->
+https://ngs.ics.uci.edu/happy-to-see-multimedia -> 108
+<-------------->
+https://ngs.ics.uci.edu/personal-media-organization-and-access -> 171
+<-------------->
+https://ngs.ics.uci.edu/united-india -> 244
+<-------------->
+https://ngs.ics.uci.edu/multimedia-semantics-bridging-the-semantic-gap -> 170
+<-------------->
+https://ngs.ics.uci.edu/meeting-prof-h-h-nagel -> 139
+<-------------->
+https://ngs.ics.uci.edu/models-and-descriptions -> 166
+<-------------->
+https://ngs.ics.uci.edu/1012 -> 175
+<-------------->
+https://ngs.ics.uci.edu/acm-multimedia-conference -> 141
+<-------------->
+https://ngs.ics.uci.edu/language-and-the-eventweb -> 127
+<-------------->
+https://ngs.ics.uci.edu/historic-day-todays-election -> 162
+<-------------->
+https://ngs.ics.uci.edu/election-fever -> 131
+<-------------->
+https://ngs.ics.uci.edu/obama-victory-indian-sc-ruling -> 220
+<-------------->
+https://ngs.ics.uci.edu/third-world-first -> 271
+<-------------->
+https://ngs.ics.uci.edu/changegov -> 229
+<-------------->
+https://ngs.ics.uci.edu/cnns-hologram-immersive-video -> 216
+<-------------->
+https://ngs.ics.uci.edu/good-friends -> 148
+<-------------->
+https://ngs.ics.uci.edu/smart-traffic -> 86
+<-------------->
+https://ngs.ics.uci.edu/technology-and-auto-industry -> 106
+<-------------->
+https://ngs.ics.uci.edu/obama-appoints-sonal-shah -> 129
+<-------------->
+https://ngs.ics.uci.edu/study-astrology -> 159
+<-------------->
+https://ngs.ics.uci.edu/googles-speech-interfaces-using-context -> 217
+<-------------->
+https://ngs.ics.uci.edu/rligulous-religion-considered-extremely-harmful -> 447
+<-------------->
+https://ngs.ics.uci.edu/future-storytelling -> 139
+<-------------->
+https://ngs.ics.uci.edu/social-search-3 -> 125
+<-------------->
+https://ngs.ics.uci.edu/terrorism-in-india -> 181
+<-------------->
+https://ngs.ics.uci.edu/go-to-mumbai -> 168
+<-------------->
+https://ngs.ics.uci.edu/mkrishi -> 227
+<-------------->
+https://ngs.ics.uci.edu/beijing-trip -> 172
+<-------------->
+https://ngs.ics.uci.edu/china-and-india -> 272
+<-------------->
+https://ngs.ics.uci.edu/video-phones-finally -> 126
+<-------------->
+https://ngs.ics.uci.edu/siggraph-asia -> 107
+<-------------->
+https://ngs.ics.uci.edu/intriguing-observation-about-singapore -> 161
+<-------------->
+https://ngs.ics.uci.edu/planning-time-or-events -> 140
+<-------------->
+https://ngs.ics.uci.edu/cricket-in-india -> 111
+<-------------->
+https://ngs.ics.uci.edu/diversity-and-india -> 155
+<-------------->
+https://ngs.ics.uci.edu/next-generation-search-course -> 163
+<-------------->
+https://ngs.ics.uci.edu/usa-has-become-general-motors -> 155
+<-------------->
+https://ngs.ics.uci.edu/sharing-your-photos-animoto -> 123
+<-------------->
+https://ngs.ics.uci.edu/sharing-your-photos-orsiso -> 111
+<-------------->
+https://ngs.ics.uci.edu/digital-medical-records -> 172
+<-------------->
+https://ngs.ics.uci.edu/the-state-of-venture-capital -> 126
+<-------------->
+https://ngs.ics.uci.edu/sharing-your-photos-fotonaut -> 111
+<-------------->
+https://ngs.ics.uci.edu/india-and-china -> 200
+<-------------->
+https://ngs.ics.uci.edu/entrepreneurship-education -> 128
+<-------------->
+https://ngs.ics.uci.edu/no-text-book-on-search-systems -> 124
+<-------------->
+https://ngs.ics.uci.edu/apple-becoming-more-multimedia -> 187
+<-------------->
+https://ngs.ics.uci.edu/structured-and-unstructured-data-1 -> 443
+<-------------->
+https://ngs.ics.uci.edu/structured-and-unstructured-data-2 -> 204
+<-------------->
+https://ngs.ics.uci.edu/where-sweatshops-are-a-dream -> 265
+<-------------->
+https://ngs.ics.uci.edu/barack-obama-one-of-the-most-impressive-man -> 144
+<-------------->
+https://ngs.ics.uci.edu/structured-and-unstructured-data-3-competence-and-performance -> 165
+<-------------->
+https://ngs.ics.uci.edu/text-or-video-no-it-should-be-text-and-video -> 275
+<-------------->
+https://ngs.ics.uci.edu/obama-era-of-responsible-optimism -> 155
+<-------------->
+https://ngs.ics.uci.edu/kingdom-of-context -> 277
+<-------------->
+https://ngs.ics.uci.edu/research-at-fuji-xerox-lab-fxpal -> 248
+<-------------->
+https://ngs.ics.uci.edu/obamas-popularity -> 154
+<-------------->
+https://ngs.ics.uci.edu/new-ilife-and-face-recognition -> 190
+<-------------->
+https://ngs.ics.uci.edu/unplanned-expansion-of-iits -> 93
+<-------------->
+https://ngs.ics.uci.edu/the-white-tiger -> 205
+<-------------->
+https://ngs.ics.uci.edu/explore-ocean-floor-using-google-maps -> 187
+<-------------->
+https://ngs.ics.uci.edu/grand-challenge-problems-at-acm-multimedia-2009 -> 151
+<-------------->
+https://ngs.ics.uci.edu/getting-funding-for-startups-getting-tougher -> 185
+<-------------->
+https://ngs.ics.uci.edu/uncertainty-in-databases -> 179
+<-------------->
+https://ngs.ics.uci.edu/all-those-lifelogs-and-mobile-phones -> 161
+<-------------->
+https://ngs.ics.uci.edu/a-great-opportunity-mobile-phones-in-rural-india -> 222
+<-------------->
+https://ngs.ics.uci.edu/google-maps-and-latitude -> 175
+<-------------->
+https://ngs.ics.uci.edu/protectionism-in-difficult-time -> 236
+<-------------->
+https://ngs.ics.uci.edu/mmgc-multimedia-grand-challenge -> 260
+<-------------->
+https://ngs.ics.uci.edu/five-year-check-up -> 207
+<-------------->
+https://ngs.ics.uci.edu/to-do-or-to-have-that-is-the-question -> 171
+<-------------->
+https://ngs.ics.uci.edu/1077 -> 170
+<-------------->
+https://ngs.ics.uci.edu/slumdog -> 425
+<-------------->
+https://ngs.ics.uci.edu/a-japanese-view-on-the-japneses-crisis -> 254
+<-------------->
+https://ngs.ics.uci.edu/real-virtuality -> 125
+<-------------->
+https://ngs.ics.uci.edu/cyber-persona -> 426
+<-------------->
+https://ngs.ics.uci.edu/british-grand-challenges -> 237
+<-------------->
+https://ngs.ics.uci.edu/search-inside -> 198
+<-------------->
+https://ngs.ics.uci.edu/faceweb -> 162
+<-------------->
+https://ngs.ics.uci.edu/mm-grand-challenges -> 214
+<-------------->
+https://ngs.ics.uci.edu/multimedia-text-book -> 201
+<-------------->
+https://ngs.ics.uci.edu/semantics-comes-to-google-search -> 162
+<-------------->
+https://ngs.ics.uci.edu/3d-tv-a-new-version -> 165
+<-------------->
+https://ngs.ics.uci.edu/formalism-and-research -> 157
+<-------------->
+https://ngs.ics.uci.edu/complete-sensual-immersion-holodeck-reality -> 102
+<-------------->
+https://ngs.ics.uci.edu/ideological-search -> 107
+<-------------->
+https://ngs.ics.uci.edu/planetary-skin -> 140
+<-------------->
+https://ngs.ics.uci.edu/smarter-planet-by-ibm -> 206
+<-------------->
+https://ngs.ics.uci.edu/talking-in-color -> 89
+<-------------->
+https://ngs.ics.uci.edu/excellence-in-singapore-but -> 177
+<-------------->
+https://ngs.ics.uci.edu/a-perspective-on-multimedia-computing-and-commpunication-1 -> 264
+<-------------->
+https://ngs.ics.uci.edu/a-perspective-on-multimedia-computing-and-communication-2 -> 336
+<-------------->
+https://ngs.ics.uci.edu/progress-in-mkrishi-project -> 116
+<-------------->
+https://ngs.ics.uci.edu/connection-among-events -> 539
+<-------------->
+https://ngs.ics.uci.edu/similarity-search-introduced-by-google -> 238
+<-------------->
+https://ngs.ics.uci.edu/in-london -> 243
+<-------------->
+https://ngs.ics.uci.edu/aggregating-user-generated-video -> 185
+<-------------->
+https://ngs.ics.uci.edu/life-and-memories -> 181
+<-------------->
+https://ngs.ics.uci.edu/visual-computing-institute -> 125
+<-------------->
+https://ngs.ics.uci.edu/smell-comes-to-operas -> 230
+<-------------->
+https://ngs.ics.uci.edu/real-time-search -> 218
+<-------------->
+https://ngs.ics.uci.edu/reverse-search-is-just-search -> 115
+<-------------->
+https://ngs.ics.uci.edu/finding-is-better-than-searching -> 100
+<-------------->
+https://ngs.ics.uci.edu/prospective-of-multimedia-search -> 148
+<-------------->
+https://ngs.ics.uci.edu/personal-butler-on-iphone-siri -> 153
+<-------------->
+https://ngs.ics.uci.edu/real-time-search-2 -> 196
+<-------------->
+https://ngs.ics.uci.edu/real-time-search-3-twitter -> 275
+<-------------->
+https://ngs.ics.uci.edu/real-time-search-4-driving-using-only-the-rear-view-mirror -> 229
+<-------------->
+https://ngs.ics.uci.edu/dave-lehman -> 148
+<-------------->
+https://ngs.ics.uci.edu/searh-progress-in-ne-extraction -> 142
+<-------------->
+https://ngs.ics.uci.edu/whats-here-on-google-maps -> 148
+<-------------->
+https://ngs.ics.uci.edu/geotagging-is-moving-closer-to-center -> 263
+<-------------->
+https://ngs.ics.uci.edu/ubiquitous-connectivity -> 177
+<-------------->
+https://ngs.ics.uci.edu/evaluating-multimedia-algorithms -> 473
+<-------------->
+https://ngs.ics.uci.edu/experiential-communication-in-singapore -> 185
+<-------------->
+https://ngs.ics.uci.edu/events-and-metaevents -> 236
+<-------------->
+https://ngs.ics.uci.edu/living-in-the-past-dangerous-for-present-and-future -> 141
+<-------------->
+https://ngs.ics.uci.edu/sue-generis-a-class-of-its-own -> 161
+<-------------->
+https://ngs.ics.uci.edu/multimedia-information-retrieval-at-nus-1 -> 108
+<-------------->
+https://ngs.ics.uci.edu/multimedia-information-retrieval-at-nus-2 -> 84
+<-------------->
+https://ngs.ics.uci.edu/eventweb-getting-traction -> 151
+<-------------->
+https://ngs.ics.uci.edu/where-is-computer-science-in-it -> 289
+<-------------->
+https://ngs.ics.uci.edu/becoming-impatient -> 197
+<-------------->
+https://ngs.ics.uci.edu/visual-time-machine -> 138
+<-------------->
+https://ngs.ics.uci.edu/situation-awareness-and-control -> 142
+<-------------->
+https://ngs.ics.uci.edu/photo-management-remains-an-open-problem -> 158
+<-------------->
+https://ngs.ics.uci.edu/trip-to-angkor-in-cambodia1 -> 200
+<-------------->
+https://ngs.ics.uci.edu/trip-to-angkor-in-cambodia-2 -> 250
+<-------------->
+https://ngs.ics.uci.edu/sentiment-analysis -> 194
+<-------------->
+https://ngs.ics.uci.edu/ict-for-development-is-dominated-by-social-network-thinking -> 161
+<-------------->
+https://ngs.ics.uci.edu/begaluru-trip -> 199
+<-------------->
+https://ngs.ics.uci.edu/knowledge-and-innovation-sharing-networks-kisn -> 237
+<-------------->
+https://ngs.ics.uci.edu/back-after-a-long-break -> 141
+<-------------->
+https://ngs.ics.uci.edu/computer-vision-applications -> 277
+<-------------->
+https://ngs.ics.uci.edu/clicking-on-the-real-world -> 151
+<-------------->
+https://ngs.ics.uci.edu/mobile-money-or-power-of-mobile-phones-to-transform -> 268
+<-------------->
+https://ngs.ics.uci.edu/china -> 386
+<-------------->
+https://ngs.ics.uci.edu/again-in-china -> 219
+<-------------->
+https://ngs.ics.uci.edu/acm-multimedia-2009 -> 151
+<-------------->
+https://ngs.ics.uci.edu/more-experiences-in-china -> 305
+<-------------->
+https://ngs.ics.uci.edu/workshops-at-mm09 -> 164
+<-------------->
+https://ngs.ics.uci.edu/drunken-scientists-and-unsolvable-problems -> 116
+<-------------->
+https://ngs.ics.uci.edu/multimedia-immersive-experience-in-hangzhou-a-show -> 183
+<-------------->
+https://ngs.ics.uci.edu/creating-peopleweb -> 180
+<-------------->
+https://ngs.ics.uci.edu/intellectual-property-and-universities -> 241
+<-------------->
+https://ngs.ics.uci.edu/tag/university-business-knowledge -> 81
+<-------------->
+https://ngs.ics.uci.edu/search-and-recommendation -> 184
+<-------------->
+https://ngs.ics.uci.edu/hightech-in-japan-toilets -> 208
+<-------------->
+https://ngs.ics.uci.edu/international-academic-research-perspectives -> 219
+<-------------->
+https://ngs.ics.uci.edu/text-book-on-multimedia -> 197
+<-------------->
+https://ngs.ics.uci.edu/more-timelines -> 137
+<-------------->
+https://ngs.ics.uci.edu/augmented-reality-comes-of-age -> 224
+<-------------->
+https://ngs.ics.uci.edu/smart-phones-to-become-phones -> 136
+<-------------->
+https://ngs.ics.uci.edu/event-analytics -> 214
+<-------------->
+https://ngs.ics.uci.edu/current-technical-trends-in-internet -> 148
+<-------------->
+https://ngs.ics.uci.edu/innovations-in-india -> 236
+<-------------->
+https://ngs.ics.uci.edu/cameras-and-internet -> 156
+<-------------->
+https://ngs.ics.uci.edu/geeks-like-complexity -> 207
+<-------------->
+https://ngs.ics.uci.edu/goggles-to-cyberspace -> 257
+<-------------->
+https://ngs.ics.uci.edu/events-descriptions-and-opinions -> 160
+<-------------->
+https://ngs.ics.uci.edu/need-consolidation-of-experiences-and-making-them-actionable -> 164
+<-------------->
+https://ngs.ics.uci.edu/solution-consolidation-of-experiences-and-making-them-actionable -> 173
+<-------------->
+https://ngs.ics.uci.edu/personal-analytics -> 181
+<-------------->
+https://ngs.ics.uci.edu/us-institute-of-peace -> 240
+<-------------->
+https://ngs.ics.uci.edu/timeline-mashups -> 168
+<-------------->
+https://ngs.ics.uci.edu/pragyan-2010-at-nit-trichy -> 187
+<-------------->
+https://ngs.ics.uci.edu/young-engineering-students -> 246
+<-------------->
+https://ngs.ics.uci.edu/next-generation-search-in-2010 -> 192
+<-------------->
+https://ngs.ics.uci.edu/context-in-computer-vision -> 192
+<-------------->
+https://ngs.ics.uci.edu/situation-awareness-emerging-approaches -> 214
+<-------------->
+https://ngs.ics.uci.edu/contenxt-not-content-or-context-in-computer-vision -> 219
+<-------------->
+https://ngs.ics.uci.edu/c-k-prahalad -> 531
+<-------------->
+https://ngs.ics.uci.edu/uncontrollable-memories-of-c-k-prahalad -> 200
+<-------------->
+https://ngs.ics.uci.edu/nsf-iii-workshop-good-workshop-but-will-it-change-anything -> 225
+<-------------->
+https://ngs.ics.uci.edu/what-the-web-cant-do -> 188
+<-------------->
+https://ngs.ics.uci.edu/emerging-trends-from-www2010 -> 263
+<-------------->
+https://ngs.ics.uci.edu/self-analytics-data-driven-life -> 278
+<-------------->
+https://ngs.ics.uci.edu/ck-prahalad-one-more-tribute -> 191
+<-------------->
+https://ngs.ics.uci.edu/beyond-total-capture-to-some-utilization -> 221
+<-------------->
+https://ngs.ics.uci.edu/nowledger -> 164
+<-------------->
+https://ngs.ics.uci.edu/nowledger-2 -> 165
+<-------------->
+https://ngs.ics.uci.edu/nl-3-beyond-the-current-www -> 147
+<-------------->
+https://ngs.ics.uci.edu/likes-loyalties-and-choices -> 257
+<-------------->
+https://ngs.ics.uci.edu/machine-learning-hammer -> 229
+<-------------->
+https://ngs.ics.uci.edu/tag/computer-vision-multimedia -> 74
+<-------------->
+https://ngs.ics.uci.edu/milkshake-drunk-researcher-and-problem-solving -> 266
+<-------------->
+https://ngs.ics.uci.edu/tag/search-research-compute-vision-multimedia -> 76
+<-------------->
+https://ngs.ics.uci.edu/content-without-context-is-meaningless -> 187
+<-------------->
+https://ngs.ics.uci.edu/social-pixels -> 115
+<-------------->
+https://ngs.ics.uci.edu/the-power-of-pull -> 125
+<-------------->
+https://ngs.ics.uci.edu/current-research-challenges-in-computer-vision-and-multimedia -> 227
+<-------------->
+https://ngs.ics.uci.edu/tag/computervision-multimedia -> 77
+<-------------->
+https://ngs.ics.uci.edu/lifelog-made-easy -> 244
+<-------------->
+https://ngs.ics.uci.edu/tag/mchron -> 82
+<-------------->
+https://ngs.ics.uci.edu/tag/lifelog -> 194
+<-------------->
+https://ngs.ics.uci.edu/reflecting-on-your-life -> 243
+<-------------->
+https://ngs.ics.uci.edu/meta-data-is-also-data -> 286
+<-------------->
+https://ngs.ics.uci.edu/middle-of-the-pyramid-mop-1 -> 165
+<-------------->
+https://ngs.ics.uci.edu/middle-of-the-pyramid-mop-2 -> 258
+<-------------->
+https://ngs.ics.uci.edu/photos-then-and-now -> 233
+<-------------->
+https://ngs.ics.uci.edu/photos-then-and-now-2 -> 255
+<-------------->
+https://ngs.ics.uci.edu/tag/photos -> 165
+<-------------->
+https://ngs.ics.uci.edu/tag/photos/page/2 -> 80
+<-------------->
+https://ngs.ics.uci.edu/tag/mobile-photos -> 124
+<-------------->
+https://ngs.ics.uci.edu/tag/instagram -> 119
+<-------------->
+https://ngs.ics.uci.edu/vnit-golden-jubilee -> 168
+<-------------->
+https://ngs.ics.uci.edu/photos-a-new-challenge-3 -> 152
+<-------------->
+https://ngs.ics.uci.edu/photos-4-a-disruptive-change-in-communication -> 260
+<-------------->
+https://ngs.ics.uci.edu/tag/visual-tweets -> 81
+<-------------->
+https://ngs.ics.uci.edu/visual-reflections -> 209
+<-------------->
+https://ngs.ics.uci.edu/social-life-networks-sln -> 199
+<-------------->
+https://ngs.ics.uci.edu/tag/social-life-networks -> 103
+<-------------->
+https://ngs.ics.uci.edu/tag/digital-dividend -> 80
+<-------------->
+https://ngs.ics.uci.edu/photo-taking-behaviour-past -> 268
+<-------------->
+https://ngs.ics.uci.edu/tag/sharing-photos -> 124
+<-------------->
+https://ngs.ics.uci.edu/tag/moments -> 99
+<-------------->
+https://ngs.ics.uci.edu/tag/managing-photos -> 101
+<-------------->
+https://ngs.ics.uci.edu/photo-taking-behaviour-teens-of-photography -> 264
+<-------------->
+https://ngs.ics.uci.edu/tag/mobile-phone-photos -> 145
+<-------------->
+https://ngs.ics.uci.edu/phone-as-identity -> 145
+<-------------->
+https://ngs.ics.uci.edu/photos-are-more-than-fleeting-experiences -> 167
+<-------------->
+https://ngs.ics.uci.edu/tag/photosharing -> 78
+<-------------->
+https://ngs.ics.uci.edu/developing-actionable-personal-intelligence-for-everyone -> 247
+<-------------->
+https://ngs.ics.uci.edu/tag/personal-intelligence -> 104
+<-------------->
+https://ngs.ics.uci.edu/automatic-summarization-of-personal-photo-collections-pinaki-sinhas-thesis -> 181
+<-------------->
+https://ngs.ics.uci.edu/tag/photo-sharing -> 127
+<-------------->
+https://ngs.ics.uci.edu/tag/photo-management -> 150
+<-------------->
+https://ngs.ics.uci.edu/tag/digital-cameras -> 84
+<-------------->
+https://ngs.ics.uci.edu/visr-is-in-android-marketplace -> 224
+<-------------->
+https://ngs.ics.uci.edu/tag/photography -> 82
+<-------------->
+https://ngs.ics.uci.edu/transformation-or-froth-visual-communication -> 198
+<-------------->
+https://ngs.ics.uci.edu/tag/visual-communication -> 82
+<-------------->
+https://ngs.ics.uci.edu/honored-surprised-and-started-thinking -> 173
+<-------------->
+https://ngs.ics.uci.edu/tag/wikipedia -> 73
+<-------------->
+https://ngs.ics.uci.edu/events-are-transparent -> 192
+<-------------->
+https://ngs.ics.uci.edu/tag/semantic-gap -> 94
+<-------------->
+https://ngs.ics.uci.edu/tag/multimedia -> 74
+<-------------->
+https://ngs.ics.uci.edu/tag/events -> 133
+<-------------->
+https://ngs.ics.uci.edu/managing-event-information-a-book -> 160
+<-------------->
+https://ngs.ics.uci.edu/tag/event-information-systems -> 75
+<-------------->
+https://ngs.ics.uci.edu/photos-are-about-events -> 228
+<-------------->
+https://ngs.ics.uci.edu/tag/kodak-moment -> 78
+<-------------->
+https://ngs.ics.uci.edu/contextual-circles -> 294
+<-------------->
+https://ngs.ics.uci.edu/tag/katango -> 74
+<-------------->
+https://ngs.ics.uci.edu/quantifying-semantic-gap -> 218
+<-------------->
+https://ngs.ics.uci.edu/tag/pattern-recognition -> 75
+<-------------->
+https://ngs.ics.uci.edu/visr-organizing-and-sharing-visual-experiences-of-events -> 140
+<-------------->
+https://ngs.ics.uci.edu/tag/visual-events -> 79
+<-------------->
+https://ngs.ics.uci.edu/ancient-photo-gallery-in-modern-phones -> 237
+<-------------->
+https://ngs.ics.uci.edu/tag/photo-gallery -> 81
+<-------------->
+https://ngs.ics.uci.edu/visr-silent-helper-to-organize-visual-memories-of-events -> 187
+<-------------->
+https://ngs.ics.uci.edu/tag/event-sharing -> 82
+<-------------->
+https://ngs.ics.uci.edu/micro-blogs-and-blogs -> 156
+<-------------->
+https://ngs.ics.uci.edu/status-updates-are-micro-stories -> 162
+<-------------->
+https://ngs.ics.uci.edu/tag/storytelling -> 162
+<-------------->
+https://ngs.ics.uci.edu/tag/storytelling/page/2 -> 135
+<-------------->
+https://ngs.ics.uci.edu/tag/status-updates -> 72
+<-------------->
+https://ngs.ics.uci.edu/extreme-stories-1 -> 449
+<-------------->
+https://ngs.ics.uci.edu/tag/big-data -> 171
+<-------------->
+https://ngs.ics.uci.edu/tag/big-data/page/2 -> 165
+<-------------->
+https://ngs.ics.uci.edu/tag/big-data/page/3 -> 161
+<-------------->
+https://ngs.ics.uci.edu/tag/big-data/page/4 -> 80
+<-------------->
+https://ngs.ics.uci.edu/extreme-stories2 -> 222
+<-------------->
+https://ngs.ics.uci.edu/tag/data-revolution -> 83
+<-------------->
+https://ngs.ics.uci.edu/tag/data-driven-stories -> 101
+<-------------->
+https://ngs.ics.uci.edu/extreme-stories-3 -> 180
+<-------------->
+https://ngs.ics.uci.edu/tag/experiential-data -> 76
+<-------------->
+https://ngs.ics.uci.edu/extreme-stories-4 -> 152
+<-------------->
+https://ngs.ics.uci.edu/extreme-stories-5 -> 216
+<-------------->
+https://ngs.ics.uci.edu/tag/narratives -> 78
+<-------------->
+https://ngs.ics.uci.edu/tag/computational-storytelling -> 99
+<-------------->
+https://ngs.ics.uci.edu/extreme-stories-6 -> 227
+<-------------->
+https://ngs.ics.uci.edu/tag/multiple-media -> 79
+<-------------->
+https://ngs.ics.uci.edu/extreme-stories-7 -> 292
+<-------------->
+https://ngs.ics.uci.edu/tag/orality -> 82
+<-------------->
+https://ngs.ics.uci.edu/tag/navigation -> 108
+<-------------->
+https://ngs.ics.uci.edu/extreme-stories-8 -> 205
+<-------------->
+https://ngs.ics.uci.edu/tag/stories-from-big-data -> 74
+<-------------->
+https://ngs.ics.uci.edu/extreme-stories-9 -> 287
+<-------------->
+https://ngs.ics.uci.edu/tag/virtual-reality -> 76
+<-------------->
+https://ngs.ics.uci.edu/extreme-stories-10 -> 270
+<-------------->
+https://ngs.ics.uci.edu/tag/reporting -> 104
+<-------------->
+https://ngs.ics.uci.edu/extreme-stories-11 -> 163
+<-------------->
+https://ngs.ics.uci.edu/tag/mega-story -> 75
+<-------------->
+https://ngs.ics.uci.edu/extreme-stories-12 -> 324
+<-------------->
+https://ngs.ics.uci.edu/tag/summarization -> 77
+<-------------->
+https://ngs.ics.uci.edu/extreme-stories13 -> 243
+<-------------->
+https://ngs.ics.uci.edu/tag/visualization -> 99
+<-------------->
+https://ngs.ics.uci.edu/tag/mega-storiy -> 81
+<-------------->
+https://ngs.ics.uci.edu/next-instagram -> 225
+<-------------->
+https://ngs.ics.uci.edu/tag/mobile -> 74
+<-------------->
+https://ngs.ics.uci.edu/category/personal -> 159
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/2 -> 144
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/3 -> 151
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/4 -> 159
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/5 -> 153
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/6 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/7 -> 162
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/8 -> 159
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/9 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/10 -> 150
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/11 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/12 -> 147
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/13 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/14 -> 147
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/15 -> 159
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/16 -> 152
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/17 -> 150
+<-------------->
+https://ngs.ics.uci.edu/category/personal/page/18 -> 81
+<-------------->
+https://ngs.ics.uci.edu/lifelesson-1-get-bad-news-as-soon-as-possible -> 218
+<-------------->
+https://ngs.ics.uci.edu/tag/life-lessons -> 77
+<-------------->
+https://ngs.ics.uci.edu/lifelesson-2-should-should-come-before-could -> 203
+<-------------->
+https://ngs.ics.uci.edu/tag/should -> 80
+<-------------->
+https://ngs.ics.uci.edu/thinking-within-the-box-putting-could-before-should -> 124
+<-------------->
+https://ngs.ics.uci.edu/experiential-analysis -> 207
+<-------------->
+https://ngs.ics.uci.edu/tag/experioential-computing -> 80
+<-------------->
+https://ngs.ics.uci.edu/emerging-art-of-storytelling -> 131
+<-------------->
+https://ngs.ics.uci.edu/social-systems-and-big-data -> 227
+<-------------->
+https://ngs.ics.uci.edu/tag/social-computing -> 98
+<-------------->
+https://ngs.ics.uci.edu/tag/feedback -> 76
+<-------------->
+https://ngs.ics.uci.edu/objective-self -> 154
+<-------------->
+https://ngs.ics.uci.edu/tag/subjective -> 73
+<-------------->
+https://ngs.ics.uci.edu/tag/quantified-self -> 172
+<-------------->
+https://ngs.ics.uci.edu/tag/quantified-self/page/2 -> 116
+<-------------->
+https://ngs.ics.uci.edu/rip-my-four-legged-son -> 215
+<-------------->
+https://ngs.ics.uci.edu/creating-persona-using-data-streams -> 311
+<-------------->
+https://ngs.ics.uci.edu/tag/persona -> 106
+<-------------->
+https://ngs.ics.uci.edu/creating-health-persona -> 239
+<-------------->
+https://ngs.ics.uci.edu/tag/quantified-health -> 83
+<-------------->
+http://ngs.ics.uci.edu/blog/?attachment_id=1479 -> 211
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism -> 171
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/2 -> 172
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/3 -> 162
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/4 -> 170
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/5 -> 162
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/6 -> 172
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/7 -> 165
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/8 -> 161
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/9 -> 166
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/10 -> 162
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/11 -> 169
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/12 -> 162
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/13 -> 167
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/14 -> 168
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/15 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/16 -> 166
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/17 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/18 -> 161
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/19 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/20 -> 165
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/21 -> 163
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/22 -> 166
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/23 -> 162
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/24 -> 170
+<-------------->
+https://ngs.ics.uci.edu/category/entrepreneurism/page/25 -> 99
+<-------------->
+https://ngs.ics.uci.edu/focused-microblogs-fmbs-going-beyond-twitter -> 226
+<-------------->
+https://ngs.ics.uci.edu/tag/twitter -> 83
+<-------------->
+https://ngs.ics.uci.edu/building-on-the-disruption-in-learning-and-education -> 224
+<-------------->
+https://ngs.ics.uci.edu/tag/learning -> 78
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information -> 153
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information/page/2 -> 174
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information/page/3 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information/page/4 -> 149
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information/page/5 -> 158
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information/page/6 -> 159
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information/page/7 -> 158
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information/page/8 -> 156
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information/page/9 -> 172
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information/page/10 -> 172
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information/page/11 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information/page/12 -> 149
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information/page/13 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information/page/14 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/prospecting-information/page/15 -> 109
+<-------------->
+https://ngs.ics.uci.edu/corelation-is-the-mother-of-causality -> 143
+<-------------->
+https://ngs.ics.uci.edu/tag/correlation -> 72
+<-------------->
+https://ngs.ics.uci.edu/using-big-data-for-storytelling -> 164
+<-------------->
+https://ngs.ics.uci.edu/physical-social-cyber-computing-systems -> 255
+<-------------->
+https://ngs.ics.uci.edu/tag/representations -> 78
+<-------------->
+https://ngs.ics.uci.edu/from-calendars-to-chronicles-1 -> 259
+<-------------->
+https://ngs.ics.uci.edu/tag/prediction-machines -> 79
+<-------------->
+https://ngs.ics.uci.edu/tag/chronicle -> 156
+<-------------->
+https://ngs.ics.uci.edu/from-calendars-to-chronicles-2 -> 264
+<-------------->
+https://ngs.ics.uci.edu/from-calendars-to-chronicles-3 -> 272
+<-------------->
+https://ngs.ics.uci.edu/tag/journalism -> 81
+<-------------->
+https://ngs.ics.uci.edu/calendars-to-chronicles-4 -> 243
+<-------------->
+https://ngs.ics.uci.edu/tag/knowledge -> 78
+<-------------->
+https://ngs.ics.uci.edu/from-calendars-to-chronicles-5 -> 267
+<-------------->
+https://ngs.ics.uci.edu/tag/surveillance-video -> 79
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing -> 154
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/2 -> 149
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/3 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/4 -> 149
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/5 -> 163
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/6 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/7 -> 175
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/8 -> 174
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/9 -> 176
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/10 -> 174
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/11 -> 147
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/12 -> 161
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/13 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/14 -> 158
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/15 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/16 -> 167
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/17 -> 156
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/18 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/19 -> 162
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/20 -> 169
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/21 -> 162
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/22 -> 154
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/23 -> 165
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/24 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/25 -> 175
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/26 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/27 -> 168
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/28 -> 172
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/29 -> 170
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/30 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/31 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/32 -> 161
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/33 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/34 -> 182
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/35 -> 161
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/36 -> 157
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/37 -> 172
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/38 -> 178
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/39 -> 166
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/40 -> 169
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/41 -> 180
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/42 -> 172
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/43 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/44 -> 156
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/45 -> 145
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/46 -> 141
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/47 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/48 -> 157
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/49 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/50 -> 162
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/51 -> 142
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/52 -> 158
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/53 -> 173
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/54 -> 154
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/55 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/56 -> 161
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/57 -> 165
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/58 -> 167
+<-------------->
+https://ngs.ics.uci.edu/category/experiential-computing/page/59 -> 110
+<-------------->
+https://ngs.ics.uci.edu/calendars-to-chronicles-6 -> 268
+<-------------->
+https://ngs.ics.uci.edu/tag/olap -> 77
+<-------------->
+https://ngs.ics.uci.edu/objective-reality-1 -> 222
+<-------------->
+https://ngs.ics.uci.edu/tag/lifelogs -> 97
+<-------------->
+https://ngs.ics.uci.edu/objective-self-2-garbage-data-results-in-garbage-models -> 261
+<-------------->
+https://ngs.ics.uci.edu/objective-self-3-quantified-self-is-a-step-towards-objective-self -> 297
+<-------------->
+https://ngs.ics.uci.edu/tag/scientism -> 91
+<-------------->
+https://ngs.ics.uci.edu/objective-self-4-you-are-the-most-important -> 268
+<-------------->
+https://ngs.ics.uci.edu/tag/personal-data -> 76
+<-------------->
+https://ngs.ics.uci.edu/objective-self-6-from-an-individual-to-society -> 181
+<-------------->
+https://ngs.ics.uci.edu/back-to-cyber-1 -> 255
+<-------------->
+https://ngs.ics.uci.edu/tag/cybernetics -> 138
+<-------------->
+https://ngs.ics.uci.edu/tag/cyber -> 117
+<-------------->
+https://ngs.ics.uci.edu/back-to-cyber-2-computational-cybernetics -> 402
+<-------------->
+https://ngs.ics.uci.edu/tag/social-systems -> 81
+<-------------->
+https://ngs.ics.uci.edu/back-to-cyber-3-now-and-future -> 197
+<-------------->
+https://ngs.ics.uci.edu/towards-weaving-the-visual-web -> 598
+<-------------->
+https://ngs.ics.uci.edu/photo-album-2015-breaking-the-boundaries -> 395
+<-------------->
+https://ngs.ics.uci.edu/tag/visual-web -> 110
+<-------------->
+https://ngs.ics.uci.edu/tag/albums -> 84
+<-------------->
+https://ngs.ics.uci.edu/semantic-link-in-photos -> 411
+<-------------->
+https://ngs.ics.uci.edu/tag/semantic-links -> 83
+<-------------->
+https://ngs.ics.uci.edu/ai-contextual-reasoning-learning -> 444
+<-------------->
+https://ngs.ics.uci.edu/tag/deep-learning -> 83
+<-------------->
+https://ngs.ics.uci.edu/tag/contextual-reasoning -> 100
+<-------------->
+https://ngs.ics.uci.edu/healthy-foodie -> 173
+<-------------->
+https://ngs.ics.uci.edu/tag/health -> 115
+<-------------->
+https://ngs.ics.uci.edu/tag/foodtech -> 79
+<-------------->
+https://ngs.ics.uci.edu/i-htm -> 460
+<-------------->
+https://ngs.ics.uci.edu/tag/situation-recognition -> 73
+<-------------->
+https://ngs.ics.uci.edu/health-intelligence -> 361
+<-------------->
+https://ngs.ics.uci.edu/tag/wellness -> 102
+<-------------->
+https://ngs.ics.uci.edu/tag/lifestyle -> 82
+<-------------->
+https://ngs.ics.uci.edu/tag/health-state -> 95
+<-------------->
+https://ngs.ics.uci.edu/techology-propels-health -> 401
+<-------------->
+https://ngs.ics.uci.edu/tag/precision-health -> 78
+<-------------->
+https://ngs.ics.uci.edu/tag/personal-health -> 100
+<-------------->
+https://ngs.ics.uci.edu/tag/digital-health -> 92
+<-------------->
+https://ngs.ics.uci.edu/controlling-health -> 375
+<-------------->
+https://ngs.ics.uci.edu/tag/personal-model -> 93
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts -> 150
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/2 -> 181
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/3 -> 166
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/4 -> 174
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/5 -> 156
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/6 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/7 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/8 -> 163
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/9 -> 154
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/10 -> 150
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/11 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/12 -> 174
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/13 -> 151
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/14 -> 166
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/15 -> 159
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/16 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/17 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/18 -> 150
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/19 -> 168
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/20 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/21 -> 158
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/22 -> 171
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/23 -> 151
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/24 -> 154
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/25 -> 151
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/26 -> 150
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/27 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/28 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/29 -> 161
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/30 -> 162
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/31 -> 166
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/32 -> 165
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/33 -> 176
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/34 -> 167
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/35 -> 178
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/36 -> 166
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/37 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/38 -> 163
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/39 -> 168
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/40 -> 148
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/41 -> 175
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/42 -> 163
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/43 -> 176
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/44 -> 171
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/45 -> 170
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/46 -> 144
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/47 -> 167
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/48 -> 163
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/49 -> 163
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/50 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/51 -> 153
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/52 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/53 -> 167
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/54 -> 161
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/55 -> 157
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/56 -> 152
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/57 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/58 -> 167
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/59 -> 145
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/60 -> 140
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/61 -> 165
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/62 -> 161
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/63 -> 154
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/64 -> 162
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/65 -> 157
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/66 -> 151
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/67 -> 151
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/68 -> 171
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/69 -> 158
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/70 -> 149
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/71 -> 163
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/72 -> 161
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/73 -> 169
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/74 -> 179
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/75 -> 184
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/76 -> 166
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/77 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/78 -> 148
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/79 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/80 -> 152
+<-------------->
+https://ngs.ics.uci.edu/category/technical-thoughts/page/81 -> 121
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates -> 167
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/2 -> 170
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/3 -> 172
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/4 -> 162
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/5 -> 150
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/6 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/7 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/8 -> 158
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/9 -> 161
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/10 -> 149
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/11 -> 157
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/12 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/13 -> 161
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/14 -> 176
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/15 -> 158
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/16 -> 171
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/17 -> 172
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/18 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/19 -> 165
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/20 -> 171
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/21 -> 156
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/22 -> 163
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/23 -> 170
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/24 -> 176
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/25 -> 152
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/26 -> 153
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/27 -> 159
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/28 -> 158
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/29 -> 159
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/30 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/31 -> 175
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/32 -> 172
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/33 -> 176
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/34 -> 188
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/35 -> 176
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/36 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/37 -> 149
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/38 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/39 -> 165
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/40 -> 165
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/41 -> 174
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/42 -> 165
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/43 -> 172
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/44 -> 144
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/45 -> 163
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/46 -> 158
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/47 -> 162
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/48 -> 167
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/49 -> 169
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/50 -> 166
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/51 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/52 -> 158
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/53 -> 154
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/54 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/55 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/56 -> 176
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/57 -> 176
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/58 -> 159
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/59 -> 158
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/60 -> 158
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/61 -> 143
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/62 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/63 -> 156
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/64 -> 153
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/65 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/66 -> 165
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/67 -> 159
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/68 -> 160
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/69 -> 174
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/70 -> 163
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/71 -> 149
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/72 -> 166
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/73 -> 152
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/74 -> 155
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/75 -> 174
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/76 -> 157
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/77 -> 172
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/78 -> 164
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/79 -> 145
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/80 -> 156
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/81 -> 158
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/82 -> 146
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/83 -> 166
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/84 -> 150
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/85 -> 168
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/86 -> 148
+<-------------->
+https://ngs.ics.uci.edu/category/general-updates/page/87 -> 173
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh -> 150
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/2 -> 184
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/3 -> 164
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/4 -> 165
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/5 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/6 -> 163
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/7 -> 166
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/8 -> 153
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/9 -> 153
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/10 -> 151
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/11 -> 154
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/12 -> 167
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/13 -> 153
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/14 -> 172
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/15 -> 167
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/16 -> 155
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/17 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/18 -> 164
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/19 -> 166
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/20 -> 160
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/21 -> 153
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/22 -> 154
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/23 -> 174
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/24 -> 162
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/25 -> 173
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/26 -> 171
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/27 -> 146
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/28 -> 166
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/29 -> 166
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/30 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/31 -> 144
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/32 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/33 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/34 -> 158
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/35 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/36 -> 157
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/37 -> 156
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/38 -> 157
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/39 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/40 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/41 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/42 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/43 -> 178
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/44 -> 146
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/45 -> 165
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/46 -> 154
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/47 -> 157
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/48 -> 146
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/49 -> 163
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/50 -> 169
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/51 -> 181
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/52 -> 170
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/53 -> 149
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/54 -> 157
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/55 -> 155
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/56 -> 175
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/57 -> 164
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/58 -> 171
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/59 -> 166
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/60 -> 164
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/61 -> 162
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/62 -> 172
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/63 -> 149
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/64 -> 164
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/65 -> 143
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/66 -> 170
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/67 -> 168
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/68 -> 170
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/69 -> 149
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/70 -> 157
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/71 -> 158
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/72 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/73 -> 154
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/74 -> 162
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/75 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/76 -> 171
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/77 -> 171
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/78 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/79 -> 158
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/80 -> 152
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/81 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/82 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/83 -> 172
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/84 -> 162
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/85 -> 165
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/86 -> 167
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/87 -> 149
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/88 -> 158
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/89 -> 165
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/90 -> 171
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/91 -> 149
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/92 -> 155
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/93 -> 166
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/94 -> 162
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/95 -> 165
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/96 -> 162
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/97 -> 165
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/98 -> 177
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/99 -> 164
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/100 -> 182
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/101 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/102 -> 175
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/103 -> 174
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/104 -> 166
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/105 -> 175
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/106 -> 162
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/107 -> 169
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/108 -> 190
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/109 -> 158
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/110 -> 166
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/111 -> 179
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/112 -> 173
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/113 -> 164
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/114 -> 148
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/115 -> 180
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/116 -> 176
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/117 -> 173
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/118 -> 155
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/119 -> 166
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/120 -> 168
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/121 -> 181
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/122 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/123 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/124 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/125 -> 176
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/126 -> 152
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/127 -> 141
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/128 -> 177
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/129 -> 164
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/130 -> 166
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/131 -> 172
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/132 -> 172
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/133 -> 163
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/134 -> 160
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/135 -> 160
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/136 -> 178
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/137 -> 175
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/138 -> 157
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/139 -> 180
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/140 -> 166
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/141 -> 169
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/142 -> 160
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/143 -> 156
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/144 -> 170
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/145 -> 177
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/146 -> 142
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/147 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/148 -> 167
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/149 -> 164
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/150 -> 154
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/151 -> 157
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/152 -> 160
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/153 -> 169
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/154 -> 143
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/155 -> 153
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/156 -> 165
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/157 -> 146
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/158 -> 163
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/159 -> 144
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/160 -> 165
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/161 -> 172
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/162 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/163 -> 165
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/164 -> 156
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/165 -> 164
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/166 -> 149
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/167 -> 156
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/168 -> 163
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/169 -> 153
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/170 -> 157
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/171 -> 154
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/172 -> 149
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/173 -> 176
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/174 -> 158
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/175 -> 149
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/176 -> 155
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/177 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/178 -> 172
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/179 -> 165
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/180 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/181 -> 156
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/182 -> 151
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/183 -> 173
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/184 -> 163
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/185 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/186 -> 151
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/187 -> 151
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/188 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/189 -> 167
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/190 -> 167
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/191 -> 168
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/192 -> 153
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/193 -> 155
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/194 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/195 -> 152
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/196 -> 166
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/197 -> 172
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/198 -> 158
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/199 -> 173
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/200 -> 165
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/201 -> 150
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/202 -> 162
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/203 -> 160
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/204 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/205 -> 134
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/206 -> 151
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/207 -> 154
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/208 -> 165
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/209 -> 181
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/210 -> 169
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/211 -> 167
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/212 -> 182
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/213 -> 169
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/214 -> 183
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/215 -> 161
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/216 -> 168
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/217 -> 172
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/218 -> 168
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/219 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/220 -> 157
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/221 -> 160
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/222 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/223 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/224 -> 156
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/225 -> 156
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/226 -> 153
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/227 -> 156
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/228 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/229 -> 155
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/230 -> 165
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/231 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/232 -> 160
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/233 -> 174
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/234 -> 271
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/235 -> 162
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/236 -> 150
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/237 -> 160
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/238 -> 157
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/239 -> 160
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/240 -> 166
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/241 -> 157
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/242 -> 171
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/243 -> 163
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/244 -> 148
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/245 -> 156
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/246 -> 157
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/247 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/248 -> 153
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/249 -> 163
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/250 -> 154
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/251 -> 159
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/252 -> 160
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/253 -> 163
+<-------------->
+https://ngs.ics.uci.edu/author/ramesh/page/254 -> 109
+<-------------->
+https://ngs.ics.uci.edu/empowering-personal-health -> 691
+<-------------->
+https://ngs.ics.uci.edu/tag/healthcare -> 79
+<-------------->
+https://ngs.ics.uci.edu/about-ramesh/events -> 198
+<-------------->
+https://ngs.ics.uci.edu/about-ramesh/news -> 165
+<-------------->
+http://www.ics.uci.edu/~pfbaldi -> 172
+<-------------->
+https://cml.ics.uci.edu/home/contact-us -> 215
+<-------------->
+https://cml.ics.uci.edu/category/news -> 449
+<-------------->
+https://cml.ics.uci.edu/category/news/page/2 -> 462
+<-------------->
+https://cml.ics.uci.edu/category/news/page/3 -> 578
+<-------------->
+https://cml.ics.uci.edu/category/news/page/4 -> 325
+<-------------->
+https://cml.ics.uci.edu/category/news/page/5 -> 362
+<-------------->
+https://cml.ics.uci.edu/category/news/page/6 -> 371
+<-------------->
+https://cml.ics.uci.edu/category/news/page/7 -> 379
+<-------------->
+https://cml.ics.uci.edu/category/news/page/8 -> 350
+<-------------->
+https://cml.ics.uci.edu/category/news/page/9 -> 222
+<-------------->
+https://cml.ics.uci.edu/category/news/page/10 -> 66
+<-------------->
+https://cml.ics.uci.edu/home/about-us -> 163
+<-------------->
+http://cml.ics.uci.edu -> 141
+<-------------->
+http://cml.ics.uci.edu/?cat=4 -> 449
+<-------------->
+https://www.cs.uci.edu/irvine-newport-beach-rated-among-top-cybersecurity-hubs-in-u-s -> 284
+<-------------->
+https://www.cs.uci.edu/franz-to-discuss-cyber-attacks-and-defense-at-march-8-oc-acm-chapter-meeting -> 186
+<-------------->
+https://www.cs.uci.edu/uci-launches-new-masters-program-in-cyber-physical-systems -> 265
+<-------------->
+https://www.cs.uci.edu/2017-ics-deans-award-winners -> 206
+<-------------->
+https://www.cs.uci.edu/computational-linguistics-olympiad-helps-uci-reach-high-school-students -> 215
+<-------------->
+https://www.cs.uci.edu/tsudiks-biometrics-security-research-paper-featured-in-february-issue-of-cacm -> 233
+<-------------->
+https://www.cs.uci.edu/oc-register-ics-alumnus-professional-poker-player-jason-les-competing-against-a-bot-for-200k -> 132
+<-------------->
+https://www.cs.uci.edu/master-in-computer-science-program-ranks-36th-national-by-tfe-times -> 165
+<-------------->
+https://www.cs.uci.edu/cardiovascular-business-nih-provides-researchers-8-6-million-to-map-hearts-anatomy-fowlkes-mentioned -> 176
+<-------------->
+https://www.cs.uci.edu/two-ics-ph-d-students-receive-2017-uci-public-impact-fellowships -> 275
+<-------------->
+https://www.cs.uci.edu/cylance-commits-50k-to-ucis-center-for-machine-learning-and-intelligent-systems-to-support-seminar-series-ph-d-recruitment -> 179
+<-------------->
+https://www.cs.uci.edu/uci-ranked-7th-best-university-for-coding-in-u-s-by-hackerrank -> 154
+<-------------->
+https://www.cs.uci.edu/uci-team-places-first-in-regional-acm-competition-advances-to-international-finals-in-may -> 214
+<-------------->
+https://www.cs.uci.edu/tech-times-waging-war-with-no-bombs-or-missiles-tsudik-quoted -> 153
+<-------------->
+https://www.cs.uci.edu/san-diego-union-tribune-waging-war-with-no-bombs-or-missiles-cunningham-quoted -> 165
+<-------------->
+https://www.cs.uci.edu/times-higher-education-ranks-computer-science-38th-in-world-15th-in-u-s -> 148
+<-------------->
+https://www.cs.uci.edu/tsudik-receives-407000-army-research-office-grant -> 170
+<-------------->
+https://www.cs.uci.edu/jain-publishes-book-with-former-student-about-situation-recognition-using-eventshop -> 182
+<-------------->
+https://www.cs.uci.edu/eppstein-awarded-two-nsf-grants-for-algorithm-research -> 187
+<-------------->
+https://www.cs.uci.edu/swarajya-tomorrows-reform-why-the-government-needs-a-tech-mindset-to-change-jordan-mentioned -> 164
+<-------------->
+https://www.cs.uci.edu/asterixdb-becomes-official-apache-software-foundation-project -> 225
+<-------------->
+https://www.cs.uci.edu/fowlkes-awarded-377k-nsf-grant-for-geometric-imaging-research -> 164
+<-------------->
+https://www.cs.uci.edu/ph-d-student-tehrani-awarded-link-foundation-fellowship -> 206
+<-------------->
+https://www.cs.uci.edu/update-franz-dourish-formally-recognized-as-acm-fellows -> 169
+<-------------->
+https://www.cs.uci.edu/jain-receives-2016-ieee-multimedia-best-department-article-award -> 201
+<-------------->
+https://www.cs.uci.edu/uci-ranks-among-top-20-on-semantic-scholar-insights-list -> 204
+<-------------->
+https://www.cs.uci.edu/tsudik-receives-300000-award-from-department-of-homeland-security -> 196
+<-------------->
+https://www.cs.uci.edu/circuit-cellar-the-future-of-iot-security-by-ian-harris -> 183
+<-------------->
+https://www.cs.uci.edu/xu-tackles-software-bloat-for-office-of-naval-research -> 244
+<-------------->
+https://www.cs.uci.edu/harris-organizing-design-automation-workshop-in-germany -> 227
+<-------------->
+https://www.cs.uci.edu/uci-news-private-practices-mehrotra-quoted -> 129
+<-------------->
+http://www.ics.uci.edu/~sbaidya -> 278
+<-------------->
+https://www.cs.uci.edu/event/2016-research-showcase -> 153
+<-------------->
+https://www.cs.uci.edu/event/franz-kaashoek -> 134
+<-------------->
+https://www.cs.uci.edu/events/category/lectures -> 116
+<-------------->
+https://www.cs.uci.edu/events/category/lectures/list/?tribe_event_display=past&tribe_paged=1 -> 167
+<-------------->
+https://www.cs.uci.edu/event/tom-anderson-2 -> 250
+<-------------->
+https://www.cs.uci.edu/events/category/seminar -> 138
+<-------------->
+https://www.cs.uci.edu/events/category/seminar/list/?tribe_event_display=past&tribe_paged=1 -> 189
+<-------------->
+https://www.cs.uci.edu/event/elizabeth-belding -> 148
+<-------------->
+https://www.cs.uci.edu/events/category/seminar/list/?tribe_event_display=past&tribe_paged=2 -> 159
+<-------------->
+https://www.cs.uci.edu/event/vivek-tiwari -> 329
+<-------------->
+https://www.cs.uci.edu/event/trevor-mudge-2 -> 277
+<-------------->
+https://www.cs.uci.edu/event/jeannette-m-wing -> 322
+<-------------->
+https://www.cs.uci.edu/event/manuel-blum -> 285
+<-------------->
+https://www.cs.uci.edu/event/renee-j-miller -> 265
+<-------------->
+https://www.cs.uci.edu/events/category/lectures/list/?tribe_event_display=past&tribe_paged=2 -> 175
+<-------------->
+https://www.cs.uci.edu/event/vint-cerf -> 294
+<-------------->
+https://www.cs.uci.edu/event/hector-garcia-molina -> 241
+<-------------->
+https://www.cs.uci.edu/event/patrick-mcdaniel -> 262
+<-------------->
+https://www.cs.uci.edu/events/category/lectures/list/?tribe_event_display=past&tribe_paged=3 -> 171
+<-------------->
+https://www.cs.uci.edu/event/vijay-v-vazirani -> 135
+<-------------->
+https://www.cs.uci.edu/events/category/lectures/list/?tribe_event_display=past&tribe_paged=4 -> 168
+<-------------->
+https://www.cs.uci.edu/event/c-mohan-2 -> 127
+<-------------->
+https://www.cs.uci.edu/events/category/lectures/list/?tribe_event_display=past&tribe_paged=5 -> 163
+<-------------->
+https://www.cs.uci.edu/event/wen-mei-w-hwu -> 303
+<-------------->
+https://www.cs.uci.edu/events -> 95
+<-------------->
+https://www.cs.uci.edu/events/list/?tribe_event_display=past&tribe_paged=1 -> 159
+<-------------->
+https://www.cs.uci.edu/events/list/?tribe_event_display=past&tribe_paged=2 -> 158
+<-------------->
+https://www.cs.uci.edu/events/list/?tribe_event_display=past&tribe_paged=3 -> 164
+<-------------->
+https://www.cs.uci.edu/events/list/?tribe_event_display=past&tribe_paged=4 -> 187
+<-------------->
+https://www.cs.uci.edu/events/list/?tribe_event_display=past&tribe_paged=5 -> 156
+<-------------->
+https://www.cs.uci.edu/events/list/?tribe_event_display=past&tribe_paged=6 -> 158
+<-------------->
+http://www.ics.uci.edu/community/news/view_news?id=1117 -> 352
+<-------------->
+http://www.ics.uci.edu/~ihler -> 251
+<-------------->
+http://graphmod.ics.uci.edu -> 333
+<-------------->
+http://www.ics.uci.edu/~guoqingx -> 138
+<-------------->
+http://www.ics.uci.edu/community/news/view_news?id=1242 -> 378
+<-------------->
+http://www.ics.uci.edu/community/news/view_news?id=1230 -> 457
+<-------------->
+http://www.ics.uci.edu/community/news/view_news?id=1237 -> 347
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1221 -> 272
+<-------------->
+https://www.ics.uci.edu/community/news/view_news.php?id=1220 -> 287
+<-------------->
+http://www.cs.uci.edu/professional-master-of-computer-science -> 159
+<-------------->
+https://mcs.ics.uci.edu/info-sessions -> 75
+<-------------->
+https://mcs.ics.uci.edu/advisory-board -> 82
+<-------------->
+https://mcs.ics.uci.edu/contact-us/faculty -> 134
+<-------------->
+https://www.ics.uci.edu/faculty/index.php?letter=R -> 236
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=djr -> 191
+<-------------->
+http://www.ics.uci.edu/~djr -> 0
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=aregan -> 188
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dfredmil -> 200
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mcreddy -> 156
+<-------------->
+https://www.ics.uci.edu/faculty/index.php -> 921
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=hziv -> 174
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=zhaoxia -> 195
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=yamingy -> 205
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=xhx -> 181
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=jwongma -> 182
+<-------------->
+http://www.ics.uci.edu/~jwongma -> 0
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=nalini -> 194
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=aveidenb -> 181
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=vazirani -> 158
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=andre -> 198
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=wmt -> 190
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=taylor -> 197
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=ttanen -> 185
+<-------------->
+https://Transformativeplay.ics.uci.edu -> 17
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=sudderth -> 175
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=sternh -> 192
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=pjsmyth -> 205
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=weinings -> 193
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=babaks -> 206
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=isaac -> 195
+<-------------->
+http://www.ics.uci.edu/~isaac -> 100
+<-------------->
+http://www.ics.uci.edu/%7Eschark -> 138
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=ksalen -> 159
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=ampiper -> 201
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=kpeppler -> 172
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=marios -> 178
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=ipanagea -> 174
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=golson -> 192
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=jsolson -> 184
+<-------------->
+http://www.ics.uci.edu/~jsolson -> 178
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=anicolau -> 189
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=nawabf -> 178
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=emilyo -> 152
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=nardi -> 193
+<-------------->
+http://www.ics.uci.edu/~nardi -> 664
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=emj -> 196
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=smehrotr -> 196
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gopi -> 180
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mmazmani -> 196
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gmark -> 191
+<-------------->
+http://www.ics.uci.edu/~gmark -> 0
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=malek -> 164
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=majumder -> 192
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=lueker -> 176
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=lopes -> 187
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=levorato -> 197
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=rickl -> 206
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=algol -> 153
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=kobsa -> 194
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dfkibler -> 185
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=kay -> 177
+<-------------->
+http://www.ics.uci.edu/~kay -> 168
+<-------------->
+http://www.ics.uci.edu/~kay/labtutors -> 422
+<-------------->
+http://www.ics.uci.edu/~kay/teachingics.html -> 197
+<-------------->
+http://www.ics.uci.edu/~kay/ask.html -> 384
+<-------------->
+http://www.ics.uci.edu/~kay/checker.html -> 290
+<-------------->
+http://www.ics.uci.edu/~kay/turnitin.html -> 348
+<-------------->
+http://www.ics.uci.edu/~kay/taguide.html -> 1124
+<-------------->
+http://www.ics.uci.edu/ugrad/policies/index.php?policy=cheating -> 173
+<-------------->
+http://www.ics.uci.edu/~kay/labtutor.html -> 507
+<-------------->
+http://www.ics.uci.edu/~kay/college-advice -> 569
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=kkask -> 149
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=swjun -> 178
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=sjordan -> 173
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=jajones -> 183
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=wjohnson -> 183
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=sjarecki -> 187
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mizukoi -> 202
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=ssirani -> 182
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mohseni -> 150
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=aihler -> 186
+<-------------->
+https://www.ics.uci.edu/~mustafai -> 35
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dhirschb -> 179
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=hayesg -> 191
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=whayes -> 195
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=iharris -> 187
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=goodrich -> 191
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=givargis -> 182
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dgillen -> 189
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=igassko -> 148
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=franz -> 196
+<-------------->
+http://www.ics.uci.edu/~franz -> 1500
+<-------------->
+http://www.ics.uci.edu/~dean/aboutirvine.html -> 109
+<-------------->
+http://www.ics.uci.edu/~ucounsel -> 2
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=fowlkes -> 191
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=jfeldman -> 159
+<-------------->
+http://www.ics.uci.edu/~feldman -> 49
+<-------------->
+http://www.ics.uci.edu/~feldman/ICS131.htm -> 29
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC19.htm -> 140
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC18.htm -> 273
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC17.htm -> 176
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC16.htm -> 240
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC15.htm -> 253
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC14.htm -> 429
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC12.htm -> 371
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC11.htm -> 342
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC10.htm -> 320
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC09.V3.htm -> 205
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC08.htm -> 321
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC07.htm -> 278
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC06.htm -> 206
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC05.htm -> 143
+<-------------->
+http://www.ics.uci.edu/~feldman/LEC04.doc2.htm -> 320
+<-------------->
+http://www.ics.uci.edu/~feldman/131PROJV2.htm -> 237
+<-------------->
+http://www.ics.uci.edu/~feldman/schedread.htm -> 110
+<-------------->
+http://www.ics.uci.edu/~feldman/131SYLLW20.htm -> 455
+<-------------->
+http://www.ics.uci.edu/~feldman/ICS131F00.html -> 30
+<-------------->
+http://www.ics.uci.edu/~feldman/lec19F00.html -> 375
+<-------------->
+http://www.ics.uci.edu/~feldman/lec18F00.html -> 233
+<-------------->
+http://www.ics.uci.edu/~feldman/lec17F00.html -> 226
+<-------------->
+http://www.ics.uci.edu/~feldman/lec16F00.html -> 769
+<-------------->
+http://www.ics.uci.edu/~feldman/lec15F00.html -> 373
+<-------------->
+http://www.ics.uci.edu/~feldman/lec14F00.html -> 304
+<-------------->
+http://www.ics.uci.edu/~feldman/lec13F00.html -> 182
+<-------------->
+http://www.ics.uci.edu/~feldman/lec12F00.html -> 349
+<-------------->
+http://www.ics.uci.edu/~feldman/lec11F00.html -> 123
+<-------------->
+http://www.ics.uci.edu/~feldman/lec10F00.html -> 138
+<-------------->
+http://www.ics.uci.edu/~feldman/lec9F00.html -> 276
+<-------------->
+http://www.ics.uci.edu/~feldman/lec8F00.html -> 463
+<-------------->
+http://www.ics.uci.edu/~feldman/lec7F00.html -> 342
+<-------------->
+http://www.ics.uci.edu/~feldman/lec6F00.html -> 453
+<-------------->
+http://www.ics.uci.edu/~feldman/lec5F00.html -> 299
+<-------------->
+http://www.ics.uci.edu/~feldman/lec4F00.html -> 355
+<-------------->
+http://www.ics.uci.edu/~feldman/lec3F00.html -> 327
+<-------------->
+http://www.ics.uci.edu/~feldman/lec2F00.html -> 385
+<-------------->
+http://www.ics.uci.edu/~feldman/projectsF00.html -> 138
+<-------------->
+http://www.ics.uci.edu/~feldman/scheduleF00.html -> 61
+<-------------->
+http://www.ics.uci.edu/~feldman/131F00.html -> 458
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=epstein -> 177
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=eppstein -> 190
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=elzarki -> 210
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dutt -> 192
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=jpd -> 184
+<-------------->
+http://www.ics.uci.edu/~jpd -> 5
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mdogucu -> 167
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mbdillen -> 191
+<-------------->
+http://plrg.ics.uci.edu -> 257
+<-------------->
+http://plrg.ics.uci.edu/vigilia -> 193
+<-------------->
+http://plrg.ics.uci.edu/pingpong -> 192
+<-------------->
+http://plrg.ics.uci.edu/iotcheck -> 228
+<-------------->
+http://plrg.ics.uci.edu/fidelius -> 183
+<-------------->
+http://plrg.ics.uci.edu/software_page/views -> 90
+<-------------->
+http://plrg.ics.uci.edu/software_page/irvine-research-java-compiler -> 102
+<-------------->
+http://plrg.ics.uci.edu/software-relaxed-mm -> 116
+<-------------->
+http://plrg.ics.uci.edu/c11tester -> 413
+<-------------->
+http://plrg.ics.uci.edu/satune -> 230
+<-------------->
+http://plrg.ics.uci.edu/jaaru -> 396
+<-------------->
+http://plrg.ics.uci.edu/yashme -> 389
+<-------------->
+http://plrg.ics.uci.edu/psan -> 450
+<-------------->
+http://plrg.ics.uci.edu/software_page -> 150
+<-------------->
+http://plrg.ics.uci.edu/publications_page -> 625
+<-------------->
+http://plrg.ics.uci.edu/students -> 75
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dechter -> 192
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=crooksr -> 158
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=alfchen -> 179
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=yunanc -> 180
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=hengrc1 -> 192
+<-------------->
+http://www.ics.uci.edu/~eli -> 66
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=lbic -> 199
+<-------------->
+http://www.ics.uci.edu/~bic -> 71
+<-------------->
+http://www.ics.uci.edu/~bic/os -> 53
+<-------------->
+http://www.ics.uci.edu/~bic/os/OS/OS-TOC.htm -> 138
+<-------------->
+http://www.ics.uci.edu/~bic/messengers -> 817
+<-------------->
+http://www.ics.uci.edu/%7Edillenco -> 53
+<-------------->
+http://www.ics.uci.edu/~dillenco/compsci161 -> 493
+<-------------->
+http://www.ics.uci.edu/faculty/area/area_network.php -> 864
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/alfred-kobsa -> 255
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/joshua-garcia -> 260
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=wscacchi -> 144
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/gillian-hayes -> 248
+<-------------->
+http://www.informatics.uci.edu/explore/faculty-profiles/roderic-crooks -> 261
+<-------------->
+http://www.ics.uci.edu/%7Ebic -> 71
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=bergac -> 183
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=pfbaldi -> 204
+<-------------->
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=ardalan -> 169
+<-------------->
+http://www.ics.uci.edu/~stauro -> 138
+<-------------->
+http://www.ics.uci.edu/~wayne -> 23
+<-------------->
+https://mcs.ics.uci.edu/contact-us -> 53
+<-------------->
+https://mcs.ics.uci.edu/contact-us/staff -> 112
+<-------------->
+https://mcs.ics.uci.edu/faq -> 341
+<-------------->
+https://code.ics.uci.edu/students/faq -> 421
+<-------------->
+https://code.ics.uci.edu/career-team -> 186
+<-------------->
+https://code.ics.uci.edu/students/resources-for-international-students -> 233
+<-------------->
+https://code.ics.uci.edu/students/additional-resources -> 109
+<-------------->
+https://code.ics.uci.edu/students/interviewing -> 235
+<-------------->
+https://code.ics.uci.edu/students/job-search-sites-resources -> 167
+<-------------->
+https://code.ics.uci.edu/students/personal-branding-networking -> 371
+<-------------->
+https://code.ics.uci.edu/curricular-practical-training-cpt -> 340
+<-------------->
+https://code.ics.uci.edu/students/career-planning -> 167
+<-------------->
+https://code.ics.uci.edu/students/career-services-overview -> 139
+<-------------->
+https://code.ics.uci.edu/employers -> 79
+<-------------->
+http://code.ics.uci.edu -> 140
+<-------------->
+https://code.ics.uci.edu/students -> 106
+<-------------->
+https://mcs.ics.uci.edu/career/internships -> 163
+<-------------->
+https://mcs.ics.uci.edu/career -> 53
+<-------------->
+https://mcs.ics.uci.edu/career/cpt-2 -> 120
+<-------------->
+https://mcs.ics.uci.edu/current-students/resources/campus-contacts -> 135
+<-------------->
+https://mcs.ics.uci.edu/current-students/resources -> 138
+<-------------->
+https://mcs.ics.uci.edu/current-students/mcs-grade-policy -> 147
+<-------------->
+https://mcs.ics.uci.edu/prospective-students/cost-and-financial-aid -> 162
+<-------------->
+https://mcs.ics.uci.edu/prospective-students -> 53
+<-------------->
+https://mcs.ics.uci.edu/prospective-students/admissions-requirement -> 210
+<-------------->
+https://mcs.ics.uci.edu/about/mcs-vs-mscs -> 204
+<-------------->
+https://mcs.ics.uci.edu/about/course-descriptions -> 471
+<-------------->
+https://mcs.ics.uci.edu/about/curriculum/2018-2019-2-2-2 -> 182
+<-------------->
+https://mcs.ics.uci.edu/about/curriculum/2018-2019-2-2 -> 194
+<-------------->
+http://www.ics.uci.edu/community/news/view_news?id=1219 -> 353
+<-------------->
+https://wics.ics.uci.edu/exploreics -> 156
+<-------------->
+https://wics.ics.uci.edu/event/fall-2022-week-4-intro-to-ui-ux-design-with-designuci -> 148
+<-------------->
+https://wics.ics.uci.edu/event/fall-2022-week-4-committee-applications-panel -> 128
+<-------------->
+https://wics.ics.uci.edu/event/fall-2022-week-3-wics-games -> 128
+<-------------->
+https://wics.ics.uci.edu/event/fall-2022-week-2-mentorship-mixer -> 149
+<-------------->
+https://wics.ics.uci.edu/event/fall-2022-week-1-first-general-meeting-and-social -> 133
+<-------------->
+https://wics.ics.uci.edu/event/spring-2022-week-9-wics-banquet -> 142
+<-------------->
+https://wics.ics.uci.edu/event/spring-2022-week-9-wicsxpics -> 141
+<-------------->
+https://wics.ics.uci.edu/event/spring-2022-week-9-wicsxfactor -> 124
+<-------------->
+https://wics.ics.uci.edu/event/spring-2022-week-8-wicsino-night -> 132
+<-------------->
+https://wics.ics.uci.edu/event/spring-2022-week-7-crowdstrike-office-hours -> 135
+<-------------->
+https://wics.ics.uci.edu/event/spring-2022-week-6-mentorship-mayhem -> 128
+<-------------->
+https://wics.ics.uci.edu/event/spring-2022-week-6-midterm-mixer -> 139
+<-------------->
+https://wics.ics.uci.edu/event/spring-2022-week-5-inscripta-info-session -> 135
+<-------------->
+https://wics.ics.uci.edu/corporate-sponsorship -> 87
+<-------------->
+https://wics.ics.uci.edu/contact -> 109
+<-------------->
+https://wics.ics.uci.edu/our-mentorship-program -> 171
+<-------------->
+https://wics.ics.uci.edu/apply-to-wics-committee -> 192
+<-------------->
+https://wics.ics.uci.edu/girlsknowcs-conference -> 234
+<-------------->
+https://wics.ics.uci.edu/wics-spring-quarter-week-2-intuit-react-workshop -> 153
+<-------------->
+https://wics.ics.uci.edu/wics-winter-quarter-week-8-amazon-interview-workshop -> 170
+<-------------->
+https://wics.ics.uci.edu/wics-fall-quarter-week-6-amazon-info-session-and-tabling -> 152
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-2017-week-5-wics-mentorship-reveal -> 168
+<-------------->
+https://wics.ics.uci.edu/wics-fall-quarter-week-4-twitter-qa-and-info-session -> 159
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-2017-week-3-wics-games -> 196
+<-------------->
+https://wics.ics.uci.edu/wics-fall-quarter-2017-week-2-mentorship-mixer -> 144
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-2017-week-1-wics-first-general-meeting -> 164
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-2017-week-0-wics-social -> 150
+<-------------->
+https://wics.ics.uci.edu/spring-quarter-2017-week-3-riot-tour -> 243
+<-------------->
+https://wics.ics.uci.edu/aspireit-2017 -> 235
+<-------------->
+https://wics.ics.uci.edu/spring-quarter-2017-week-3-blizzard-tour -> 176
+<-------------->
+https://wics.ics.uci.edu/spring-quarter-2017-week-2-intro-to-command-line-workshop-w-hack -> 177
+<-------------->
+https://wics.ics.uci.edu/spring-quarter-2017-week-1-general-meeting -> 164
+<-------------->
+https://wics.ics.uci.edu/winter-quarter-2017-week-8-wics-mentorship-baked-goods-potluck-and-movie-night -> 147
+<-------------->
+https://wics.ics.uci.edu/winter-quarter-2017-week-7-intuit-interactive-hackathon-prep -> 157
+<-------------->
+https://wics.ics.uci.edu/winter-quarter-2017-week-6-study-session -> 156
+<-------------->
+https://wics.ics.uci.edu/winter-quarter-2017-week-5-twilio-info-session -> 162
+<-------------->
+https://wics.ics.uci.edu/winter-quarter-2017-week-4-crime-and-mystery-game-night -> 146
+<-------------->
+https://wics.ics.uci.edu/winter-quarter-2017-mock-technical-interviews-prep-workshop -> 167
+<-------------->
+https://wics.ics.uci.edu/winter-quarter-2017-week-1-general-meeting -> 171
+<-------------->
+https://wics.ics.uci.edu/i-htm -> 138
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-2016-wk-7-summer-internship-panel -> 155
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-2016-prosky-interactive-info-session -> 200
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-2016-week-6-facebook-diversity-panel -> 159
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-week-4-study-session -> 133
+<-------------->
+https://wics.ics.uci.edu/wics-attends-gracehopper-conference-2016 -> 173
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-2016-week-4-mentorship-reveal -> 163
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-2016-week-3-pwc-info-session -> 178
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-2016-week-3-wics-games -> 170
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-2016-week-2-social-meet-and-greet-event -> 156
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-2016-week-1-mentorship-mixer -> 172
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-2016-first-general-meeting -> 152
+<-------------->
+https://wics.ics.uci.edu/wics-is-awarded-the-trailblazer-award-from-ncwit-and-google-org -> 158
+<-------------->
+https://wics.ics.uci.edu/wics-resume-workshop -> 156
+<-------------->
+https://wics.ics.uci.edu/board-game-night -> 128
+<-------------->
+https://wics.ics.uci.edu/movie-night -> 127
+<-------------->
+https://wics.ics.uci.edu/author/bearpigx -> 274
+<-------------->
+https://wics.ics.uci.edu/author/bearpigx/page/2 -> 260
+<-------------->
+https://wics.ics.uci.edu/week-2-ios-beginner-workshop -> 148
+<-------------->
+https://wics.ics.uci.edu/grace-hopper-celebration-2014 -> 244
+<-------------->
+https://wics.ics.uci.edu/gen-meeting-and-mentorship-14 -> 169
+<-------------->
+https://wics.ics.uci.edu/first-annual-wics-games -> 156
+<-------------->
+https://wics.ics.uci.edu/hackuci-spring-2014 -> 345
+<-------------->
+https://wics.ics.uci.edu/wics-final-python-project-meeting -> 158
+<-------------->
+https://wics.ics.uci.edu/studying-with-wics-2 -> 151
+<-------------->
+https://wics.ics.uci.edu/spring-potluck-with-ics-clubs -> 165
+<-------------->
+https://wics.ics.uci.edu/wics-launches-a-flappy-bird-python-project -> 189
+<-------------->
+https://wics.ics.uci.edu/witi-comes-to-uci -> 207
+<-------------->
+https://wics.ics.uci.edu/wics-attends-cwic-socal -> 207
+<-------------->
+https://wics.ics.uci.edu/wics-is-invited-to-western-digital -> 174
+<-------------->
+https://wics.ics.uci.edu/wics-first-general-spring-quarter-meeting -> 174
+<-------------->
+https://wics.ics.uci.edu/android-app-finale -> 176
+<-------------->
+https://wics.ics.uci.edu/wics-mock-interviews -> 141
+<-------------->
+https://wics.ics.uci.edu/wics-littlebits-workshops -> 165
+<-------------->
+https://wics.ics.uci.edu/studying-with-wics -> 151
+<-------------->
+https://wics.ics.uci.edu/brownie-troops-computer-expert-badge -> 161
+<-------------->
+https://wics.ics.uci.edu/food-and-fun-with-wics -> 167
+<-------------->
+https://wics.ics.uci.edu/first-android-app-development-meeting -> 178
+<-------------->
+https://wics.ics.uci.edu/movie-night-and-boardgames-with-wics -> 142
+<-------------->
+https://wics.ics.uci.edu/wics-co-hosts-google-panel -> 186
+<-------------->
+https://wics.ics.uci.edu/first-wics-meeting-of-winter-14 -> 186
+<-------------->
+https://wics.ics.uci.edu/web-development-projects-awards -> 153
+<-------------->
+https://wics.ics.uci.edu/week-10-hour-of-code -> 165
+<-------------->
+https://wics.ics.uci.edu/cia-info-session-with-wics -> 161
+<-------------->
+http://wics.ics.uci.edu/project-development -> 128
+<-------------->
+http://wics.ics.uci.edu/first-project-meeting-by-wics -> 168
+<-------------->
+https://wics.ics.uci.edu/grace-hopper-celebration-2013 -> 227
+<-------------->
+https://wics.ics.uci.edu/week-2-broadcom-info-session -> 152
+<-------------->
+https://wics.ics.uci.edu/week-3-resume-workshop -> 156
+<-------------->
+https://wics.ics.uci.edu/week-4-capgeminis-women-in-consulting-night-w-swe-icssc -> 155
+<-------------->
+https://wics.ics.uci.edu/week-5-women-in-technology-talk-by-northrop-grumman -> 177
+<-------------->
+https://wics.ics.uci.edu/week-6-socal-gas-company -> 201
+<-------------->
+https://wics.ics.uci.edu/annual-mentorship-program-2013 -> 146
+<-------------->
+https://wics.ics.uci.edu/wics-week-0-meet-and-greet -> 205
+<-------------->
+https://wics.ics.uci.edu/aspire-it-camp-techie-girls -> 160
+<-------------->
+https://wics.ics.uci.edu/wics-summer-session-workshop -> 148
+<-------------->
+https://wics.ics.uci.edu/ics-banquet -> 154
+<-------------->
+https://wics.ics.uci.edu/western-digital-tour-luncheon-with-female-engineers -> 147
+<-------------->
+https://wics.ics.uci.edu/4 -> 89
+<-------------->
+http://wics.ics.uci.edu/event/week-1-general-meeting-mentorship-program -> 138
+<-------------->
+http://wics.ics.uci.edu/?page_id=52 -> 171
+<-------------->
+https://wics.ics.uci.edu/event/project-meeting -> 131
+<-------------->
+https://wics.ics.uci.edu/event/project-meeting-2 -> 147
+<-------------->
+https://wics.ics.uci.edu/event/week-2-broadcom-info-session-wics-ieee-hkn-and-icssc -> 127
+<-------------->
+https://wics.ics.uci.edu/event/week-3-resume-workshop -> 141
+<-------------->
+https://wics.ics.uci.edu/event/project-meeting-3 -> 140
+<-------------->
+https://wics.ics.uci.edu/event/project-meeting-4 -> 136
+<-------------->
+https://wics.ics.uci.edu/event/tba -> 144
+<-------------->
+https://wics.ics.uci.edu/event/week-0-meet-and-greet -> 130
+<-------------->
+https://wics.ics.uci.edu/event/anteater-involvement-fair -> 123
+<-------------->
+https://wics.ics.uci.edu/event/wics-study-session -> 101
+<-------------->
+https://wics.ics.uci.edu/committee-applications-faq -> 443
+<-------------->
+http://wics.ics.uci.edu/powerpoint-slides -> 129
+<-------------->
+http://wics.ics.uci.edu/android-app-projects-winter-2014 -> 245
+<-------------->
+https://wics.ics.uci.edu/category/news/tour -> 192
+<-------------->
+https://wics.ics.uci.edu/wics-goes-to-blizzard -> 160
+<-------------->
+https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop-with-dr-garnet-hertz -> 143
+<-------------->
+https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop-with-dr-garnet-hertz/13-02-03-toy-hacker-005 -> 100
+<-------------->
+https://wics.ics.uci.edu/letter-of-recommendation-workshop -> 144
+<-------------->
+https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop -> 190
+<-------------->
+https://wics.ics.uci.edu/beginning-of-the-quarter-general-meeting -> 171
+<-------------->
+https://wics.ics.uci.edu/fall-quarter-update -> 171
+<-------------->
+https://wics.ics.uci.edu/wics-is-awarded-the-ncwit-student-seed-fund -> 144
+<-------------->
+https://wics.ics.uci.edu/google-career-panel -> 158
+<-------------->
+https://wics.ics.uci.edu/wics-swe-hosts-women-in-consulting-with-capgemini -> 125
+<-------------->
+https://wics.ics.uci.edu/masimo-presents-the-hidden-job-market -> 122
+<-------------->
+https://wics.ics.uci.edu/wics-mentorship-program -> 136
+<-------------->
