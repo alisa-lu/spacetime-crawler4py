@@ -230,21 +230,21 @@ def _refine_url(resp, link: str) -> str:
         link = urljoin(urldefrag(resp.url).url, link)
 
     # If the link is a swiki link, remove the queries (trap)
-    if link.startswith('https://swiki.ics.uci.edu') or link.startswith('https://wiki.ics.uci.edu'):
+    if re.search('swiki.ics.uci.edu', link) or re.search('wiki.ics.uci.edu', link):
         link = urljoin(link, urlparse(link).path)
     
     # If the link is a WICS link, remove the queries
     # (low-information, leads to separate pages of images)
-    if link.startswith('https://wics.ics.uci.edu'):
+    if re.search('wics.ics.uci.edu', link):
         link = urljoin(link, urlparse(link).path)
 
     # If the link is a grape link, remove the queries
     # (low-information, many are different versions of each other)
-    if link.startswith('https://grape.ics.uci.edu'):
+    if re.search('grape.ics.uci.edu', link):
         link = urljoin(link, urlparse(link).path)
 
     # De-query this link as the pages with queries are low information
-    if link.startswith('https://cbcl.ics.uci.edu/'):
+    if re.search('cbcl.ics.uci.edu/', link):
         link = urljoin(link, urlparse(link).path)
 
     # Do not crawl commits / subpages of gitlab repositories (trap)
@@ -401,7 +401,7 @@ def is_valid(url):
             return False
         
         # we don't want to crawl elms.ics.uci.edu because they are all low information and barred by a login.
-        if url.startswith("http://elms.ics.uci.edu"):
+        if re.search("elms.ics.uci.edu", url):
             return False
 
         # we don't want to crawl download sites
@@ -430,25 +430,26 @@ def is_valid(url):
             # These pages are preference setting pages and are low information
             if re.search("wiki/asterix/prefs", url):
                 return False
-
-        # Do not crawl this large, low information text file
-        if re.search("ics.uci.edu/~kay/wordlist.txt", url):
-            return False
+        
+        if re.search("ics.uci.edu/~kay", url):
+            # Professor Kay's txt files are low information and large.
+            if url.endswith(".txt"):
+                return False
+            if url.endswith("rkt"):
+                return False
+            # Do not crawl this large, low information text file
+            if re.search("ics.uci.edu/~kay/wordlist.txt", url):
+                return False
+            # Do not crawl this large, low information text file
+            if re.search("ics.uci.edu/~kay/courses/i42/wildride/data/1000customers.txt", url):
+                return False
 
         # Do not crawl the large, low information text files located at this path
         if re.search("ics.uci.edu/~wjohnson/BIDA/Ch8/", url):
             return False
 
-        # Do not crawl this large, low information text file
-        if re.search("ics.uci.edu/~kay/courses/i42/wildride/data/1000customers.txt", url):
-            return False
-
         # Do not crawl this large, low information page (unrendered HTML)
         if re.search("ics.uci.edu/~cs224", url):
-            return False
-
-        # Do not crawl this large, low information page (crashes from excessive redirects)
-        if re.search("sli.ics.uci.edu/AIStats/Postings", url):
             return False
 
         # Do not crawl jpg images
@@ -460,26 +461,68 @@ def is_valid(url):
             return False
 
         # Do not crawl page, it is simply a discord link and is low information
-        if url == "https://student-council.ics.uci.edu/discord.html":
+        if url == "https://student-council.ics.uci.edu/discord.html" or url == "https://studentcouncil.ics.uci.edu/discord.html":
             return False
 
-        # this page is simply an image and we do not want to crawl it
-        if url == "https://wics.ics.uci.edu/fall-quarter-2016-week-1-mentorship-mixer/img_2377":
+        if re.search("wics.ics.uci.edu", url):
+            # this page is simply an image and we do not want to crawl it
+            if url == "https://wics.ics.uci.edu/fall-quarter-2016-week-1-mentorship-mixer/img_2377":
+                return False
+            # this page is also simply an image
+            if url in ["https://wics.ics.uci.edu/1","https://wics.ics.uci.edu/2","https://wics.ics.uci.edu/3","https://wics.ics.uci.edu/4","https://wics.ics.uci.edu/5","https://wics.ics.uci.edu/6"]:
+                return False
+            # these pages just have one singular image in them
+            if re.search("https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop-with-dr-garnet-hertz/13-02-03", url):
+                return False
+            # this page is a repetition of a different page
+            if url == "http://wics.ics.uci.edu/?page_id=52":
+                return False
+
+        # These urls lead to DOM structures and are not useful.
+        if re.search("wearablegames.ics.uci.edu/?feed", url):
             return False
 
-        # this page is also simply an image
-        if url == "https://wics.ics.uci.edu/4":
+        # These pages are very short code segments/instructions that are not useful.
+        if re.search("ics.uci.edu/~yamingy/cocktail",url):
             return False
-        
+
+        # These sites crash and are not useful; example: http://www-db.ics.uci.edu:8006/
+        if re.search("http://www-db.ics.uci.edu:", url):
+            return False
+
+        # this page is access restricted
+        if url == "http://www-db.ics.uci.edu/pages/flamingo":
+            return False
+
+        if re.search("sli.ics.uci.edu", url):
+            # these pages are barred by a login
+            if re.search("?action=edit", url):
+                return False
+            # this page is not useful
+            if re.search("?action=refcount", url) or re.search("?action=rss"):
+                return False
+            # this page is search reults that are low information and should not be indexed
+            if re.search("?action=search", url):
+                return False
+            # these contain files that we do not want to crawl through
+            if re.search("?action=upload", url):
+                return False
+            # these are lecture videos and are no longer existent on the website
+            if re.search("/video/", url):
+                return False
+            # Do not crawl this large, low information page (crashes from excessive redirects)
+            if re.search("sli.ics.uci.edu/AIStats/Postings", url):
+                return False
+
         return not re.match(
-            r".*\.(css|js|bmp|gif|jpe?g|ico"
-            + r"|png|tiff?|mid|mp2|mp3|mp4|py"
+            r".*\.(css|js|bmp|gif|jpe?g|ico|java"
+            + r"|png|tiff?|mid|mp2|mp3|mp4|py|m|in"
             + r"|wav|avi|mov|mpeg|ram|m4v|mkv|ogg|ogv|pdf"
             + r"|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names|ppsx"
             + r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso"
             + r"|epub|dll|cnf|tgz|sha1|sql|bib|ss|scm|xml|war"
             + r"|thmx|mso|arff|rtf|jar|csv|ipynb|r|c|tex"
-            + r"|rm|smil|wmv|swf|wma|zip|rar|gz)$", parsed.path.lower())
+            + r"|rm|smil|wmv|swf|wma|zip|rar|gz|h)$", parsed.path.lower())
 
     except TypeError:
         print ("TypeError for ", parsed)
