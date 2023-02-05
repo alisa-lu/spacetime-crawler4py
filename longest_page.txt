@@ -1,2 +1,2 @@
-Longest page: DefragResult(url='https://www.stat.uci.edu/covid19/index.html', fragment='')
-Number of words in page: 25180
+Longest page: DefragResult(url='https://cml.ics.uci.edu/category/aiml', fragment='')
+Number of words in page: 17433
