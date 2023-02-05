@@ -8,6 +8,7 @@ visited_links = set()
 max_words_in_a_page = 0
 page_with_max_words = ""
 top_150_longest_pages = [] # Store a list of lists containing page url and number of words in a page
+pages_with_more_than_17000_words = [] # Stores a list of lists containing page urls with >= 17,000 words and their word count
 unique_word_frequencies = {} # key: unique word -> value: word frequency across all pages found
 ics_subdomain_page_frequencies = {} # key: subdomain url -> value: set of unique pages in the subdomain
 
@@ -138,6 +139,7 @@ def max_words(tokens:list, resp):
     global max_words_in_a_page
     global page_with_max_words
     global top_150_longest_pages
+    global pages_with_more_than_17000_words
 
     # Determine the number of words in the page    
     page_num_of_words = len(tokens)
@@ -152,13 +154,24 @@ def max_words(tokens:list, resp):
             top_150_longest_pages.pop(0); # Remove smallest page
         top_150_longest_pages.append([resp.url, page_num_of_words])
 
+    # Checks if number of words >= 17,000
+    if page_num_of_words >= 17000:
+        pages_with_more_than_17000_words.append([resp.url, page_num_of_words])
+
     # Update file storing the longest page in terms of the number of words
     f = open("longest_page.txt", "w")
     f.write(f"Longest page: {page_with_max_words}\nNumber of words in page: {max_words_in_a_page}\n")
     f.close()
 
+    # Update file storing top 150 longest pages
     f = open("top_150_longest_pages.txt", "w")
     for page in top_150_longest_pages:
+        f.write(f"{page[0]} -> {page[1]} words\n")
+    f.close()
+
+    # Update file storing pages with more than 17,000 words
+    f = open("pages_with_more_than_17000_words.txt", "w")
+    for page in pages_with_more_than_17000_words:
         f.write(f"{page[0]} -> {page[1]} words\n")
     f.close()
 
