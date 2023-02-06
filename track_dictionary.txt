@@ -1118,7 +1118,7 @@ https://transformativeplay.ics.uci.edu/research/costumes-and-wearables-as-game-c
 <-------------->
 https://wearablegames.ics.uci.edu -> 363
 <-------------->
-https://wearablegames.ics.uci.edu/?feed=rss2 -> 772
+https://wearablegames.ics.uci.edu/?cat=1 -> 763
 <-------------->
 https://wearablegames.ics.uci.edu/?p=1 -> 610
 <-------------->
@@ -5026,12 +5026,6 @@ https://www.ics.uci.edu/~yamingy -> 173
 <-------------->
 http://www.ics.uci.edu/~yamingy/npmle_README.txt -> 60
 <-------------->
-http://www.ics.uci.edu/~yamingy/cocktail_demo.m -> 26
-<-------------->
-http://www.ics.uci.edu/~yamingy/cocktail.m -> 94
-<-------------->
-http://www.ics.uci.edu/~yamingy/cocktail_README.txt -> 52
-<-------------->
 http://www.ics.uci.edu/statistics/faculty -> 258
 <-------------->
 https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mandt -> 175
@@ -6501,8 +6495,6 @@ http://stairs.ics.uci.edu/people.html -> 57
 https://malek.ics.uci.edu -> 133
 <-------------->
 https://studentcouncil.ics.uci.edu/index.html -> 59
-<-------------->
-https://studentcouncil.ics.uci.edu/discord.html -> 2
 <-------------->
 https://studentcouncil.ics.uci.edu/contacts -> 37
 <-------------->
@@ -12482,8 +12474,6 @@ https://wics.ics.uci.edu/4 -> 89
 <-------------->
 http://wics.ics.uci.edu/event/week-1-general-meeting-mentorship-program -> 138
 <-------------->
-http://wics.ics.uci.edu/?page_id=52 -> 171
-<-------------->
 https://wics.ics.uci.edu/event/project-meeting -> 131
 <-------------->
 https://wics.ics.uci.edu/event/project-meeting-2 -> 147
@@ -12516,8 +12506,6 @@ https://wics.ics.uci.edu/wics-goes-to-blizzard -> 160
 <-------------->
 https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop-with-dr-garnet-hertz -> 143
 <-------------->
-https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop-with-dr-garnet-hertz/13-02-03-toy-hacker-005 -> 100
-<-------------->
 https://wics.ics.uci.edu/letter-of-recommendation-workshop -> 144
 <-------------->
 https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop -> 190
@@ -12542,7 +12530,7 @@ https://wics.ics.uci.edu/2nd-post -> 182
 <-------------->
 https://wics.ics.uci.edu/hello-world -> 110
 <-------------->
-http://wics.ics.uci.edu/?attachment_id=247 -> 93
+https://wics.ics.uci.edu/fall-quarter-update/8320259749_9a05d5b2c8_b -> 94
 <-------------->
 https://wics.ics.uci.edu/wics-spring-quarter-week-6-intuit-tour -> 147
 <-------------->
@@ -12583,46 +12571,6 @@ https://wics.ics.uci.edu/wics-spring-quarter-week-2-paciolan-info-session -> 170
 https://wics.ics.uci.edu/wics-spring-quarter-week-1-first-general-meeting -> 140
 <-------------->
 https://wics.ics.uci.edu/category/news/wics-meeting/project-meeting -> 165
-<-------------->
-http://wics.ics.uci.edu/?slide=wics-committee-2013-2014 -> 283
-<-------------->
-https://wics.ics.uci.edu/katie-yeh -> 235
-<-------------->
-https://wics.ics.uci.edu/katie-khu -> 309
-<-------------->
-https://wics.ics.uci.edu/janay-nunez -> 222
-<-------------->
-https://wics.ics.uci.edu/spring-2022-week-9-wicsxfactor -> 137
-<-------------->
-https://wics.ics.uci.edu/spring-2022-week-8-wicsino-night -> 145
-<-------------->
-https://wics.ics.uci.edu/spring-2022-week-7-crowdstrike-office-hours -> 147
-<-------------->
-https://wics.ics.uci.edu/spring-2022-week-6-mentorship-mayhem -> 184
-<-------------->
-https://wics.ics.uci.edu/week-6-midterm-mixer -> 129
-<-------------->
-https://wics.ics.uci.edu/spring-2022-week-5-inscripta-info-session -> 139
-<-------------->
-https://wics.ics.uci.edu/spring-2022-week-4-mentorship-linkedin-workshop -> 137
-<-------------->
-https://wics.ics.uci.edu/spring-2022-week-4-projects-at-chipotle -> 143
-<-------------->
-https://wics.ics.uci.edu/spring-2022-week-3-movie-night -> 153
-<-------------->
-https://wics.ics.uci.edu/spring-2022-week-2-wics-x-ctc-personal-portfolio-workshop -> 144
-<-------------->
-https://wics.ics.uci.edu/spring-2022-week-1-wics-x-swe-x-oai-women-in-stem-trivia-night -> 144
-<-------------->
-https://wics.ics.uci.edu/spring-2022-week-1-wics-first-general-meeting -> 127
-<-------------->
-https://wics.ics.uci.edu/spring-2022-week-9-wics-banquet -> 154
-<-------------->
-https://wics.ics.uci.edu/summer-2022-lunch-with-the-mayor -> 156
-<-------------->
-https://wics.ics.uci.edu/fall-2022-week-1-first-general-meeting-utc-social -> 140
-<-------------->
-https://wics.ics.uci.edu/fall-2022-week-2-mentorship-mixer -> 138
 <-------------->
 https://wics.ics.uci.edu/week-3-wicsvgdc-workshop -> 190
 <-------------->
@@ -12844,6 +12792,38 @@ https://wics.ics.uci.edu/week-9-jeopardy -> 135
 <-------------->
 https://wics.ics.uci.edu/winter-2022-week-10-wics-study-session -> 138
 <-------------->
+https://wics.ics.uci.edu/spring-2022-week-1-wics-first-general-meeting -> 127
+<-------------->
+https://wics.ics.uci.edu/spring-2022-week-1-wics-x-swe-x-oai-women-in-stem-trivia-night -> 144
+<-------------->
+https://wics.ics.uci.edu/spring-2022-week-2-wics-x-ctc-personal-portfolio-workshop -> 144
+<-------------->
+https://wics.ics.uci.edu/spring-2022-week-3-movie-night -> 153
+<-------------->
+https://wics.ics.uci.edu/spring-2022-week-4-projects-at-chipotle -> 143
+<-------------->
+https://wics.ics.uci.edu/spring-2022-week-4-mentorship-linkedin-workshop -> 137
+<-------------->
+https://wics.ics.uci.edu/spring-2022-week-5-inscripta-info-session -> 139
+<-------------->
+https://wics.ics.uci.edu/week-6-midterm-mixer -> 129
+<-------------->
+https://wics.ics.uci.edu/spring-2022-week-6-mentorship-mayhem -> 184
+<-------------->
+https://wics.ics.uci.edu/spring-2022-week-7-crowdstrike-office-hours -> 147
+<-------------->
+https://wics.ics.uci.edu/spring-2022-week-8-wicsino-night -> 145
+<-------------->
+https://wics.ics.uci.edu/spring-2022-week-9-wicsxfactor -> 137
+<-------------->
+https://wics.ics.uci.edu/spring-2022-week-9-wics-banquet -> 154
+<-------------->
+https://wics.ics.uci.edu/summer-2022-lunch-with-the-mayor -> 156
+<-------------->
+https://wics.ics.uci.edu/fall-2022-week-1-first-general-meeting-utc-social -> 140
+<-------------->
+https://wics.ics.uci.edu/fall-2022-week-2-mentorship-mixer -> 138
+<-------------->
 https://wics.ics.uci.edu/aspireit-2018 -> 314
 <-------------->
 https://wics.ics.uci.edu/women-empowering-women-lunch-2018 -> 172
@@ -12965,6 +12945,12 @@ https://wics.ics.uci.edu/wics-winter-quarter-week-2-paciolan-job-shadowing -> 18
 https://wics.ics.uci.edu/wics-winter-quarter-week-2-mentorship-social -> 151
 <-------------->
 https://wics.ics.uci.edu/history-of-wics -> 198
+<-------------->
+https://wics.ics.uci.edu/katie-yeh -> 235
+<-------------->
+https://wics.ics.uci.edu/katie-khu -> 309
+<-------------->
+https://wics.ics.uci.edu/janay-nunez -> 222
 <-------------->
 https://wics.ics.uci.edu/awards-and-accomplishments -> 227
 <-------------->
@@ -14290,122 +14276,6 @@ http://cbcl.ics.uci.edu/public_data -> 41
 <-------------->
 http://cbcl.ics.uci.edu -> 42
 <-------------->
-http://cbcl.ics.uci.edu/doku.php/start?do=index -> 26
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/start?do=recent -> 48
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/people?do=revisions -> 73
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/people?rev=1418330812 -> 103
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/people?rev=1418330812&do=diff -> 182
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/people?rev=1418330934&do=diff -> 150
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/people?rev=1499405178&do=diff -> 119
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/people?rev=1527142757 -> 95
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/people?do=edit -> 104
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=people&do=index -> 27
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=people&do=recent -> 48
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=people&do=backlink -> 31
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=people&do=revisions -> 73
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=people&do= -> 95
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=start -> 42
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/people?do=index -> 27
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/people?do=recent -> 48
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/people?do=backlink -> 31
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/people?do=diff -> 112
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/publications?do=revisions -> 85
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/publications?rev=1507871472 -> 1040
-<-------------->
-http://www.ics.uci.edu/~xhx/project/mdos -> 138
-<-------------->
-http://motifmap.ics.uci.edu -> 211
-<-------------->
-http://motifmap-rna.ics.uci.edu -> 110
-<-------------->
-http://motifmap-rna.ics.uci.edu/help -> 304
-<-------------->
-http://ipubmed.ics.uci.edu -> 143
-<-------------->
-http://cbcl.ics.uci.edu/SSEA -> 117
-<-------------->
-http://hobbes.ics.uci.edu -> 107
-<-------------->
-http://www.ics.uci.edu/~yunh -> 64
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/publications?do=edit&rev=1507871472 -> 1043
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=publications -> 1391
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=publications&do=index -> 27
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=publications&do=recent -> 48
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=publications&do=backlink -> 31
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=publications&do=revisions -> 85
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/publications?rev=1507871734 -> 1065
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/publications?rev=1507871734&do=diff -> 1421
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/publications?rev=1527786308 -> 25
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/publications?do=edit&rev=1527786308 -> 31
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/publications?rev=1527787525&do=diff -> 143
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/publications?do=diff&rev2%5B0%5D=1527786308&rev2%5B1%5D=1534399600&difftype=sidebyside -> 84
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/publications?do=index -> 27
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/publications?do=recent -> 48
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/publications?do=backlink -> 31
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/publications?do= -> 1391
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/publications?do=diff -> 143
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/start?do=revisions -> 62
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/start?rev=1396650952 -> 47
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/start?do=edit&rev=1396650952 -> 53
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=start&do=index -> 26
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=start&do=recent -> 48
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=start&do=backlink -> 31
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=start&do=revisions -> 62
-<-------------->
-http://cbcl.ics.uci.edu/doku.php?id=start&do= -> 42
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/start?rev=1396650952&do=diff -> 135
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/start?rev=1396651003 -> 47
-<-------------->
-http://cbcl.ics.uci.edu/doku.php/start?do=edit&rev=1396651003 -> 53
-<-------------->
-http://cbcl.ics.uci.edu/public_data/SREBP1/processed -> 30
-<-------------->
 http://cbcl.ics.uci.edu/public_data/SREBP2 -> 51
 <-------------->
 http://cbcl.ics.uci.edu/public_data/FXR -> 40
@@ -14418,13 +14288,29 @@ https://cbcl.ics.uci.edu/doku.php/software -> 188
 <-------------->
 http://www.ics.uci.edu/~xhx/project/MotifMap -> 138
 <-------------->
+http://motifmap.ics.uci.edu -> 211
+<-------------->
+http://motifmap-rna.ics.uci.edu -> 110
+<-------------->
+http://motifmap-rna.ics.uci.edu/help -> 304
+<-------------->
+http://ipubmed.ics.uci.edu -> 143
+<-------------->
 http://www.ics.uci.edu/~dnazip/index.html -> 186
+<-------------->
+http://cbcl.ics.uci.edu/SSEA -> 117
 <-------------->
 http://cbcl.ics.uci.edu/sgd -> 103
 <-------------->
 https://cbcl.ics.uci.edu/doku.php/software/arem -> 91
 <-------------->
+http://hobbes.ics.uci.edu -> 107
+<-------------->
+http://www.ics.uci.edu/~yunh -> 64
+<-------------->
 https://cbcl.ics.uci.edu/doku.php/publications -> 1391
+<-------------->
+http://www.ics.uci.edu/~xhx/project/mdos -> 138
 <-------------->
 https://cbcl.ics.uci.edu/doku.php/start -> 42
 <-------------->
@@ -14506,10 +14392,6 @@ http://www.ics.uci.edu/~kay/courses/i42/wildride/problem_description_files/index
 <-------------->
 http://www.ics.uci.edu/~kay/courses/i42/hw/labD.html -> 442
 <-------------->
-http://www.ics.uci.edu/~kay/courses/i42/hw/facile.txt -> 91
-<-------------->
-http://www.ics.uci.edu/~kay/courses/i42/hw/cat.txt -> 35
-<-------------->
 http://www.ics.uci.edu/~kay/courses/i42/hw/hw6.html -> 241
 <-------------->
 http://www.ics.uci.edu/~kay/courses/i42/hw/hw5.html -> 574
@@ -14542,14 +14424,6 @@ http://www.ics.uci.edu/~kay/courses/i42/quiz/old -> 226
 <-------------->
 http://www.ics.uci.edu/~kay/courses/i42/wildride -> 65
 <-------------->
-http://www.ics.uci.edu/~kay/courses/i42/wildride/data/rides2.txt -> 34
-<-------------->
-http://www.ics.uci.edu/~kay/courses/i42/wildride/data/rides.txt -> 15
-<-------------->
-http://www.ics.uci.edu/~kay/courses/i42/wildride/data/customers2.txt -> 121
-<-------------->
-http://www.ics.uci.edu/~kay/courses/i42/wildride/data/customers.txt -> 31
-<-------------->
 http://www.ics.uci.edu/~kay/courses/i42/hw -> 207
 <-------------->
 http://www.ics.uci.edu/~kay/courses/i41/f06.html -> 697
@@ -14567,8 +14441,6 @@ http://www.ics.uci.edu/~kay/courses/i41/hw/hw9.html -> 147
 http://www.ics.uci.edu/~kay/courses/i41/vectors.html -> 327
 <-------------->
 http://www.ics.uci.edu/~kay/courses/i41/hw/lab8.html -> 535
-<-------------->
-http://www.ics.uci.edu/~kay/scheme/infx-tunes.rkt -> 362
 <-------------->
 http://www.ics.uci.edu/~kay/courses/i41/hw/hw8.html -> 176
 <-------------->
@@ -15750,20 +15622,6 @@ http://www.ics.uci.edu/~stasio/winter06/Homeworks/hw5.txt -> 43
 <-------------->
 http://www.ics.uci.edu/~stasio/winter06/lab5/lab5.html -> 334
 <-------------->
-http://www.ics.uci.edu/%7Eirani/f04-h22/lab6/IllegalTimeValueException.java -> 16
-<-------------->
-http://www.ics.uci.edu/%7Eirani/f04-h22/lab6/QueueFullException.java -> 13
-<-------------->
-http://www.ics.uci.edu/%7Eirani/f04-h22/lab6/Comparable.java -> 8
-<-------------->
-http://www.ics.uci.edu/%7Eirani/f04-h22/lab6/PriorityQueue.java -> 45
-<-------------->
-http://www.ics.uci.edu/%7Eirani/f04-h22/lab6/Rider.java -> 12
-<-------------->
-http://www.ics.uci.edu/~stasio/winter06/lab5/Event.java -> 35
-<-------------->
-http://www.ics.uci.edu/~stasio/winter06/lab5/EventGenerator.java -> 38
-<-------------->
 http://www.ics.uci.edu/~stasio/winter06/lab4/lab4.html -> 444
 <-------------->
 http://www.ics.uci.edu/~stasio/winter06/Lectures/Lec7code/ComparableExample -> 34
@@ -15784,21 +15642,9 @@ http://www.ics.uci.edu/~stasio/winter06/lab3/inputfile.txt -> 28
 <-------------->
 http://www.ics.uci.edu/~stasio/winter06/lab2/lab2.html -> 442
 <-------------->
-http://www.ics.uci.edu/~stasio/winter06/lab2/GraphicalSavingsCalculator.java -> 97
-<-------------->
-http://www.ics.uci.edu/~stasio/winter06/lab2/Input.java -> 26
-<-------------->
-http://www.ics.uci.edu/~stasio/winter06/lab2/input.in -> 8
-<-------------->
-http://www.ics.uci.edu/~stasio/winter06/lab2/SavingsCalculatorTester.java -> 122
-<-------------->
-http://www.ics.uci.edu/~stasio/winter06/lab2/SavingsCalculator.java -> 44
-<-------------->
 http://www.ics.uci.edu/~stasio/winter06/lab1/lab1.html -> 250
 <-------------->
 http://www.ics.uci.edu/computing/web/personalwebspace.php -> 247
-<-------------->
-http://www.ics.uci.edu/~stasio/winter05/lab0/Blink.java -> 201
 <-------------->
 http://www.ics.uci.edu/~stasio/winter06/Lectures -> 50
 <-------------->
@@ -15910,12 +15756,6 @@ http://www.ics.uci.edu/~jacobson/ics21/LabManual/02A-PairProgramming.html -> 441
 <-------------->
 http://www.ics.uci.edu/~jacobson/ics21/LabManual/02-OrientationToLab.html -> 1057
 <-------------->
-http://www.ics.uci.edu/~jacobson/ics21/LabManual/LabFiles/GuessResponse.java -> 64
-<-------------->
-http://www.ics.uci.edu/~jacobson/ics21/LabManual/LabFiles/GuessNumberGame.java -> 100
-<-------------->
-http://www.ics.uci.edu/~jacobson/ics21/LabManual/LabFiles/GuessNumberUserInterface.java -> 60
-<-------------->
 http://www.ics.uci.edu/~lab/policies/labguidelines.php -> 299
 <-------------->
 http://www.ics.uci.edu/computing/policy/ethics_summary.php -> 247
@@ -15927,14 +15767,6 @@ http://www.ics.uci.edu/~jacobson/ics21/LabManual/01-SurvivalGuide.html -> 247
 http://www.ics.uci.edu/~jacobson/ics21/EnrollmentInformation.html -> 161
 <-------------->
 http://www.ics.uci.edu/~jacobson/ics21/CourseSchedule.html -> 287
-<-------------->
-http://www.ics.uci.edu/~jacobson/ics21/CodeSamples/MouseGUI.java -> 97
-<-------------->
-http://www.ics.uci.edu/~jacobson/ics21/CodeSamples/MouseAppletAnonAdapter.java -> 47
-<-------------->
-http://www.ics.uci.edu/~jacobson/ics21/CodeSamples/MouseAppletListener.java -> 51
-<-------------->
-http://www.ics.uci.edu/~jacobson/ics21/CodeSamples/TestGetScore.java -> 115
 <-------------->
 http://www.ics.uci.edu/~jacobson/ics21/CourseReference.html -> 919
 <-------------->
@@ -15954,8 +15786,6 @@ http://www.ics.uci.edu/~jacobson/cs122b/Project/08-Phase5.html -> 518
 <-------------->
 http://www.ics.uci.edu/~jacobson/cs122b/Project/08-Phase5SuppSW/FabFlixsXML.dtd -> 0
 <-------------->
-http://www.ics.uci.edu/~jacobson/cs122b/Project/08-Phase5SuppSW/XMLtoScreen.java -> 206
-<-------------->
 http://www.ics.uci.edu/~jacobson/cs122b/Project/07-Phase4.html -> 624
 <-------------->
 http://www.ics.uci.edu/~jacobson/cs122b/Project/06-Phase3.html -> 509
@@ -15968,31 +15798,11 @@ http://www.ics.uci.edu/~jacobson/cs122b/Project/06-CFunctions.html -> 350
 <-------------->
 http://www.ics.uci.edu/~jacobson/cs122b/Project/05-Phase2.html -> 743
 <-------------->
-http://www.ics.uci.edu/~jacobson/cs122b/Project/05-ShowItems.java -> 84
-<-------------->
-http://www.ics.uci.edu/~jacobson/cs122b/Project/05-ShowSessionInfo.java -> 95
-<-------------->
-http://www.ics.uci.edu/~jacobson/cs122b/Project/05-TimeZoneServlet.java -> 86
-<-------------->
-http://www.ics.uci.edu/~jacobson/cs122b/Project/05-DateServlet.java -> 53
-<-------------->
 http://www.ics.uci.edu/~jacobson/cs122b/Project/04-Phase1.html -> 722
 <-------------->
 http://www.ics.uci.edu/~jacobson/cs122b/Project/04-FabFlixsTestData.txt -> 0
 <-------------->
-http://www.ics.uci.edu/~jacobson/cs122b/Project/04-JDBCex3.java -> 83
-<-------------->
-http://www.ics.uci.edu/~jacobson/cs122b/Project/04-JDBCex2.java -> 68
-<-------------->
-http://www.ics.uci.edu/~jacobson/cs122b/Project/04-JDBCex1.java -> 77
-<-------------->
 http://www.ics.uci.edu/~jacobson/cs122b/Project/03-Phase0.html -> 1063
-<-------------->
-http://www.ics.uci.edu/~jacobson/cs122b/Project/elog.h -> 387
-<-------------->
-http://www.ics.uci.edu/~jacobson/cs122b/Project/pg_config_os.h -> 403
-<-------------->
-http://www.ics.uci.edu/~jacobson/cs122b/Project/libintl.h -> 10
 <-------------->
 http://www.ics.uci.edu/~jacobson/cs122b/Project/02-TeamsAndGrading.html -> 612
 <-------------->
@@ -16071,20 +15881,6 @@ http://www.ics.uci.edu/~jacobson/ics45J/LabManual/01-OrientationToLab.html -> 10
 http://www.ics.uci.edu/~jacobson/ics45J/EnrollmentInformation.html -> 130
 <-------------->
 http://www.ics.uci.edu/~jacobson/ics45J/CourseSchedule.html -> 329
-<-------------->
-http://www.ics.uci.edu/~jacobson/ics45J/CodeSamples/ChatServer.java -> 126
-<-------------->
-http://www.ics.uci.edu/~jacobson/ics45J/CodeSamples/ChatClient.java -> 255
-<-------------->
-http://www.ics.uci.edu/~jacobson/ics45J/CodeSamples/TestGetScore.java -> 115
-<-------------->
-http://www.ics.uci.edu/~jacobson/ics45J/CodeSamples/KeyboardApplicationAnonAdapter.java -> 131
-<-------------->
-http://www.ics.uci.edu/~jacobson/ics45J/CodeSamples/MouseApplet.java -> 58
-<-------------->
-http://www.ics.uci.edu/~jacobson/ics45J/CodeSamples/MouseApplicationAnonAdapter.java -> 103
-<-------------->
-http://www.ics.uci.edu/~jacobson/ics45J/CodeSamples/MouseApplicationInterface.java -> 113
 <-------------->
 http://www.ics.uci.edu/~jacobson/ics45J/CourseReference.html -> 859
 <-------------->
