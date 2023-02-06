@@ -499,7 +499,7 @@ def is_valid(url):
             if re.search("\?action=edit", url):
                 return False
             # this page is not useful
-            if re.search("\?action=refcount", url) or re.search("\?action=rss"):
+            if re.search("\?action=refcount", url) or re.search("\?action=rss", url):
                 return False
             # this page is search reults that are low information and should not be indexed
             if re.search("\?action=search", url):
