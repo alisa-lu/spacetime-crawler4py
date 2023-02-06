@@ -515,8 +515,8 @@ def is_valid(url):
                 return False
 
         return not re.match(
-            r".*\.(css|js|bmp|gif|jpe?g|ico|java"
-            + r"|png|tiff?|mid|mp2|mp3|mp4|py|m|in"
+            r".*\.(css|js|bmp|gif|jpe?g|ico|java|odc"
+            + r"|png|tiff?|mid|mp2|mp3|mp4|py|m|in|dtd"
             + r"|wav|avi|mov|mpeg|ram|m4v|mkv|ogg|ogv|pdf"
             + r"|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names|ppsx"
             + r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso"
