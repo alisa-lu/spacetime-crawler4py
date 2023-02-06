@@ -479,7 +479,7 @@ def is_valid(url):
                 return False
 
         # These urls lead to DOM structures and are not useful.
-        if re.search("wearablegames.ics.uci.edu/?feed", url):
+        if re.search("wearablegames.ics.uci.edu/\?feed", url):
             return False
 
         # These pages are very short code segments/instructions that are not useful.
@@ -496,16 +496,16 @@ def is_valid(url):
 
         if re.search("sli.ics.uci.edu", url):
             # these pages are barred by a login
-            if re.search("?action=edit", url):
+            if re.search("\?action=edit", url):
                 return False
             # this page is not useful
-            if re.search("?action=refcount", url) or re.search("?action=rss"):
+            if re.search("\?action=refcount", url) or re.search("\?action=rss"):
                 return False
             # this page is search reults that are low information and should not be indexed
-            if re.search("?action=search", url):
+            if re.search("\?action=search", url):
                 return False
             # these contain files that we do not want to crawl through
-            if re.search("?action=upload", url):
+            if re.search("\?action=upload", url):
                 return False
             # these are lecture videos and are no longer existent on the website
             if re.search("/video/", url):
