@@ -201,8 +201,10 @@ def track_ics_subdomains(resp):
     # Determine if page is in a subdomain of ics.uci.edu
     if (re.match(r".*\.ics\.uci\.edu", urlparse(resp.url).netloc) != None):
         # Extract subdomain
-        # subdomain = (urlparse(resp.url).netloc).split(".")[0] # change this
-        subdomain_url = urlparse(resp.url).netloc
+        if urlparse(resp.url).scheme != "":
+            subdomain_url = urlparse(resp.url).scheme + "://" + urlparse(resp.url).netloc
+        else:
+            subdomain_url = urlparse(resp.url).netloc
         
         # Add subdomain url key to dict with value being a set of its pages
         if subdomain_url not in ics_subdomain_page_frequencies:
