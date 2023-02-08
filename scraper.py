@@ -186,8 +186,8 @@ def _write_ics_subdomains_to_file() -> None:
 
     f = open("ics_subdomains.txt", "w")
     for k, v in sorted(ics_subdomain_page_frequencies.items()):
-        f.write(k + " -> " + str(v)+"\nThis subdomain has "+str(len(v))+" unique pages.")
-        f.write('\n\n')
+        f.write(k + ", " + str(v))
+        f.write('\n')
     f.close()
 
 def track_ics_subdomains(resp):
@@ -250,6 +250,10 @@ def _refine_url(resp, link: str) -> str:
     # Do not crawl commits / subpages of gitlab repositories (trap)
     if re.search("gitlab.ics.uci.edu", link):
         link = link.split("-")[0]
+
+    # Make Transformativeplay.ics.uci.edu lower case
+    if re.search("Transformativeplay.ics.uci.edu", link):
+        link = link.lower()
 
     return link
 
