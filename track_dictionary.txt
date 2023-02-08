@@ -7642,8 +7642,6 @@ http://computableplant.ics.uci.edu/papers/2002/BGRS-2002-KAP-abstract.html -> 10
 <-------------->
 http://computableplant.ics.uci.edu/papers/2004/BGRS-2004-KAP-abstract.html -> 131
 <-------------->
-http://computableplant.ics.uci.edu/papers/2006/phyllotaxis05/pathwayV5.nb -> 516
-<-------------->
 http://www.ics.uci.edu/grad/degrees/degree_cs.php -> 305
 <-------------->
 https://www.ics.uci.edu/grad/degrees -> 188
@@ -11886,8 +11884,6 @@ https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=taylor -> 197
 <-------------->
 https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=ttanen -> 185
 <-------------->
-https://Transformativeplay.ics.uci.edu -> 17
-<-------------->
 https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=sudderth -> 175
 <-------------->
 https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=sternh -> 192
@@ -12530,8 +12526,6 @@ https://wics.ics.uci.edu/2nd-post -> 182
 <-------------->
 https://wics.ics.uci.edu/hello-world -> 110
 <-------------->
-https://wics.ics.uci.edu/fall-quarter-update/8320259749_9a05d5b2c8_b -> 94
-<-------------->
 https://wics.ics.uci.edu/wics-spring-quarter-week-6-intuit-tour -> 147
 <-------------->
 https://wics.ics.uci.edu/wics-spring-quarter-week-7-slalom-tour -> 139
@@ -12755,8 +12749,6 @@ https://wics.ics.uci.edu/spring-general-meeting -> 115
 https://wics.ics.uci.edu/mock-interview -> 132
 <-------------->
 https://wics.ics.uci.edu/consulting-versus-industry-pariveda-solutions -> 145
-<-------------->
-https://wics.ics.uci.edu/fall-quarter-2016-week-1-mentorship-mixer/img_2377 -> 94
 <-------------->
 https://wics.ics.uci.edu/author/zeronidan -> 196
 <-------------->
@@ -15784,8 +15776,6 @@ http://www.ics.uci.edu/~jacobson/cs122b/Project/00-Project.html -> 39
 <-------------->
 http://www.ics.uci.edu/~jacobson/cs122b/Project/08-Phase5.html -> 518
 <-------------->
-http://www.ics.uci.edu/~jacobson/cs122b/Project/08-Phase5SuppSW/FabFlixsXML.dtd -> 0
-<-------------->
 http://www.ics.uci.edu/~jacobson/cs122b/Project/07-Phase4.html -> 624
 <-------------->
 http://www.ics.uci.edu/~jacobson/cs122b/Project/06-Phase3.html -> 509
@@ -17730,141 +17720,7 @@ https://www.ics.uci.edu/~wjohnson -> 190
 <-------------->
 http://www.ics.uci.edu/~wjohnson/BIDA/BIDABook.html -> 85
 <-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch1/Ch1WinBUGScode.odc -> 0
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch1/SurvivalDataArmadilloHunting.txt -> 77
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch1/LungCancerData.txt -> 158
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch1/CowAbortionData.txt -> 41
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch1/BrassAlloyZincData.txt -> 19
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch1/ArmadilloHuntingRepeatedMeasuresData.txt -> 65
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch1/ArmadilloDataOneSample.txt -> 5
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch3/Ch3WinBUGScode.odc -> 0
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch3/RcodeCh3.txt -> 47
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch4/Ch4Rcode.txt -> 12
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/RcodeCh5.txt -> 12
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/SampleSizeRcode.txt -> 29
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/RcodeDiasorinExample.txt -> 17
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/Ch5WinBUGScode.odc -> 0
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/SampleSizeProportions.txt -> 17
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/DiasorinModel1.txt -> 25
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch5/DiasorinModel.txt -> 29
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch7/Ch7Rcode.txt -> 17
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch7/FEVdataAge10to19.txt -> 301
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/Ch9WinBUGScodeANOVA.odc -> 0
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/DugongWBcode.txt -> 7
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/DiasorinANOVAModel.txt -> 33
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/FEVWBModel1.txt -> 7
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/Ch9RcodeANOVA.txt -> 98
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/Ch9Rcode.txt -> 22
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/FEVdataAge10to19.txt -> 301
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/BankSalaryData.txt -> 124
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/FullFEVdataExercise9-21.txt -> 1157
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch9/DiasorinData.txt -> 84
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/Ch11WinBUGScode.odc -> 0
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/Ch11Rcode.txt -> 16
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/Ch11SAScode.txt -> 97
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/ArmadilloHuntingRepeatedMeasuresData.txt -> 65
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/FMDData.txt -> 77
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/GrilleDefectsData.txt -> 29
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/WatkinsData.txt -> 73
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch11/FabricFaultData.txt -> 67
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch12/Ch12WinBUGScode.odc -> 0
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch12/Ch12Rcode.txt -> 17
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch12/leukemia.txt -> 15
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch12/LeukemiaData.txt -> 26
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/WinBUGScodeExercise13-20.txt -> 8
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/RcodeKidney.txt -> 36
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/Ch13RcodeLeukemia.txt -> 18
-<-------------->
 http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/BayesPHinSAS.sas -> 88
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/LungCancerData.txt -> 158
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/KidneyData.txt -> 1250
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/AcheDataExercise13-20.txt -> 78
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/OvarianCancerData.txt -> 50
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/LeukemiaData.txt -> 26
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/CowData.txt -> 6
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch13/Larynx-Cancer-Data.txt -> 108
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch14/Ch14WinBUGScode.odc -> 0
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch15/Chap15DPpackage.txt -> 187
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/AppendixC/leukemia.txt -> 13
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/AppendixC/RcodeAppendix.txt -> 37
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/AppendixC/FEVdata.txt -> 301
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/DiagnosticTestsPart2/CodeandDataMedicalTestsPart2.txt -> 51
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/DentalWBcode.txt -> 12
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/DogMixedModel.txt -> 7
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/CSmodel.txt -> 5
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/Ch10WinBUGScode.odc -> 0
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/Ch10Rcode.txt -> 10
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/VentilationData-Exercise-10-15.txt -> 9
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/DentalData.txt -> 64
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/IL1bData.txt -> 95
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/DogDataLinRegVersion.txt -> 37
-<-------------->
-http://www.ics.uci.edu/~wjohnson/BIDA/Ch10/DogData.txt -> 35
 <-------------->
 https://www.ics.uci.edu/~sternh -> 115
 <-------------->
