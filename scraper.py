@@ -412,10 +412,6 @@ def is_valid(url):
         if re.search("\?share=", url):
             return False
 
-        # Do not crawl calendar (potential trap) on WICS website
-        if parsed.netloc == "wics.ics.uci.edu" and parsed.path.startswith("/events"):
-            return False
-
         # For grape.ics.uci.edu links, we have to do some investigating to see if it is useful information or not
         if re.search("grape.ics.uci.edu", url):
             # These webpages are password protected, making them low information
@@ -477,6 +473,20 @@ def is_valid(url):
             # this page is a repetition of a different page
             if url == "http://wics.ics.uci.edu/?page_id=52":
                 return False
+            # the following regex searches find URLs of pages that only have one image on them
+            if re.search("attachment", url):
+                return False
+            if re.search("img_", url):
+                return False
+            if re.search("photo-", url):
+                return False
+            if re.search("_c", url):
+                return False
+            if re.search("_b", url):
+                return False
+            # Do not crawl calendar (potential trap) on WICS website
+            if parsed.netloc == "wics.ics.uci.edu" and parsed.path.startswith("/events"):
+                return False
 
         # These urls lead to DOM structures and are not useful.
         if re.search("wearablegames.ics.uci.edu/\?feed", url):
@@ -514,9 +524,18 @@ def is_valid(url):
             if re.search("sli.ics.uci.edu/AIStats/Postings", url):
                 return False
 
+        # This professor's website has many txt files that contain large datasets with little value to people who are not students in their class
+        if re.search("wjohnson", url) and (url.endswith("txt") or url.endswith("odc")):
+            return False
+
+        # The links that follow this convention lead us to past event pages which all look the same as a different link.
+        # They also often have no information on them.
+        if re.search(r"\/list\/page\/[123456]\/\?tribe_event_display=past&tribe_paged=[123456]", url):
+            return False
+
         return not re.match(
-            r".*\.(css|js|bmp|gif|jpe?g|ico|java|odc"
-            + r"|png|tiff?|mid|mp2|mp3|mp4|py|m|in|dtd"
+            r".*\.(css|js|bmp|gif|jpe?g|ico|java|odc|nb"
+            + r"|png|tiff?|mid|mp2|mp3|mp4|py|m|in|dtd|Z|z"
             + r"|wav|avi|mov|mpeg|ram|m4v|mkv|ogg|ogv|pdf"
             + r"|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names|ppsx"
             + r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso"
