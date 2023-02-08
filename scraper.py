@@ -186,7 +186,7 @@ def _write_ics_subdomains_to_file() -> None:
 
     f = open("ics_subdomains.txt", "w")
     for k, v in sorted(ics_subdomain_page_frequencies.items()):
-        f.write(k + ", " + str(v))
+        f.write(k + ", " + str(len(v)))
         f.write('\n')
     f.close()
 
