@@ -440,8 +440,11 @@ def is_valid(url):
             if re.search("ics.uci.edu/~kay/courses/i42/wildride/data/1000customers.txt", url):
                 return False
 
+        # This professor's website has many txt files that contain large datasets with little value to people who are not students in their class
         # Do not crawl the large, low information text files located at this path
         if re.search("ics.uci.edu/~wjohnson/BIDA/Ch8/", url):
+            return False
+        if re.search("wjohnson", url) and (url.endswith("txt") or url.endswith("odc")):
             return False
 
         # Do not crawl this large, low information page (unrendered HTML)
@@ -523,10 +526,6 @@ def is_valid(url):
             # Do not crawl this large, low information page (crashes from excessive redirects)
             if re.search("sli.ics.uci.edu/AIStats/Postings", url):
                 return False
-
-        # This professor's website has many txt files that contain large datasets with little value to people who are not students in their class
-        if re.search("wjohnson", url) and (url.endswith("txt") or url.endswith("odc")):
-            return False
 
         # The links that follow this convention lead us to past event pages which all look the same as a different link.
         # They also often have no information on them.
