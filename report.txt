@@ -1,0 +1,174 @@
+1) Number of unique pages: 10298
+
+2) Longest page in terms of words: https://cml.ics.uci.edu/category/aiml
+
+3) 50 most common words:
+research -> 44084
+computer -> 33774
+uci -> 28702
+students -> 25129
+information -> 24205
+news -> 23400
+policies -> 21778
+2022 -> 21261
+student -> 21259
+ics -> 20607
+school -> 20177
+bren -> 18907
+science -> 18589
+events -> 18141
+software -> 18132
+will -> 17139
+2021 -> 17029
+graduate -> 16786
+data -> 16456
+2020 -> 16197
+2018 -> 15731
+informatics -> 15163
+contact -> 15083
+2019 -> 14630
+2017 -> 14436
+undergraduate -> 14113
+engineering -> 14010
+ramesh -> 13836
+b -> 13685
+may -> 13664
+faculty -> 13282
+2016 -> 13244
+2015 -> 12987
+september -> 12982
+course -> 12937
+people -> 12750
+computing -> 12389
+projects -> 12014
+design -> 11850
+donald -> 11843
+courses -> 11813
+academic -> 11728
+support -> 11702
+1 -> 11668
+irvine -> 11235
+media -> 11098
+october -> 10845
+university -> 10582
+department -> 10527
+ph -> 10513
+
+4) ICS Subdomains:
+http://archive.ics.uci.edu, 5
+http://asterix.ics.uci.edu, 3
+http://cbcl.ics.uci.edu, 10
+http://cert.ics.uci.edu, 3
+http://cml.ics.uci.edu, 3
+http://code.ics.uci.edu, 1
+http://computableplant.ics.uci.edu, 29
+http://cradl.ics.uci.edu, 10
+http://dejavu.ics.uci.edu, 1
+http://duttgroup.ics.uci.edu, 1
+http://esl.ics.uci.edu, 1
+http://evoke.ics.uci.edu, 1
+http://flamingo.ics.uci.edu, 9
+http://fr.ics.uci.edu, 3
+http://frost.ics.uci.edu, 1
+http://futurehealth.ics.uci.edu, 72
+http://graphics.ics.uci.edu, 3
+http://graphmod.ics.uci.edu, 1
+http://hai.ics.uci.edu, 2
+http://hobbes.ics.uci.edu, 1
+http://i-sensorium.ics.uci.edu, 1
+http://ieee.ics.uci.edu, 1
+http://informatics.ics.uci.edu, 1
+http://ipubmed.ics.uci.edu, 1
+http://isg.ics.uci.edu, 1
+http://keys.ics.uci.edu, 1
+http://luci.ics.uci.edu, 1
+http://mhcid.ics.uci.edu, 1
+http://mondego.ics.uci.edu, 3
+http://motifmap-rna.ics.uci.edu, 2
+http://motifmap.ics.uci.edu, 1
+http://ngs.ics.uci.edu, 8
+http://perennialpolycultures.ics.uci.edu, 1
+http://plrg.ics.uci.edu, 16
+http://psearch.ics.uci.edu, 1
+http://radicle.ics.uci.edu, 1
+http://riscit.ics.uci.edu, 1
+http://sdcl.ics.uci.edu, 178
+http://seal.ics.uci.edu, 5
+http://sherlock.ics.uci.edu, 7
+http://sli.ics.uci.edu, 119
+http://sourcerer.ics.uci.edu, 1
+http://stairs.ics.uci.edu, 4
+http://tastier.ics.uci.edu, 1
+http://tutors.ics.uci.edu, 40
+http://vision.ics.uci.edu, 194
+http://wics.ics.uci.edu, 6
+http://www-db.ics.uci.edu, 10
+http://www.cert.ics.uci.edu, 1
+http://www.graphics.ics.uci.edu, 1
+http://www.ics.uci.edu, 1209
+http://www.informatics.ics.uci.edu, 1
+http://xtune.ics.uci.edu, 6
+https://accessibility.ics.uci.edu, 1
+https://acoi.ics.uci.edu, 56
+https://aiclub.ics.uci.edu, 1
+https://archive.ics.uci.edu, 1
+https://asterix.ics.uci.edu, 3
+https://cbcl.ics.uci.edu, 11
+https://chenli.ics.uci.edu, 9
+https://cml.ics.uci.edu, 176
+https://code.ics.uci.edu, 12
+https://cradl.ics.uci.edu, 7
+https://create.ics.uci.edu, 7
+https://cwicsocal18.ics.uci.edu, 10
+https://cyberclub.ics.uci.edu, 15
+https://dgillen.ics.uci.edu, 20
+https://duttgroup.ics.uci.edu, 60
+https://emj.ics.uci.edu, 34
+https://evoke.ics.uci.edu, 4
+https://futurehealth.ics.uci.edu, 31
+https://grape.ics.uci.edu, 139
+https://hack.ics.uci.edu, 2
+https://hai.ics.uci.edu, 1
+https://helpdesk.ics.uci.edu, 1
+https://hpi.ics.uci.edu, 3
+https://hub.ics.uci.edu, 2
+https://iasl.ics.uci.edu, 20
+https://industryshowcase.ics.uci.edu, 20
+https://informatics.mt-live.ics.uci.edu, 1
+https://intranet.ics.uci.edu, 3
+https://isg.ics.uci.edu, 95
+https://jgarcia.ics.uci.edu, 22
+https://luci.ics.uci.edu, 3
+https://malek.ics.uci.edu, 1
+https://mcs.ics.uci.edu, 76
+https://mdogucu.ics.uci.edu, 1
+https://mds.ics.uci.edu, 19
+https://mhcid.ics.uci.edu, 13
+https://mse.ics.uci.edu, 3
+https://mswe.ics.uci.edu, 11
+https://mt-live.ics.uci.edu, 1
+https://nalini.ics.uci.edu, 6
+https://ngs.ics.uci.edu, 1947
+https://onboarding.ics.uci.edu, 2
+https://pastebin.ics.uci.edu, 1
+https://pgadmin.ics.uci.edu, 2
+https://phpmyadmin.ics.uci.edu, 1
+https://redmiles.ics.uci.edu, 4
+https://rstudio-hub.ics.uci.edu, 1
+https://seal.ics.uci.edu, 1
+https://sli.ics.uci.edu, 186
+https://speedtest.ics.uci.edu, 1
+https://statconsulting.ics.uci.edu, 4
+https://student-council.ics.uci.edu, 18
+https://studentcouncil.ics.uci.edu, 19
+https://support.ics.uci.edu, 2
+https://swiki.ics.uci.edu, 20
+https://tad.ics.uci.edu, 1
+https://tippersweb.ics.uci.edu, 3
+https://transformativeplay.ics.uci.edu, 56
+https://ugradforms.ics.uci.edu, 1
+https://unite.ics.uci.edu, 10
+https://wearablegames.ics.uci.edu, 5
+https://wics.ics.uci.edu, 337
+https://wiki.ics.uci.edu, 2
+https://www.ics.uci.edu, 1589
