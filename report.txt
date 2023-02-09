@@ -1,6 +1,7 @@
 1) Number of unique pages: 10298
 
 2) Longest page in terms of words: https://cml.ics.uci.edu/category/aiml
+   at 17433 words
 
 3) 50 most common words:
 research -> 44084
@@ -31,7 +32,6 @@ contact -> 15083
 undergraduate -> 14113
 engineering -> 14010
 ramesh -> 13836
-b -> 13685
 may -> 13664
 faculty -> 13282
 2016 -> 13244
@@ -52,7 +52,8 @@ media -> 11098
 october -> 10845
 university -> 10582
 department -> 10527
-ph -> 10513
+june -> 10455
+new -> 10376
 
 4) ICS Subdomains:
 http://archive.ics.uci.edu, 5
